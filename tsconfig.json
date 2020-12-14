@@ -1,12 +1,11 @@
 {
   "compilerOptions": {
-    "module": "es6",
-    "target": "es6",
-    "lib": ["es2016"],
-    "strict": true
-  },
-  "exclude": [
-    "node_modules",
-    "inheritance-diagram-generator"
-  ]
+    "module": "None",
+    "lib": ["es2019"],
+    "strict": true,
+    "rootDir": "src",
+    "outDir": "sketch-internal-types.sketchplugin/Contents/Sketch",
+    "skipLibCheck": true,
+    "types": ["cocoascript-types"]
+  }
 }

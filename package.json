@@ -6,13 +6,22 @@
     "url": "https://github.com/pravdomil/sketch.d.ts.git"
   },
   "author": "pravdomil.com",
+  "types": "./types/index.d.ts",
   "bugs": {
     "url": "https://github.com/pravdomil/Sketch.d.ts/issues"
   },
   "scripts": {
-    "test": "tsc -p . --pretty --noEmit && echo 'Test passed.'"
+    "build": "tsc --pretty",
+    "postbuild": "npm run patchOutput",
+    "patchOutput": "perl -i -p -e 's/exports.__esModule = true;//g;' sketch-internal-types.sketchplugin/Contents/Sketch/*.js",
+    "generate": "sketchtool run ./sketch-internal-types.sketchplugin generate"
   },
   "devDependencies": {
-    "typescript": "^2.6.2"
+    "@types/node": "^14.14.13",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.1.3"
+  },
+  "dependencies": {
+    "cocoascript-types": "^0.0.8"
   }
 }
