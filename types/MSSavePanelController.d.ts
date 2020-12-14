@@ -71,7 +71,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"SCKUser", ivar=_userWithProjects, attributes=(retain,nonatomic) */
     	userWithProjects(): SCKUser;
     /* typeEncoding=@28@0:8@16c24 */
-    	static saveSheetWithDocumentName_allowDeletion(...args: any[]): any;
+    	saveSheetWithDocumentName_allowDeletion(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v24@0:8@16 */

@@ -11,7 +11,7 @@ declare namespace sketchInternal {
     /* typeEncoding=#, ivar=(null), attributes=(assign,readonly) */
     	superclass(): any;
     /* typeEncoding=@16@0:8 */
-    	static stylePartPasteboardType(...args: any[]): any;
+    	stylePartPasteboardType(...args: any[]): any;
     /* typeEncoding=v40@0:8@16@24Q32 */
     	addSVGFilterWithParent_exporter_index(...args: any[]): any;
     /* typeEncoding=Q24@0:8@16 */

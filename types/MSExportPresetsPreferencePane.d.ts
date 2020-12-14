@@ -43,15 +43,15 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSTableView", ivar=_tableView, attributes=(assign,nonatomic,weak) */
     	tableView(): cocoascript.NSTableView;
     /* typeEncoding=c24@0:8@16 */
-    	static exportPresetWithNameExists(...args: any[]): any;
+    	exportPresetWithNameExists(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static identifier(...args: any[]): any;
+    	identifier(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static localizedNewExportPresetName(...args: any[]): any;
+    	localizedNewExportPresetName(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static title(...args: any[]): any;
+    	title(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static toolbarIcon(...args: any[]): any;
+    	toolbarIcon(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

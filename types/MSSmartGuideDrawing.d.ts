@@ -3,9 +3,9 @@
 declare namespace sketchInternal {
   interface MSSmartGuideDrawing extends NSObject {
     /* typeEncoding=v16@0:8 */
-    	static resetSmartGuideColor(): void;
+    	resetSmartGuideColor(): void;
     /* typeEncoding=@16@0:8 */
-    	static smartGuideColor(...args: any[]): any;
+    	smartGuideColor(...args: any[]): any;
   }
 }
 

@@ -3,9 +3,9 @@
 declare namespace sketchInternal {
   interface MSForeignTextStyle extends _MSForeignTextStyle {
     /* typeEncoding=Q16@0:8 */
-    	static containerType(...args: any[]): any;
+    	containerType(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static foreignObjectCollectionInDocument(...args: any[]): any;
+    	foreignObjectCollectionInDocument(...args: any[]): any;
     /* typeEncoding=v24@0:8@16 */
     	addToDocument(...args: any[]): any;
     /* typeEncoding=v16@0:8 */

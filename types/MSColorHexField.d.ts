@@ -3,7 +3,7 @@
 declare namespace sketchInternal {
   interface MSColorHexField extends NSTextField {
     /* typeEncoding=#16@0:8 */
-    	static cellClass(...args: any[]): any;
+    	cellClass(...args: any[]): any;
     /* typeEncoding={CGSize=dd}16@0:8 */
     	intrinsicContentSize(...args: any[]): any;
   }

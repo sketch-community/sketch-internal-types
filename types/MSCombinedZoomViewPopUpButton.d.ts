@@ -3,9 +3,9 @@
 declare namespace sketchInternal {
   interface MSCombinedZoomViewPopUpButton extends NSPopUpButton {
     /* typeEncoding=#16@0:8 */
-    	static cellClass(...args: any[]): any;
+    	cellClass(...args: any[]): any;
     /* typeEncoding=v24@0:8#16 */
-    	static setCellClass(...args: any[]): any;
+    	setCellClass(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
     	initWithCoder(...args: any[]): any;
     /* typeEncoding=@48@0:8{CGRect={CGPoint=dd}{CGSize=dd}}16 */

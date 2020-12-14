@@ -7,9 +7,9 @@ declare namespace sketchInternal {
     /* typeEncoding=d, ivar=_opacity, attributes=(assign,nonatomic) */
     	opacity(): number;
     /* typeEncoding=c16@0:8 */
-    	static allowsFaulting(...args: any[]): any;
+    	allowsFaulting(...args: any[]): any;
     /* typeEncoding=#16@0:8 */
-    	static immutableClass(...args: any[]): any;
+    	immutableClass(...args: any[]): any;
     /* typeEncoding=q16@0:8 */
     	blendMode(...args: any[]): any;
     /* typeEncoding=@28@0:8@16c24 */

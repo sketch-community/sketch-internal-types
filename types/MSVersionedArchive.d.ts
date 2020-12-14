@@ -11,13 +11,13 @@ declare namespace sketchInternal {
     /* typeEncoding=Q, ivar=_version, attributes=(assign,nonatomic) */
     	version(): number;
     /* typeEncoding=@40@0:8@16@24q32 */
-    	static URLForArchiveWithName_extension_version(...args: any[]): any;
+    	URLForArchiveWithName_extension_version(...args: any[]): any;
     /* typeEncoding=@40@0:8@16@24q32 */
-    	static globalArchiveWithName_extension_version(...args: any[]): any;
+    	globalArchiveWithName_extension_version(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static globalDirectory(...args: any[]): any;
+    	globalDirectory(...args: any[]): any;
     /* typeEncoding=@40@0:8@16@24Q32 */
-    	static versionedURLWithBase_extension_version(...args: any[]): any;
+    	versionedURLWithBase_extension_version(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

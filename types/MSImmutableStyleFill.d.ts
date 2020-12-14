@@ -7,9 +7,9 @@ declare namespace sketchInternal {
     /* typeEncoding=c, ivar=(null), attributes=(assign,nonatomic,readonly) */
     	hasOpacity(): boolean;
     /* typeEncoding=@16@0:8 */
-    	static defaultName(...args: any[]): any;
+    	defaultName(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static stylePartPasteboardType(...args: any[]): any;
+    	stylePartPasteboardType(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
     	NSImage(...args: any[]): any;
     /* typeEncoding=@40@0:8@16@24q32 */

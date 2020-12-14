@@ -11,7 +11,7 @@ declare namespace sketchInternal {
     /* typeEncoding=q, ivar=_intendedDPI, attributes=(assign,nonatomic) */
     	intendedDPI(): number;
     /* typeEncoding=#16@0:8 */
-    	static mutableClass(...args: any[]): any;
+    	mutableClass(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding={CGRect={CGPoint=dd}{CGSize=dd}}16@0:8 */

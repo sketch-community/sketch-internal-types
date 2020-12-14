@@ -23,9 +23,9 @@ declare namespace sketchInternal {
     /* typeEncoding=#, ivar=(null), attributes=(assign,readonly) */
     	superclass(): any;
     /* typeEncoding=@32@0:8@16@24 */
-    	static decodeReferenceFromJSONZipArchive_withReference(...args: any[]): any;
+    	decodeReferenceFromJSONZipArchive_withReference(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static errorImage(...args: any[]): any;
+    	errorImage(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=^{CGImage=}48@0:8Q16^{CGColorSpace=}24@32@40 */

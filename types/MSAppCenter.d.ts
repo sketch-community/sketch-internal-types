@@ -35,59 +35,59 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSMutableArray", ivar=_startedServiceNames, attributes=(retain,nonatomic) */
     	startedServiceNames(): cocoascript.NSMutableArray;
     /* typeEncoding=v16@0:8 */
-    	static configure(): void;
+    	configure(): void;
     /* typeEncoding=v24@0:8@16 */
-    	static configureWithAppSecret(...args: any[]): any;
+    	configureWithAppSecret(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static groupId(...args: any[]): any;
+    	groupId(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static installId(...args: any[]): any;
+    	installId(...args: any[]): any;
     /* typeEncoding=c16@0:8 */
-    	static isAppDelegateForwarderEnabled(...args: any[]): any;
+    	isAppDelegateForwarderEnabled(...args: any[]): any;
     /* typeEncoding=c16@0:8 */
-    	static isConfigured(...args: any[]): any;
+    	isConfigured(...args: any[]): any;
     /* typeEncoding=c16@0:8 */
-    	static isDebuggerAttached(...args: any[]): any;
+    	isDebuggerAttached(...args: any[]): any;
     /* typeEncoding=c16@0:8 */
-    	static isEnabled(...args: any[]): any;
+    	isEnabled(...args: any[]): any;
     /* typeEncoding=c16@0:8 */
-    	static isRunningInAppCenterTestCloud(...args: any[]): any;
+    	isRunningInAppCenterTestCloud(...args: any[]): any;
     /* typeEncoding=Q16@0:8 */
-    	static logLevel(...args: any[]): any;
+    	logLevel(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static logTag(...args: any[]): any;
+    	logTag(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
-    	static resetSharedInstance(): void;
+    	resetSharedInstance(): void;
     /* typeEncoding=@16@0:8 */
-    	static sdkVersion(...args: any[]): any;
+    	sdkVersion(...args: any[]): any;
     /* typeEncoding=v24@0:8@16 */
-    	static setCountryCode(...args: any[]): any;
+    	setCountryCode(...args: any[]): any;
     /* typeEncoding=v24@0:8@16 */
-    	static setCustomProperties(...args: any[]): any;
+    	setCustomProperties(...args: any[]): any;
     /* typeEncoding=v20@0:8c16 */
-    	static setEnabled(...args: any[]): any;
+    	setEnabled(...args: any[]): any;
     /* typeEncoding=v24@0:8@?16 */
-    	static setLogHandler(...args: any[]): any;
+    	setLogHandler(...args: any[]): any;
     /* typeEncoding=v24@0:8Q16 */
-    	static setLogLevel(...args: any[]): any;
+    	setLogLevel(...args: any[]): any;
     /* typeEncoding=v24@0:8@16 */
-    	static setLogUrl(...args: any[]): any;
+    	setLogUrl(...args: any[]): any;
     /* typeEncoding=v32@0:8q16@?24 */
-    	static setMaxStorageSize_completionHandler(...args: any[]): any;
+    	setMaxStorageSize_completionHandler(...args: any[]): any;
     /* typeEncoding=v24@0:8@16 */
-    	static setUserId(...args: any[]): any;
+    	setUserId(...args: any[]): any;
     /* typeEncoding=v24@0:8@16 */
-    	static setWrapperSdk(...args: any[]): any;
+    	setWrapperSdk(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static sharedInstance(...args: any[]): any;
+    	sharedInstance(...args: any[]): any;
     /* typeEncoding=v32@0:8@16@24 */
-    	static start_withServices(...args: any[]): any;
+    	start_withServices(...args: any[]): any;
     /* typeEncoding=v24@0:8@16 */
-    	static startFromLibraryWithServices(...args: any[]): any;
+    	startFromLibraryWithServices(...args: any[]): any;
     /* typeEncoding=v24@0:8#16 */
-    	static startService(...args: any[]): any;
+    	startService(...args: any[]): any;
     /* typeEncoding=v24@0:8@16 */
-    	static startWithServices(...args: any[]): any;
+    	startWithServices(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

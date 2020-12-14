@@ -9,7 +9,7 @@ declare namespace sketchInternal {
     /* typeEncoding={CGSize=dd}, ivar=(null), attributes=(assign,nonatomic,readonly) */
     	targetSizeForReduction(): CGSize;
     /* typeEncoding=Q16@0:8 */
-    	static traits(...args: any[]): any;
+    	traits(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
     	NSImage(...args: any[]): any;
     /* typeEncoding=v40@0:8@16@24@32 */

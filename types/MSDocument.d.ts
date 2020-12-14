@@ -169,29 +169,29 @@ declare namespace sketchInternal {
     /* typeEncoding=d, ivar=(null), attributes=(assign,nonatomic) */
     	zoomValue(): number;
     /* typeEncoding=c16@0:8 */
-    	static autosavesInPlace(...args: any[]): any;
+    	autosavesInPlace(...args: any[]): any;
     /* typeEncoding=v20@0:8c16 */
-    	static cleanCloudDirectoriesRemovingAllDocuments(...args: any[]): any;
+    	cleanCloudDirectoriesRemovingAllDocuments(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static currentDocument(...args: any[]): any;
+    	currentDocument(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static didCleanCloudDirectoriesNotification(...args: any[]): any;
+    	didCleanCloudDirectoriesNotification(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static documentWithCloudShareID(...args: any[]): any;
+    	documentWithCloudShareID(...args: any[]): any;
     /* typeEncoding=c24@0:8@16 */
-    	static isNativeType(...args: any[]): any;
+    	isNativeType(...args: any[]): any;
     /* typeEncoding=@36@0:8@16@24c32 */
-    	static localObjectForObjectReference_documentData_isForeign(...args: any[]): any;
+    	localObjectForObjectReference_documentData_isForeign(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static numberOfFailedUploadsFileURLFromDocumentURL(...args: any[]): any;
+    	numberOfFailedUploadsFileURLFromDocumentURL(...args: any[]): any;
     /* typeEncoding=q24@0:8@16 */
-    	static numberOfFailedUploadsForDocumentURL(...args: any[]): any;
+    	numberOfFailedUploadsForDocumentURL(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static readableTypes(...args: any[]): any;
+    	readableTypes(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static windowForSheet(...args: any[]): any;
+    	windowForSheet(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static writableTypes(...args: any[]): any;
+    	writableTypes(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

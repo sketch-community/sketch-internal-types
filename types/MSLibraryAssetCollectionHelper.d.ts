@@ -21,13 +21,13 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSIndexSet", ivar=_updatedIndexes, attributes=(retain,nonatomic) */
     	updatedIndexes(): cocoascript.NSIndexSet;
     /* typeEncoding=v40@0:8Q16@24@32 */
-    	static gatherSetForType_fromCollection_andWriteToURL(...args: any[]): any;
+    	gatherSetForType_fromCollection_andWriteToURL(...args: any[]): any;
     /* typeEncoding=@32@0:8@16@24 */
-    	static hashableRepresentationForAsset_withName(...args: any[]): any;
+    	hashableRepresentationForAsset_withName(...args: any[]): any;
     /* typeEncoding=@40@0:8@16Q24@32 */
-    	static indicesForAssetsInCollection_ofType_notContainedIn(...args: any[]): any;
+    	indicesForAssetsInCollection_ofType_notContainedIn(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static readSetFromURL(...args: any[]): any;
+    	readSetFromURL(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

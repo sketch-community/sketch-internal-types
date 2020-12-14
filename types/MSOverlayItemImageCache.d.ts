@@ -11,7 +11,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@?, ivar=_createImageBlock, attributes=(assign,nonatomic,readonly) */
     	createImageBlock(): any;
     /* typeEncoding=@24@0:8@?16 */
-    	static cacheWithCreateImageBlock(...args: any[]): any;
+    	cacheWithCreateImageBlock(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=d16@0:8 */

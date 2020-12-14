@@ -39,11 +39,11 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSSet", ivar=(null), attributes=(assign,nonatomic,readonly) */
     	yAxisRoots(): cocoascript.NSSet;
     /* typeEncoding=@80@0:8{CGPoint=dd}16{CGPoint=dd}32{CGPoint=dd}48{CGPoint=dd}64 */
-    	static cubicSegmentWithEndPoint1_endPoint2_controlPoint1_controlPoint2(...args: any[]): any;
+    	cubicSegmentWithEndPoint1_endPoint2_controlPoint1_controlPoint2(...args: any[]): any;
     /* typeEncoding=@48@0:8{CGPoint=dd}16{CGPoint=dd}32 */
-    	static lineSegmentWithEndPoint1_endPoint2(...args: any[]): any;
+    	lineSegmentWithEndPoint1_endPoint2(...args: any[]): any;
     /* typeEncoding=@64@0:8{CGPoint=dd}16{CGPoint=dd}32{CGPoint=dd}48 */
-    	static quadraticSegmentWithEndPoint1_endPoint2_controlPoint(...args: any[]): any;
+    	quadraticSegmentWithEndPoint1_endPoint2_controlPoint(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v32@0:8^{CGPath=}16@24 */

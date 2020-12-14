@@ -15,7 +15,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"MSUpDownController", ivar=(null), attributes=(retain,dynamic,nonatomic) */
     	upDownController(): MSUpDownController;
     /* typeEncoding=#16@0:8 */
-    	static cellClass(...args: any[]): any;
+    	cellClass(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v16@0:8 */

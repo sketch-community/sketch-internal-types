@@ -9,11 +9,11 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSString", ivar=_title, attributes=(retain,nonatomic) */
     	title(): cocoascript.NSString;
     /* typeEncoding=@24@0:8@16 */
-    	static itemWithTitle(...args: any[]): any;
+    	itemWithTitle(...args: any[]): any;
     /* typeEncoding=@32@0:8@16q24 */
-    	static itemWithTitle_tag(...args: any[]): any;
+    	itemWithTitle_tag(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static separator(...args: any[]): any;
+    	separator(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=c16@0:8 */

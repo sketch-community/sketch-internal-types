@@ -9,15 +9,15 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSMutableArray", ivar=_userIdHistory, attributes=(retain,nonatomic) */
     	userIdHistory(): cocoascript.NSMutableArray;
     /* typeEncoding=c24@0:8@16 */
-    	static isUserIdValidForAppCenter(...args: any[]): any;
+    	isUserIdValidForAppCenter(...args: any[]): any;
     /* typeEncoding=c24@0:8@16 */
-    	static isUserIdValidForOneCollector(...args: any[]): any;
+    	isUserIdValidForOneCollector(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static prefixedUserIdFromUserId(...args: any[]): any;
+    	prefixedUserIdFromUserId(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
-    	static resetSharedInstance(): void;
+    	resetSharedInstance(): void;
     /* typeEncoding=@16@0:8 */
-    	static sharedInstance(...args: any[]): any;
+    	sharedInstance(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v24@0:8@16 */

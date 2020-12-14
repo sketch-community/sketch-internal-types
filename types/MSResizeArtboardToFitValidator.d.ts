@@ -3,7 +3,7 @@
 declare namespace sketchInternal {
   interface MSResizeArtboardToFitValidator extends NSObject {
     /* typeEncoding=c24@0:8@16 */
-    	static isValidForSelectedLayers(...args: any[]): any;
+    	isValidForSelectedLayers(...args: any[]): any;
   }
 }
 

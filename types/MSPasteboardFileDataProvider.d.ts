@@ -5,15 +5,15 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSArray", ivar=_layers, attributes=(copy,nonatomic) */
     	layers(): cocoascript.NSArray;
     /* typeEncoding=v32@0:8@16@24 */
-    	static addLayers_toPasteboard(...args: any[]): any;
+    	addLayers_toPasteboard(...args: any[]): any;
     /* typeEncoding=@32@0:8@16@24 */
-    	static buildExportRequestsForLayers_inFolder(...args: any[]): any;
+    	buildExportRequestsForLayers_inFolder(...args: any[]): any;
     /* typeEncoding=@32@0:8@16@24 */
-    	static exportLayers_toFolder(...args: any[]): any;
+    	exportLayers_toFolder(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static extensionForExportingLayer(...args: any[]): any;
+    	extensionForExportingLayer(...args: any[]): any;
     /* typeEncoding=@40@0:8@16@24@32 */
-    	static uniqueExportURLForLayer_inFolder_comparingTo(...args: any[]): any;
+    	uniqueExportURLForLayer_inFolder_comparingTo(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

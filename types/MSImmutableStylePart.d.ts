@@ -5,9 +5,9 @@ declare namespace sketchInternal {
     /* typeEncoding=c, ivar=(null), attributes=(assign,nonatomic,readonly) */
     	isEnabled(): boolean;
     /* typeEncoding=@24@0:8@16 */
-    	static readableTypesForPasteboard(...args: any[]): any;
+    	readableTypesForPasteboard(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static stylePartPasteboardType(...args: any[]): any;
+    	stylePartPasteboardType(...args: any[]): any;
     /* typeEncoding=@32@0:8@16@24 */
     	initWithPasteboardPropertyList_ofType(...args: any[]): any;
     /* typeEncoding=v24@0:8@16 */

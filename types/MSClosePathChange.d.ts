@@ -3,7 +3,7 @@
 declare namespace sketchInternal {
   interface MSClosePathChange extends MSShapeChange {
     /* typeEncoding=@16@0:8 */
-    	static toggleClosePath(...args: any[]): any;
+    	toggleClosePath(...args: any[]): any;
     /* typeEncoding=v24@0:8@16 */
     	closePathWithCurveIfNecessary(...args: any[]): any;
     /* typeEncoding=v24@0:8@16 */

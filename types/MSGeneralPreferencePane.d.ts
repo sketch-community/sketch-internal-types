@@ -21,11 +21,11 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSView", ivar=_mainContainerView, attributes=(assign,nonatomic,weak) */
     	mainContainerView(): cocoascript.NSView;
     /* typeEncoding=@16@0:8 */
-    	static identifier(...args: any[]): any;
+    	identifier(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static title(...args: any[]): any;
+    	title(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static toolbarIcon(...args: any[]): any;
+    	toolbarIcon(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v24@0:8@16 */

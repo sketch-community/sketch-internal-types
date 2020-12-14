@@ -3,9 +3,9 @@
 declare namespace sketchInternal {
   interface MSPLCrashReporter extends NSObject {
     /* typeEncoding=v16@0:8 */
-    	static initialize(): void;
+    	initialize(): void;
     /* typeEncoding=@16@0:8 */
-    	static sharedReporter(...args: any[]): any;
+    	sharedReporter(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

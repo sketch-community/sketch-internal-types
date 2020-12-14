@@ -45,11 +45,11 @@ declare namespace sketchInternal {
     /* typeEncoding=@"MSAssetLibraryTableView", ivar=_tableView, attributes=(assign,nonatomic,weak) */
     	tableView(): MSAssetLibraryTableView;
     /* typeEncoding=@16@0:8 */
-    	static identifier(...args: any[]): any;
+    	identifier(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static title(...args: any[]): any;
+    	title(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static toolbarIcon(...args: any[]): any;
+    	toolbarIcon(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=c24@0:8@16 */

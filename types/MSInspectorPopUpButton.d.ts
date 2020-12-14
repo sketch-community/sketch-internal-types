@@ -3,7 +3,7 @@
 declare namespace sketchInternal {
   interface MSInspectorPopUpButton extends NSPopUpButton {
     /* typeEncoding=#16@0:8 */
-    	static cellClass(...args: any[]): any;
+    	cellClass(...args: any[]): any;
     /* typeEncoding={NSEdgeInsets=dddd}16@0:8 */
     	alignmentRectInsets(...args: any[]): any;
     /* typeEncoding={CGSize=dd}16@0:8 */

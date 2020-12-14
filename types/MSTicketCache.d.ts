@@ -5,7 +5,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSMutableDictionary", ivar=_tickets, attributes=(retain,nonatomic) */
     	tickets(): cocoascript.NSMutableDictionary;
     /* typeEncoding=@16@0:8 */
-    	static sharedInstance(...args: any[]): any;
+    	sharedInstance(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v16@0:8 */

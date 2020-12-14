@@ -31,23 +31,23 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSString", ivar=(null), attributes=(retain,nonatomic) */
     	swatchID(): cocoascript.NSString;
     /* typeEncoding=@16@0:8 */
-    	static blackColor(...args: any[]): any;
+    	blackColor(...args: any[]): any;
     /* typeEncoding=@32@0:8@16d24 */
-    	static colorWithHex_alpha(...args: any[]): any;
+    	colorWithHex_alpha(...args: any[]): any;
     /* typeEncoding=@48@0:8d16d24d32d40 */
-    	static colorWithHue_saturation_brightness_alpha(...args: any[]): any;
+    	colorWithHue_saturation_brightness_alpha(...args: any[]): any;
     /* typeEncoding=@48@0:8d16d24d32d40 */
-    	static colorWithHue_saturation_lightness_alpha(...args: any[]): any;
+    	colorWithHue_saturation_lightness_alpha(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static colorWithNSColor(...args: any[]): any;
+    	colorWithNSColor(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static colorWithRGBADictionary(...args: any[]): any;
+    	colorWithRGBADictionary(...args: any[]): any;
     /* typeEncoding=@48@0:8d16d24d32d40 */
-    	static colorWithRed_green_blue_alpha(...args: any[]): any;
+    	colorWithRed_green_blue_alpha(...args: any[]): any;
     /* typeEncoding=@40@0:8q16q24q32 */
-    	static rgbColorRed_green_blue(...args: any[]): any;
+    	rgbColorRed_green_blue(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static whiteColor(...args: any[]): any;
+    	whiteColor(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
     	CSSAttributeString(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */

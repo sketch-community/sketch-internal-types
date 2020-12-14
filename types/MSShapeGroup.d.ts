@@ -45,15 +45,15 @@ declare namespace sketchInternal {
     /* typeEncoding=#, ivar=(null), attributes=(assign,readonly) */
     	superclass(): any;
     /* typeEncoding=v32@0:8@16@24 */
-    	static applyStyleForBooleanOperationFrom_toShapeGroup(...args: any[]): any;
+    	applyStyleForBooleanOperationFrom_toShapeGroup(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static groupWithLayers(...args: any[]): any;
+    	groupWithLayers(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static layerWithPath(...args: any[]): any;
+    	layerWithPath(...args: any[]): any;
     /* typeEncoding=@32@0:8q16@24 */
-    	static shapeWithBooleanOperation_onLayers(...args: any[]): any;
+    	shapeWithBooleanOperation_onLayers(...args: any[]): any;
     /* typeEncoding=@48@0:8{CGRect={CGPoint=dd}{CGSize=dd}}16 */
-    	static shapeWithRect(...args: any[]): any;
+    	shapeWithRect(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
     	CSSAttributeString(...args: any[]): any;
     /* typeEncoding=c24@0:8@16 */

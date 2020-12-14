@@ -9,9 +9,9 @@ declare namespace sketchInternal {
     /* typeEncoding=Q, ivar=_startType, attributes=(assign,nonatomic,readonly) */
     	startType(): number;
     /* typeEncoding=@24@0:8@16 */
-    	static segmentWithBezierSegment(...args: any[]): any;
+    	segmentWithBezierSegment(...args: any[]): any;
     /* typeEncoding=@40@0:8@16Q24Q32 */
-    	static segmentWithBezierSegment_startType_endType(...args: any[]): any;
+    	segmentWithBezierSegment_startType_endType(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

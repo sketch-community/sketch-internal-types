@@ -9,9 +9,9 @@ declare namespace sketchInternal {
     /* typeEncoding=c, ivar=_requiresLocalSubmenu, attributes=(assign,nonatomic) */
     	requiresLocalSubmenu(): boolean;
     /* typeEncoding=@?24@0:8@16 */
-    	static filterForReplacingSymbolInstances(...args: any[]): any;
+    	filterForReplacingSymbolInstances(...args: any[]): any;
     /* typeEncoding=@?36@0:8@16@24c32 */
-    	static symbolFilterForOverride_inDocument_restrictToMatchingSize(...args: any[]): any;
+    	symbolFilterForOverride_inDocument_restrictToMatchingSize(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v56@0:8@16@24:32@40@48 */

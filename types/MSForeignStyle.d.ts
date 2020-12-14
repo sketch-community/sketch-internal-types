@@ -5,11 +5,11 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSString", ivar=(null), attributes=(assign,nonatomic,readonly) */
     	currentObjectID_MSSharedObjectPasting(): cocoascript.NSString;
     /* typeEncoding=Q16@0:8 */
-    	static containerType(...args: any[]): any;
+    	containerType(...args: any[]): any;
     /* typeEncoding=@32@0:8@16@24 */
-    	static masterFromDocument_withID(...args: any[]): any;
+    	masterFromDocument_withID(...args: any[]): any;
     /* typeEncoding=@40@0:8@16@24@32 */
-    	static symbolPrivateStyleWithID_forForeignSymbol_fromDocument(...args: any[]): any;
+    	symbolPrivateStyleWithID_forForeignSymbol_fromDocument(...args: any[]): any;
     /* typeEncoding=v24@0:8@16 */
     	addOrReplaceInDocument(...args: any[]): any;
     /* typeEncoding=v24@0:8@16 */

@@ -19,9 +19,9 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSArray", ivar=_segments, attributes=(copy,nonatomic,readonly) */
     	segments(): cocoascript.NSArray;
     /* typeEncoding=@48@0:8{CGPoint=dd}16d32Q40 */
-    	static contourWithPolygonAtPoint_radius_sides(...args: any[]): any;
+    	contourWithPolygonAtPoint_radius_sides(...args: any[]): any;
     /* typeEncoding=@48@0:8{CGRect={CGPoint=dd}{CGSize=dd}}16 */
-    	static contourWithRect(...args: any[]): any;
+    	contourWithRect(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=c16@0:8 */

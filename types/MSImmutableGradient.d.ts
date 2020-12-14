@@ -5,7 +5,7 @@ declare namespace sketchInternal {
     /* typeEncoding=c, ivar=(null), attributes=(assign,nonatomic,readonly) */
     	hasOpacity(): boolean;
     /* typeEncoding=@32@0:8@16@24 */
-    	static gradientFromStops_colorSpace(...args: any[]): any;
+    	gradientFromStops_colorSpace(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
     	NSGradientWithColorSpace(...args: any[]): any;
     /* typeEncoding=@64@0:8{CGRect={CGPoint=dd}{CGSize=dd}}16@48@56 */

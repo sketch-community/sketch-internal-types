@@ -9,7 +9,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSString", ivar=_wrappedScript, attributes=(copy,nonatomic) */
     	wrappedScript(): cocoascript.NSString;
     /* typeEncoding=@32@0:8@16@24 */
-    	static wrappedScript_handler(...args: any[]): any;
+    	wrappedScript_handler(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

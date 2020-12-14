@@ -3,7 +3,7 @@
 declare namespace sketchInternal {
   interface MSTextPreviewLayerMetadata extends NSObject {
     /* typeEncoding=@32@0:8@16@24 */
-    	static metadataForTextLayers_pageMapping(...args: any[]): any;
+    	metadataForTextLayers_pageMapping(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@24@0:8@16 */

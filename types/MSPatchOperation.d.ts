@@ -11,7 +11,7 @@ declare namespace sketchInternal {
     /* typeEncoding=Q, ivar=_traits, attributes=(assign,nonatomic,readonly) */
     	traits(): number;
     /* typeEncoding=@24@0:8@16 */
-    	static patchFromComparisonItem(...args: any[]): any;
+    	patchFromComparisonItem(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

@@ -65,15 +65,15 @@ declare namespace sketchInternal {
     /* typeEncoding=d, ivar=(null), attributes=(assign,dynamic,nonatomic) */
     	y2(): number;
     /* typeEncoding=@24@0:8@16 */
-    	static layerWithPath(...args: any[]): any;
+    	layerWithPath(...args: any[]): any;
     /* typeEncoding=@28@0:8@16c24 */
-    	static layerWithPath_integralFrame(...args: any[]): any;
+    	layerWithPath_integralFrame(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static layerWithShapeGroupSubpath(...args: any[]): any;
+    	layerWithShapeGroupSubpath(...args: any[]): any;
     /* typeEncoding=v24@0:8@?16 */
-    	static performBatchEdits(...args: any[]): any;
+    	performBatchEdits(...args: any[]): any;
     /* typeEncoding=@48@0:8{CGRect={CGPoint=dd}{CGSize=dd}}16 */
-    	static shapeWithRect(...args: any[]): any;
+    	shapeWithRect(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	adjustAfterInsert(): void;
     /* typeEncoding=v24@0:8c16c20 */

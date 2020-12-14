@@ -31,7 +31,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"MSUpDownController", ivar=_upDownController, attributes=(retain,nonatomic) */
     	upDownController(): MSUpDownController;
     /* typeEncoding=@16@0:8 */
-    	static multipleValuesPlaceholderString(...args: any[]): any;
+    	multipleValuesPlaceholderString(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v16@0:8 */

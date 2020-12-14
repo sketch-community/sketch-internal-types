@@ -13,7 +13,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSString", ivar=_swatchID, attributes=(retain,nonatomic) */
     	swatchID(): cocoascript.NSString;
     /* typeEncoding=#16@0:8 */
-    	static mutableClass(...args: any[]): any;
+    	mutableClass(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=d16@0:8 */

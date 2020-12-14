@@ -21,7 +21,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"MSBaseInspectorSection", ivar=_textSection, attributes=(retain,nonatomic) */
     	textSection(): MSBaseInspectorSection;
     /* typeEncoding=@16@0:8 */
-    	static sectionOrder(...args: any[]): any;
+    	sectionOrder(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v24@0:8@16 */

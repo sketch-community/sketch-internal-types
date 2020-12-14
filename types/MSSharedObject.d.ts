@@ -15,7 +15,7 @@ declare namespace sketchInternal {
     /* typeEncoding=#, ivar=(null), attributes=(assign,readonly) */
     	superclass(): any;
     /* typeEncoding=@16@0:8 */
-    	static defaultName(...args: any[]): any;
+    	defaultName(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
     	componentDisplayTitle(...args: any[]): any;
     /* typeEncoding=@40@0:8@16@24@32 */

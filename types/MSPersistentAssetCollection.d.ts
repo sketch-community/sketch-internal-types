@@ -7,21 +7,21 @@ declare namespace sketchInternal {
     /* typeEncoding=c, ivar=_isDirty, attributes=(assign,nonatomic) */
     	isDirty(): boolean;
     /* typeEncoding=@24@0:8@16 */
-    	static assetCollectionByMigratingPresetsFromSources(...args: any[]): any;
+    	assetCollectionByMigratingPresetsFromSources(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static assetCollectionFromCurrentBundleWithName(...args: any[]): any;
+    	assetCollectionFromCurrentBundleWithName(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static assetCollectionWithName(...args: any[]): any;
+    	assetCollectionWithName(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static assetCollectionWithURL(...args: any[]): any;
+    	assetCollectionWithURL(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static defaultMigrationArchiveForPresetNamed(...args: any[]): any;
+    	defaultMigrationArchiveForPresetNamed(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static defaultMigrationSources(...args: any[]): any;
+    	defaultMigrationSources(...args: any[]): any;
     /* typeEncoding=#16@0:8 */
-    	static immutableClass(...args: any[]): any;
+    	immutableClass(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static sharedGlobalAssets(...args: any[]): any;
+    	sharedGlobalAssets(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v32@0:8q16@24 */

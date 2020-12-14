@@ -11,7 +11,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSView", ivar=_optionsViewWebP, attributes=(retain,nonatomic) */
     	optionsViewWebP(): cocoascript.NSView;
     /* typeEncoding=@24@0:8@16 */
-    	static exportOptionsForRequests(...args: any[]): any;
+    	exportOptionsForRequests(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

@@ -9,9 +9,9 @@ declare namespace sketchInternal {
     /* typeEncoding=c, ivar=(null), attributes=(assign,nonatomic) */
     	isEnabled(): boolean;
     /* typeEncoding=v16@0:8 */
-    	static switchToUserDefaultsStorageStrategy(): void;
+    	switchToUserDefaultsStorageStrategy(): void;
     /* typeEncoding=c16@0:8 */
-    	static usesDisabledStorageStrategy(...args: any[]): any;
+    	usesDisabledStorageStrategy(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

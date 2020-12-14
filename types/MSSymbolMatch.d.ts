@@ -17,7 +17,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"MSDocumentData", ivar=_searchDocument, attributes=(assign,nonatomic,weak) */
     	searchDocument(): MSDocumentData;
     /* typeEncoding=v24@0:8@16 */
-    	static resolve(...args: any[]): any;
+    	resolve(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

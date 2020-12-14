@@ -7,7 +7,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSDictionary", ivar=_dictionary, attributes=(retain,nonatomic) */
     	dictionary(): cocoascript.NSDictionary;
     /* typeEncoding=@48@0:8@16q24^c32^@40 */
-    	static unarchivedObjectFromDictionary_asVersion_corruptionDetected_error(...args: any[]): any;
+    	unarchivedObjectFromDictionary_asVersion_corruptionDetected_error(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

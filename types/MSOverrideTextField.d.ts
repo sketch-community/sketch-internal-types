@@ -7,7 +7,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSString", ivar=_prefixString, attributes=(retain,nonatomic) */
     	prefixString(): cocoascript.NSString;
     /* typeEncoding=#16@0:8 */
-    	static cellClass(...args: any[]): any;
+    	cellClass(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding={NSEdgeInsets=dddd}16@0:8 */

@@ -3,7 +3,7 @@
 declare namespace sketchInternal {
   interface MSToggleSidebarVisibilityAction extends MSToggleVisibilityAction {
     /* typeEncoding=v24@0:8@16 */
-    	static showSidebarForDocument(...args: any[]): any;
+    	showSidebarForDocument(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	hide(): void;
     /* typeEncoding=c16@0:8 */

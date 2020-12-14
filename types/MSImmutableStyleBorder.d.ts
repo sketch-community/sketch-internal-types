@@ -3,9 +3,9 @@
 declare namespace sketchInternal {
   interface MSImmutableStyleBorder extends _MSImmutableStyleBorder {
     /* typeEncoding=@16@0:8 */
-    	static defaultName(...args: any[]): any;
+    	defaultName(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static stylePartPasteboardType(...args: any[]): any;
+    	stylePartPasteboardType(...args: any[]): any;
     /* typeEncoding=v32@0:8@16@24 */
     	addInnerMaskToAttributes_withExporter(...args: any[]): any;
     /* typeEncoding=@32@0:8@16@24 */

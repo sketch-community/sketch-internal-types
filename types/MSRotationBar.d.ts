@@ -33,7 +33,7 @@ declare namespace sketchInternal {
     /* typeEncoding=d, ivar=_startingRotation, attributes=(assign,nonatomic) */
     	startingRotation(): number;
     /* typeEncoding=c24@0:8d16 */
-    	static shouldContinueInertialScrollingAtSpeed(...args: any[]): any;
+    	shouldContinueInertialScrollingAtSpeed(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@24@0:8^c16 */

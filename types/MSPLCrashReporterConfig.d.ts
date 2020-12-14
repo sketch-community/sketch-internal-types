@@ -9,7 +9,7 @@ declare namespace sketchInternal {
     /* typeEncoding=Q, ivar=_symbolicationStrategy, attributes=(assign,nonatomic,readonly) */
     	symbolicationStrategy(): number;
     /* typeEncoding=@16@0:8 */
-    	static defaultConfiguration(...args: any[]): any;
+    	defaultConfiguration(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
     	init(...args: any[]): any;
     /* typeEncoding=@32@0:8Q16Q24 */

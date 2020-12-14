@@ -33,11 +33,11 @@ declare namespace sketchInternal {
     /* typeEncoding=Q, ivar=_width, attributes=(assign,nonatomic) */
     	width(): number;
     /* typeEncoding=q60@0:8{CGSize=dd}16{CGSize=dd}32c48^c52 */
-    	static compareArtboardSize_withScaledPresetSize_offeringLandscapeVariant_isRotated(...args: any[]): any;
+    	compareArtboardSize_withScaledPresetSize_offeringLandscapeVariant_isRotated(...args: any[]): any;
     /* typeEncoding=d52@0:8{CGSize=dd}16{CGSize=dd}32c48 */
-    	static resizeScaleFromArtboardSize_presetSize_offeringLandscapeVariant(...args: any[]): any;
+    	resizeScaleFromArtboardSize_presetSize_offeringLandscapeVariant(...args: any[]): any;
     /* typeEncoding=@40@0:8@16{CGSize=dd}24 */
-    	static sizeToFitPresetWithName_size(...args: any[]): any;
+    	sizeToFitPresetWithName_size(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=c16@0:8 */

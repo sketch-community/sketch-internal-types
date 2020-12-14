@@ -13,9 +13,9 @@ declare namespace sketchInternal {
     /* typeEncoding=c, ivar=(null), attributes=(assign,nonatomic,readonly) */
     	hasDefaultFillColor(): boolean;
     /* typeEncoding=@16@0:8 */
-    	static defaultFillColor(...args: any[]): any;
+    	defaultFillColor(...args: any[]): any;
     /* typeEncoding=#16@0:8 */
-    	static mutableClass(...args: any[]): any;
+    	mutableClass(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v32@0:8@16@24 */

@@ -17,7 +17,7 @@ declare namespace sketchInternal {
     /* typeEncoding=#, ivar=(null), attributes=(assign,readonly) */
     	superclass(): any;
     /* typeEncoding=@32@0:8{CGPoint=dd}16 */
-    	static snappingResultWithPoint(...args: any[]): any;
+    	snappingResultWithPoint(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@24@0:8^{_NSZone=}16 */

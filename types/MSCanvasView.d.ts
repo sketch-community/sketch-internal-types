@@ -85,13 +85,13 @@ declare namespace sketchInternal {
     /* typeEncoding=d, ivar=(null), attributes=(assign,nonatomic) */
     	zoomValue(): number;
     /* typeEncoding={CGPoint=dd}40@0:8{CGPoint=dd}16@32 */
-    	static absoluteCoordinatesFromViewCoordinates_forViewPort(...args: any[]): any;
+    	absoluteCoordinatesFromViewCoordinates_forViewPort(...args: any[]): any;
     /* typeEncoding={CGPoint=dd}48@0:8@16d24{CGPoint=dd}32 */
-    	static scrollOriginAfterScalingViewPort_toZoomValue_scalingCenterInViewCoordinates(...args: any[]): any;
+    	scrollOriginAfterScalingViewPort_toZoomValue_scalingCenterInViewCoordinates(...args: any[]): any;
     /* typeEncoding={CGPoint=dd}40@0:8{CGPoint=dd}16@32 */
-    	static viewCoordinatesFromAbsoluteCoordinates_forViewPort(...args: any[]): any;
+    	viewCoordinatesFromAbsoluteCoordinates_forViewPort(...args: any[]): any;
     /* typeEncoding=@48@0:8@16d24{CGPoint=dd}32 */
-    	static viewPortAfterScalingViewPort_toZoom_centeredOnAbsoluteCoordinates(...args: any[]): any;
+    	viewPortAfterScalingViewPort_toZoom_centeredOnAbsoluteCoordinates(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v20@0:8c16 */

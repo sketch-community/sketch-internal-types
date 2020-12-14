@@ -7,7 +7,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSOperationQueue", ivar=_queue, attributes=(assign,nonatomic,readonly) */
     	queue(): cocoascript.NSOperationQueue;
     /* typeEncoding=@24@0:8@16 */
-    	static providerForDictionary(...args: any[]): any;
+    	providerForDictionary(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

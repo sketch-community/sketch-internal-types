@@ -7,17 +7,17 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSData", ivar=_originalKeyData, attributes=(retain) */
     	originalKeyData(): cocoascript.NSData;
     /* typeEncoding=@24@0:8@16 */
-    	static generateAndSaveKeyWithTag(...args: any[]): any;
+    	generateAndSaveKeyWithTag(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static generateInitializationVector(...args: any[]): any;
+    	generateInitializationVector(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static getCurrentKeyTag(...args: any[]): any;
+    	getCurrentKeyTag(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static getMetadataStringWithKeyTag(...args: any[]): any;
+    	getMetadataStringWithKeyTag(...args: any[]): any;
     /* typeEncoding=@44@0:8I16@20@28@36 */
-    	static performCryptoOperation_input_initializationVector_key(...args: any[]): any;
+    	performCryptoOperation_input_initializationVector_key(...args: any[]): any;
     /* typeEncoding=v24@0:8@16 */
-    	static rotateToNewKeyTag(...args: any[]): any;
+    	rotateToNewKeyTag(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

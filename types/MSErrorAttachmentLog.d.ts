@@ -13,9 +13,9 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSString", ivar=_filename, attributes=(copy,nonatomic) */
     	filename(): cocoascript.NSString;
     /* typeEncoding=@40@0:8@16@24@32 */
-    	static attachmentWithBinary_filename_contentType(...args: any[]): any;
+    	attachmentWithBinary_filename_contentType(...args: any[]): any;
     /* typeEncoding=@32@0:8@16@24 */
-    	static attachmentWithText_filename(...args: any[]): any;
+    	attachmentWithText_filename(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

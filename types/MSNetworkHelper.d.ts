@@ -3,13 +3,13 @@
 declare namespace sketchInternal {
   interface MSNetworkHelper extends NSObject {
     /* typeEncoding=@16@0:8 */
-    	static currentIPv4Address(...args: any[]): any;
+    	currentIPv4Address(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static currentSubnet(...args: any[]): any;
+    	currentSubnet(...args: any[]): any;
     /* typeEncoding=c24@0:8@16 */
-    	static isValidIP(...args: any[]): any;
+    	isValidIP(...args: any[]): any;
     /* typeEncoding=c24@0:8@16 */
-    	static isValidIPWithPort(...args: any[]): any;
+    	isValidIPWithPort(...args: any[]): any;
   }
 }
 

@@ -5,13 +5,13 @@ declare namespace sketchInternal {
     /* typeEncoding=c, ivar=(null), attributes=(assign,nonatomic,readonly) */
     	isEnabled(): boolean;
     /* typeEncoding=@24@0:8@16 */
-    	static defaultStylePartForStyle(...args: any[]): any;
+    	defaultStylePartForStyle(...args: any[]): any;
     /* typeEncoding=c24@0:8@16 */
-    	static hasMultipleSwatchesForStyleParts(...args: any[]): any;
+    	hasMultipleSwatchesForStyleParts(...args: any[]): any;
     /* typeEncoding=c24@0:8@16 */
-    	static stylesHaveEqualAppearance(...args: any[]): any;
+    	stylesHaveEqualAppearance(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static uniqueSwatchIDsFromStyleParts(...args: any[]): any;
+    	uniqueSwatchIDsFromStyleParts(...args: any[]): any;
     /* typeEncoding=v24@0:8@16 */
     	configureFillForPreview(...args: any[]): any;
     /* typeEncoding=c24@0:8@16 */

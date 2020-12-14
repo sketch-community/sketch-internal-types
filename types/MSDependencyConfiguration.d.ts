@@ -3,9 +3,9 @@
 declare namespace sketchInternal {
   interface MSDependencyConfiguration extends NSObject {
     /* typeEncoding=@16@0:8 */
-    	static httpClient(...args: any[]): any;
+    	httpClient(...args: any[]): any;
     /* typeEncoding=v24@0:8@16 */
-    	static setHttpClient(...args: any[]): any;
+    	setHttpClient(...args: any[]): any;
   }
 }
 

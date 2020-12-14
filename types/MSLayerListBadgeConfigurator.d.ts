@@ -17,9 +17,9 @@ declare namespace sketchInternal {
     /* typeEncoding=#, ivar=(null), attributes=(assign,readonly) */
     	superclass(): any;
     /* typeEncoding=@24@0:8@16 */
-    	static configuratorWithLayer(...args: any[]): any;
+    	configuratorWithLayer(...args: any[]): any;
     /* typeEncoding=v24@0:8@16 */
-    	static onBooleanOperation(...args: any[]): any;
+    	onBooleanOperation(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@24@0:8q16 */

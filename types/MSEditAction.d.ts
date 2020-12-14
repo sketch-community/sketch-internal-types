@@ -3,7 +3,7 @@
 declare namespace sketchInternal {
   interface MSEditAction extends MSDocumentAction {
     /* typeEncoding=Q16@0:8 */
-    	static editableLayerTraits(...args: any[]): any;
+    	editableLayerTraits(...args: any[]): any;
     /* typeEncoding=v24@0:8@16 */
     	doPerformAction(...args: any[]): any;
     /* typeEncoding=v24@0:8@16 */

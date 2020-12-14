@@ -7,9 +7,9 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSDictionary", ivar=_storedDragImageProviders, attributes=(retain,nonatomic) */
     	storedDragImageProviders(): cocoascript.NSDictionary;
     /* typeEncoding=@36@0:8@16c24@28 */
-    	static makeLayerForComponentReference_forInserting_intoDocument(...args: any[]): any;
+    	makeLayerForComponentReference_forInserting_intoDocument(...args: any[]): any;
     /* typeEncoding=@40@0:8@16c24@28c36 */
-    	static makeLayerForComponentReference_forInserting_intoDocument_isForeign(...args: any[]): any;
+    	makeLayerForComponentReference_forInserting_intoDocument_isForeign(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=Q24@0:8@16 */

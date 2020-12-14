@@ -3,7 +3,7 @@
 declare namespace sketchInternal {
   interface MSFastPathBuilder extends NSObject {
     /* typeEncoding=@24@0:8@16 */
-    	static pathForMaskImage(...args: any[]): any;
+    	pathForMaskImage(...args: any[]): any;
     /* typeEncoding=v56@0:8{CGPoint=dd}16@32^{CGPoint=dd}40^{CGPoint=dd}48 */
     	addPoint_toPath_cachedPoint1_cachedPoint2(...args: any[]): any;
     /* typeEncoding=@16@0:8 */

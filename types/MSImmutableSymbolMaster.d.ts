@@ -19,11 +19,11 @@ declare namespace sketchInternal {
     /* typeEncoding=#, ivar=(null), attributes=(assign,readonly) */
     	superclass(): any;
     /* typeEncoding=@16@0:8 */
-    	static defaultName(...args: any[]): any;
+    	defaultName(...args: any[]): any;
     /* typeEncoding=Q16@0:8 */
-    	static traits(...args: any[]): any;
+    	traits(...args: any[]): any;
     /* typeEncoding=Q24@0:8@16 */
-    	static traitsForPropertyName(...args: any[]): any;
+    	traitsForPropertyName(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@24@0:8@16 */

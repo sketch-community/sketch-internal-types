@@ -23,15 +23,15 @@ declare namespace sketchInternal {
     /* typeEncoding=#, ivar=(null), attributes=(assign,readonly) */
     	superclass(): any;
     /* typeEncoding=c24@0:8@16 */
-    	static adjustLayerHierarchyAfterEditingLayers(...args: any[]): any;
+    	adjustLayerHierarchyAfterEditingLayers(...args: any[]): any;
     /* typeEncoding=c24@0:8@16 */
-    	static canHandleLayer(...args: any[]): any;
+    	canHandleLayer(...args: any[]): any;
     /* typeEncoding=c24@0:8@16 */
-    	static canHandleSomeLayersOfSelection(...args: any[]): any;
+    	canHandleSomeLayersOfSelection(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static filterSelection(...args: any[]): any;
+    	filterSelection(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static itemForSection(...args: any[]): any;
+    	itemForSection(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v16@0:8 */

@@ -13,9 +13,9 @@ declare namespace sketchInternal {
     /* typeEncoding=Q, ivar=(null), attributes=(assign,nonatomic,readonly) */
     	objectType(): number;
     /* typeEncoding=@32@0:8@16@24 */
-    	static providerForLayers_inDocument(...args: any[]): any;
+    	providerForLayers_inDocument(...args: any[]): any;
     /* typeEncoding=Q24@0:8@16 */
-    	static shareableObjectTypeForLayers(...args: any[]): any;
+    	shareableObjectTypeForLayers(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

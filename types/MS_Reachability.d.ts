@@ -5,11 +5,11 @@ declare namespace sketchInternal {
     /* typeEncoding=^{__SCNetworkReachability=}, ivar=_reachabilityRef, attributes=(assign,nonatomic) */
     	reachabilityRef(): any;
     /* typeEncoding=@16@0:8 */
-    	static reachabilityForInternetConnection(...args: any[]): any;
+    	reachabilityForInternetConnection(...args: any[]): any;
     /* typeEncoding=@24@0:8r^{sockaddr=CC[14c]}16 */
-    	static reachabilityWithAddress(...args: any[]): any;
+    	reachabilityWithAddress(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static reachabilityWithHostName(...args: any[]): any;
+    	reachabilityWithHostName(...args: any[]): any;
     /* typeEncoding=c16@0:8 */
     	connectionRequired(...args: any[]): any;
     /* typeEncoding=q16@0:8 */

@@ -5,7 +5,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"MSTextLayerInspectorItem", ivar=_textItem, attributes=(assign,nonatomic,weak) */
     	textItem(): MSTextLayerInspectorItem;
     /* typeEncoding=@24@0:8@16 */
-    	static placeholderWithTextItem(...args: any[]): any;
+    	placeholderWithTextItem(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

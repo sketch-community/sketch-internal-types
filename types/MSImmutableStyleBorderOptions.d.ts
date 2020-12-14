@@ -9,7 +9,7 @@ declare namespace sketchInternal {
     /* typeEncoding=c, ivar=(null), attributes=(assign,nonatomic,readonly) */
     	hasDashPattern(): boolean;
     /* typeEncoding=d24@0:8d16 */
-    	static validDashLengthFromProposedDashLength(...args: any[]): any;
+    	validDashLengthFromProposedDashLength(...args: any[]): any;
     /* typeEncoding=i16@0:8 */
     	CGLineCap(...args: any[]): any;
     /* typeEncoding=i16@0:8 */

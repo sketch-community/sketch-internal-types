@@ -9,13 +9,13 @@ declare namespace sketchInternal {
     /* typeEncoding=@"MSFolderMonitor", ivar=_folderMonitor, attributes=(retain,nonatomic) */
     	folderMonitor(): MSFolderMonitor;
     /* typeEncoding=@24@0:8@16 */
-    	static dataFromFileURL(...args: any[]): any;
+    	dataFromFileURL(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static identifierForURL(...args: any[]): any;
+    	identifierForURL(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static imageFileNamesFromFolderURL(...args: any[]): any;
+    	imageFileNamesFromFolderURL(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static validImageFileUTIs(...args: any[]): any;
+    	validImageFileUTIs(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

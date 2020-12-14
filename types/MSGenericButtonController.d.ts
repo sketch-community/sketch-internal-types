@@ -9,7 +9,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@, ivar=_target, attributes=(assign,nonatomic,weak) */
     	target(): any;
     /* typeEncoding=@40@0:8@16@24:32 */
-    	static buttonWithNibName_target_action(...args: any[]): any;
+    	buttonWithNibName_target_action(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=:16@0:8 */

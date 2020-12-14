@@ -11,7 +11,7 @@ declare namespace sketchInternal {
     /* typeEncoding=#, ivar=(null), attributes=(assign,readonly) */
     	superclass(): any;
     /* typeEncoding=v16@0:8 */
-    	static presentForCurrentDocument(): void;
+    	presentForCurrentDocument(): void;
     /* typeEncoding=v16@0:8 */
     	windowDidLoad(): void;
   }

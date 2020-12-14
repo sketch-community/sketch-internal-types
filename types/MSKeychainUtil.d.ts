@@ -3,27 +3,27 @@
 declare namespace sketchInternal {
   interface MSKeychainUtil extends NSObject {
     /* typeEncoding=i24@0:8@16 */
-    	static addSecItem(...args: any[]): any;
+    	addSecItem(...args: any[]): any;
     /* typeEncoding=c16@0:8 */
-    	static clear(...args: any[]): any;
+    	clear(...args: any[]): any;
     /* typeEncoding=i24@0:8@16 */
-    	static deleteSecItem(...args: any[]): any;
+    	deleteSecItem(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static deleteStringForKey(...args: any[]): any;
+    	deleteStringForKey(...args: any[]): any;
     /* typeEncoding=@32@0:8@16@24 */
-    	static deleteStringForKey_withServiceName(...args: any[]): any;
+    	deleteStringForKey_withServiceName(...args: any[]): any;
     /* typeEncoding=@32@0:8@16@24 */
-    	static generateItem_withServiceName(...args: any[]): any;
+    	generateItem_withServiceName(...args: any[]): any;
     /* typeEncoding=i32@0:8@16r^^v24 */
-    	static secItemCopyMatchingQuery_result(...args: any[]): any;
+    	secItemCopyMatchingQuery_result(...args: any[]): any;
     /* typeEncoding=c32@0:8@16@24 */
-    	static storeString_forKey(...args: any[]): any;
+    	storeString_forKey(...args: any[]): any;
     /* typeEncoding=c40@0:8@16@24@32 */
-    	static storeString_forKey_withServiceName(...args: any[]): any;
+    	storeString_forKey_withServiceName(...args: any[]): any;
     /* typeEncoding=@32@0:8@16^i24 */
-    	static stringForKey_statusCode(...args: any[]): any;
+    	stringForKey_statusCode(...args: any[]): any;
     /* typeEncoding=@40@0:8@16@24^i32 */
-    	static stringForKey_withServiceName_statusCode(...args: any[]): any;
+    	stringForKey_withServiceName_statusCode(...args: any[]): any;
   }
 }
 

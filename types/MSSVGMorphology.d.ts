@@ -9,7 +9,7 @@ declare namespace sketchInternal {
     /* typeEncoding=d, ivar=(null), attributes=(assign,dynamic,nonatomic) */
     	radius(): number;
     /* typeEncoding=@16@0:8 */
-    	static elementName(...args: any[]): any;
+    	elementName(...args: any[]): any;
   }
 }
 

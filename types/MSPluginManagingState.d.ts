@@ -9,9 +9,9 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSURL", ivar=_metadataURL, attributes=(assign,nonatomic,readonly) */
     	metadataURL(): cocoascript.NSURL;
     /* typeEncoding=@16@0:8 */
-    	static existingDownloadededBlacklistURL(...args: any[]): any;
+    	existingDownloadededBlacklistURL(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static incompatiblePlugins(...args: any[]): any;
+    	incompatiblePlugins(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

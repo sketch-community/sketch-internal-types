@@ -41,9 +41,9 @@ declare namespace sketchInternal {
     /* typeEncoding=@"SCKUser", ivar=_userWithProjects, attributes=(retain,nonatomic) */
     	userWithProjects(): SCKUser;
     /* typeEncoding=@16@0:8 */
-    	static keyPathsForValuesAffectingCanPerformCloudOperation(...args: any[]): any;
+    	keyPathsForValuesAffectingCanPerformCloudOperation(...args: any[]): any;
     /* typeEncoding=@40@0:8@16Q24@?32 */
-    	static runForDocument_performingOperation_completionHandler(...args: any[]): any;
+    	runForDocument_performingOperation_completionHandler(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v16@0:8 */

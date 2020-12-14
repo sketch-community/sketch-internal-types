@@ -3,13 +3,13 @@
 declare namespace sketchInternal {
   interface MSBuiltinDataSupplier extends MSLocalDataSupplier {
     /* typeEncoding=@24@0:8@16 */
-    	static identifierForURL(...args: any[]): any;
+    	identifierForURL(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static imageFileNamesFromFolderURL(...args: any[]): any;
+    	imageFileNamesFromFolderURL(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static linkedFolderNameFromFolderURL(...args: any[]): any;
+    	linkedFolderNameFromFolderURL(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static sourceURLFromFolderURL(...args: any[]): any;
+    	sourceURLFromFolderURL(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
     	initWithCoder(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */

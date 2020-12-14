@@ -3,17 +3,17 @@
 declare namespace sketchInternal {
   interface MSImageSizeReducer extends NSObject {
     /* typeEncoding=@24@0:8@16 */
-    	static largestSizeForImagesMapTableFromOwners(...args: any[]): any;
+    	largestSizeForImagesMapTableFromOwners(...args: any[]): any;
     /* typeEncoding=v40@0:8@16@24@?32 */
-    	static reduceImageSizeOfLayers_windowForSheet_completionBlock(...args: any[]): any;
+    	reduceImageSizeOfLayers_windowForSheet_completionBlock(...args: any[]): any;
     /* typeEncoding=v40@0:8@16@24@32 */
-    	static setResizedData_originalData_forOwners(...args: any[]): any;
+    	setResizedData_originalData_forOwners(...args: any[]): any;
     /* typeEncoding=@40@0:8@16Q24@?32 */
-    	static showImageReductionWarningForWindow_fileSizeDifference_completionBlock(...args: any[]): any;
+    	showImageReductionWarningForWindow_fileSizeDifference_completionBlock(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static showUnableToReduceAlert(...args: any[]): any;
+    	showUnableToReduceAlert(...args: any[]): any;
     /* typeEncoding=@32@0:8@16@?24 */
-    	static showWaitingSheetForWindow_completionBlock(...args: any[]): any;
+    	showWaitingSheetForWindow_completionBlock(...args: any[]): any;
   }
 }
 

@@ -11,9 +11,9 @@ declare namespace sketchInternal {
     /* typeEncoding=I, ivar=_port, attributes=(assign,nonatomic,readonly) */
     	server_port(): number;
     /* typeEncoding=@32@0:8I16I20^@24 */
-    	static exceptionPortsForTask_mask_error(...args: any[]): any;
+    	exceptionPortsForTask_mask_error(...args: any[]): any;
     /* typeEncoding=@32@0:8I16I20^@24 */
-    	static exceptionPortsForThread_mask_error(...args: any[]): any;
+    	exceptionPortsForThread_mask_error(...args: any[]): any;
     /* typeEncoding=i16@0:8 */
     	behavior(...args: any[]): any;
     /* typeEncoding=v16@0:8 */

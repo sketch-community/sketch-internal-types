@@ -37,7 +37,7 @@ declare namespace sketchInternal {
     /* typeEncoding=d, ivar=(null), attributes=(assign,nonatomic) */
     	zoomValue(): number;
     /* typeEncoding=@16@0:8 */
-    	static overlayOptionsDefaultsKeys(...args: any[]): any;
+    	overlayOptionsDefaultsKeys(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v16@0:8 */

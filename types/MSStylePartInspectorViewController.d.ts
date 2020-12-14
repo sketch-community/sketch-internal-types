@@ -15,9 +15,9 @@ declare namespace sketchInternal {
     /* typeEncoding=#, ivar=(null), attributes=(assign,readonly) */
     	superclass(): any;
     /* typeEncoding=@16@0:8 */
-    	static reusableControllerArray(...args: any[]): any;
+    	reusableControllerArray(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static stylePartViewController(...args: any[]): any;
+    	stylePartViewController(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v16@0:8 */

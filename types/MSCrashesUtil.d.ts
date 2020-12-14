@@ -3,13 +3,13 @@
 declare namespace sketchInternal {
   interface MSCrashesUtil extends NSObject {
     /* typeEncoding=@16@0:8 */
-    	static crashesDir(...args: any[]): any;
+    	crashesDir(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static logBufferDir(...args: any[]): any;
+    	logBufferDir(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
-    	static resetDirectory(): void;
+    	resetDirectory(): void;
     /* typeEncoding=@16@0:8 */
-    	static wrapperExceptionsDir(...args: any[]): any;
+    	wrapperExceptionsDir(...args: any[]): any;
   }
 }
 

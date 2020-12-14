@@ -65,7 +65,7 @@ declare namespace sketchInternal {
     /* typeEncoding=#, ivar=(null), attributes=(assign,readonly) */
     	superclass(): any;
     /* typeEncoding=d32@0:8Q16q24 */
-    	static displayScaleValueForComponentIndex_colorModel(...args: any[]): any;
+    	displayScaleValueForComponentIndex_colorModel(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

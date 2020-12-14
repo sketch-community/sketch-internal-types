@@ -41,17 +41,17 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSDictionary", ivar=_userInfo, attributes=(copy,nonatomic) */
     	userInfo(): cocoascript.NSDictionary;
     /* typeEncoding=c16@0:8 */
-    	static allowsFaulting(...args: any[]): any;
+    	allowsFaulting(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static defaultFlow(...args: any[]): any;
+    	defaultFlow(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static defaultFrame(...args: any[]): any;
+    	defaultFrame(...args: any[]): any;
     /* typeEncoding=q16@0:8 */
-    	static defaultLayerListExpandedType(...args: any[]): any;
+    	defaultLayerListExpandedType(...args: any[]): any;
     /* typeEncoding=#16@0:8 */
-    	static immutableClass(...args: any[]): any;
+    	immutableClass(...args: any[]): any;
     /* typeEncoding=c16@0:8 */
-    	static shouldBreakMaskChainDefault(...args: any[]): any;
+    	shouldBreakMaskChainDefault(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=q16@0:8 */

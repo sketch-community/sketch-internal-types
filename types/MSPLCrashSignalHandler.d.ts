@@ -3,11 +3,11 @@
 declare namespace sketchInternal {
   interface MSPLCrashSignalHandler extends NSObject {
     /* typeEncoding=v16@0:8 */
-    	static initialize(): void;
+    	initialize(): void;
     /* typeEncoding=v16@0:8 */
-    	static resetHandlers(): void;
+    	resetHandlers(): void;
     /* typeEncoding=@16@0:8 */
-    	static sharedHandler(...args: any[]): any;
+    	sharedHandler(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
     	init(...args: any[]): any;
     /* typeEncoding=c44@0:8i16^?20^v28^@36 */

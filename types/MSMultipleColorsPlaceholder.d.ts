@@ -3,7 +3,7 @@
 declare namespace sketchInternal {
   interface MSMultipleColorsPlaceholder extends NSObject {
     /* typeEncoding=@16@0:8 */
-    	static placeholderColor(...args: any[]): any;
+    	placeholderColor(...args: any[]): any;
   }
 }
 

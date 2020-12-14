@@ -7,7 +7,7 @@ declare namespace sketchInternal {
     /* typeEncoding=c, ivar=_wantsSeparator, attributes=(assign,nonatomic) */
     	wantsSeparator(): boolean;
     /* typeEncoding=@24@0:8d16 */
-    	static paddingWithHeight(...args: any[]): any;
+    	paddingWithHeight(...args: any[]): any;
     /* typeEncoding=@32@0:8@16@24 */
     	initWithNibName_bundle(...args: any[]): any;
     /* typeEncoding=v20@0:8c16 */

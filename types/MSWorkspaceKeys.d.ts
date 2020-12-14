@@ -3,7 +3,7 @@
 declare namespace sketchInternal {
   interface MSWorkspaceKeys extends NSObject {
     /* typeEncoding=@16@0:8 */
-    	static assistantsConfigurationFileKey(...args: any[]): any;
+    	assistantsConfigurationFileKey(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

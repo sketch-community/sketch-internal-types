@@ -23,9 +23,9 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSArray", ivar=_touchBarItems, attributes=(retain,nonatomic) */
     	touchBarItems(): cocoascript.NSArray;
     /* typeEncoding=@64@0:8@16@24@32@40@48@56 */
-    	static managerWithItem_textField_adaptor_identifier_inlineToolTip_touchBarItems(...args: any[]): any;
+    	managerWithItem_textField_adaptor_identifier_inlineToolTip_touchBarItems(...args: any[]): any;
     /* typeEncoding=@72@0:8@16@24@32@40@48@56@64 */
-    	static managerWithItem_textField_adaptor_identifier_inlineToolTip_touchBarItems_bindingOptions(...args: any[]): any;
+    	managerWithItem_textField_adaptor_identifier_inlineToolTip_touchBarItems_bindingOptions(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

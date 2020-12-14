@@ -75,35 +75,35 @@ declare namespace sketchInternal {
     /* typeEncoding=@?, ivar=_userConfirmationHandler, attributes=(copy) */
     	userConfirmationHandler(): any;
     /* typeEncoding=v24@0:8@16 */
-    	static applicationDidReportException(...args: any[]): any;
+    	applicationDidReportException(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
-    	static disableMachExceptionHandler(): void;
+    	disableMachExceptionHandler(): void;
     /* typeEncoding=v16@0:8 */
-    	static generateTestCrash(): void;
+    	generateTestCrash(): void;
     /* typeEncoding=c16@0:8 */
-    	static hasCrashedInLastSession(...args: any[]): any;
+    	hasCrashedInLastSession(...args: any[]): any;
     /* typeEncoding=c16@0:8 */
-    	static hasReceivedMemoryWarningInLastSession(...args: any[]): any;
+    	hasReceivedMemoryWarningInLastSession(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static lastSessionCrashReport(...args: any[]): any;
+    	lastSessionCrashReport(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static logTag(...args: any[]): any;
+    	logTag(...args: any[]): any;
     /* typeEncoding=v24@0:8Q16 */
-    	static notifyWithUserConfirmation(...args: any[]): any;
+    	notifyWithUserConfirmation(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
-    	static resetSharedInstance(): void;
+    	resetSharedInstance(): void;
     /* typeEncoding=v32@0:8@16@24 */
-    	static sendErrorAttachments_withIncidentIdentifier(...args: any[]): any;
+    	sendErrorAttachments_withIncidentIdentifier(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static serviceName(...args: any[]): any;
+    	serviceName(...args: any[]): any;
     /* typeEncoding=v24@0:8@16 */
-    	static setDelegate(...args: any[]): any;
+    	setDelegate(...args: any[]): any;
     /* typeEncoding=v24@0:8@?16 */
-    	static setUserConfirmationHandler(...args: any[]): any;
+    	setUserConfirmationHandler(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static sharedInstance(...args: any[]): any;
+    	sharedInstance(...args: any[]): any;
     /* typeEncoding=c24@0:8@16 */
-    	static validatePropertiesForAttachment(...args: any[]): any;
+    	validatePropertiesForAttachment(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

@@ -39,13 +39,13 @@ declare namespace sketchInternal {
     /* typeEncoding=c, ivar=(null), attributes=(assign,nonatomic,readonly) */
     	valid(): boolean;
     /* typeEncoding=@16@0:8 */
-    	static keyPathsForValuesAffectingPrimaryTextFieldColor(...args: any[]): any;
+    	keyPathsForValuesAffectingPrimaryTextFieldColor(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static keyPathsForValuesAffectingSecondaryTextFieldColor(...args: any[]): any;
+    	keyPathsForValuesAffectingSecondaryTextFieldColor(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static keyPathsForValuesAffectingSecondaryTitle(...args: any[]): any;
+    	keyPathsForValuesAffectingSecondaryTitle(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static preferenceItemForLocalData(...args: any[]): any;
+    	preferenceItemForLocalData(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

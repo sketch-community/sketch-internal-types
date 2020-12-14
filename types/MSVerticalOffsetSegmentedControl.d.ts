@@ -3,7 +3,7 @@
 declare namespace sketchInternal {
   interface MSVerticalOffsetSegmentedControl extends NSSegmentedControl {
     /* typeEncoding=#16@0:8 */
-    	static cellClass(...args: any[]): any;
+    	cellClass(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding={NSEdgeInsets=dddd}24@0:8d16 */

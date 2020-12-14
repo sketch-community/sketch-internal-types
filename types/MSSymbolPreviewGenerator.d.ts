@@ -3,9 +3,9 @@
 declare namespace sketchInternal {
   interface MSSymbolPreviewGenerator extends NSObject {
     /* typeEncoding=@52@0:8@16{CGSize=dd}24@40c48 */
-    	static imageForSymbolAncestry_withSize_colorSpace_trimmed(...args: any[]): any;
+    	imageForSymbolAncestry_withSize_colorSpace_trimmed(...args: any[]): any;
     /* typeEncoding=@84@0:8@16{CGSize=dd}24{CGRect={CGPoint=dd}{CGSize=dd}}40@72c80 */
-    	static imageRepForArtboardAncestry_withSize_drawingRect_colorSpace_trimmed(...args: any[]): any;
+    	imageRepForArtboardAncestry_withSize_drawingRect_colorSpace_trimmed(...args: any[]): any;
   }
 }
 

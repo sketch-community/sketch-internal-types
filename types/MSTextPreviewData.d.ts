@@ -5,7 +5,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSMapTable", ivar=_table, attributes=(assign,nonatomic,readonly) */
     	table(): cocoascript.NSMapTable;
     /* typeEncoding=@16@0:8 */
-    	static sharedPreviewData(...args: any[]): any;
+    	sharedPreviewData(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=^{CGPDFPage=}32@0:8@16@24 */

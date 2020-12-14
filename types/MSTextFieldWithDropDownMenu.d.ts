@@ -5,7 +5,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSMenu", ivar=_popupMenu, attributes=(retain,nonatomic) */
     	popupMenu(): cocoascript.NSMenu;
     /* typeEncoding=@16@0:8 */
-    	static dropDownArrowImage(...args: any[]): any;
+    	dropDownArrowImage(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding={CGRect={CGPoint=dd}{CGSize=dd}}16@0:8 */

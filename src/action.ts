@@ -263,7 +263,7 @@ function genClass(symbol: any, symbolName: string) {
         array(desc.classMethods())
           .sort(sortMethod)
           .forEach(m => {
-            code.appendLine(genMethod(m, true));
+            code.appendLine(genMethod(m));
           });
 
         array(desc.instanceMethods())
@@ -301,10 +301,10 @@ function sortProperty(a: MOPropertyDescription, b: MOPropertyDescription) {
   return 0;
 }
 
-function genMethod(method: MOMethodDescription, isStatic = false) {
+function genMethod(method: MOMethodDescription) {
   const p = String(method).replace(/^.*(typeEncoding=.*)>$/, '$1');
   const name = conformName(String(method.selector()));
-  const staticName = isStatic ? 'static ' : '';
+  const staticName = '';
   const type = String(method.typeEncoding()) === 'v16@0:8' ? '(): void' : '(...args: any[]): any';
 
   return '/* ' + p + ' */\n\t' + staticName + name + type + ';';

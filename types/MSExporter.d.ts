@@ -27,13 +27,13 @@ declare namespace sketchInternal {
     /* typeEncoding=@"BCCache", ivar=(null), attributes=(assign,nonatomic,readonly) */
     	zoomIndependentCache(): BCCache;
     /* typeEncoding=@32@0:8@16@24 */
-    	static exporterForRequest_colorSpace(...args: any[]): any;
+    	exporterForRequest_colorSpace(...args: any[]): any;
     /* typeEncoding=@40@0:8@16@24@32 */
-    	static exporterForRequest_colorSpace_driver(...args: any[]): any;
+    	exporterForRequest_colorSpace_driver(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
-    	static initialize(): void;
+    	initialize(): void;
     /* typeEncoding=v32@0:8#16@24 */
-    	static registerExporterClass_forFormat(...args: any[]): any;
+    	registerExporterClass_forFormat(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=c16@0:8 */

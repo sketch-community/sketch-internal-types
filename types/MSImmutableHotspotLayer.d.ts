@@ -3,11 +3,11 @@
 declare namespace sketchInternal {
   interface MSImmutableHotspotLayer extends _MSImmutableHotspotLayer {
     /* typeEncoding=@16@0:8 */
-    	static defaultName(...args: any[]): any;
+    	defaultName(...args: any[]): any;
     /* typeEncoding=Q16@0:8 */
-    	static traits(...args: any[]): any;
+    	traits(...args: any[]): any;
     /* typeEncoding=Q24@0:8@16 */
-    	static traitsForPropertyName(...args: any[]): any;
+    	traitsForPropertyName(...args: any[]): any;
     /* typeEncoding=v56@0:8{CGRect={CGPoint=dd}{CGSize=dd}}16@48 */
     	drawPreviewInRect_bezier(...args: any[]): any;
     /* typeEncoding=@16@0:8 */

@@ -3,7 +3,7 @@
 declare namespace sketchInternal {
   interface MSPolygonShape extends _MSPolygonShape {
     /* typeEncoding=@24@0:8q16 */
-    	static defaultCurvePointsWithNumberOfPoints(...args: any[]): any;
+    	defaultCurvePointsWithNumberOfPoints(...args: any[]): any;
     /* typeEncoding=c16@0:8 */
     	canFlatten(...args: any[]): any;
     /* typeEncoding=@16@0:8 */

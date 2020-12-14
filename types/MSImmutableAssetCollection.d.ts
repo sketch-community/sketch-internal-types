@@ -3,7 +3,7 @@
 declare namespace sketchInternal {
   interface MSImmutableAssetCollection extends _MSImmutableAssetCollection {
     /* typeEncoding=c16@0:8 */
-    	static persistsObjectID(...args: any[]): any;
+    	persistsObjectID(...args: any[]): any;
     /* typeEncoding=v24@0:8@16 */
     	encodePropertiesWithCoder(...args: any[]): any;
     /* typeEncoding=v24@0:8@16 */

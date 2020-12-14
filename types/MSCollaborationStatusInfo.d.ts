@@ -25,7 +25,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSString", ivar=_versionID, attributes=(retain,nonatomic) */
     	versionID(): cocoascript.NSString;
     /* typeEncoding=v16@0:8 */
-    	static load(): void;
+    	load(): void;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

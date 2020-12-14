@@ -13,7 +13,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSTextField", ivar=_message, attributes=(retain,nonatomic) */
     	message(): cocoascript.NSTextField;
     /* typeEncoding=@40@0:8@16@?24@?32 */
-    	static flashViewControllerWithMessage_closeBlock_helpBlock(...args: any[]): any;
+    	flashViewControllerWithMessage_closeBlock_helpBlock(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@?16@0:8 */

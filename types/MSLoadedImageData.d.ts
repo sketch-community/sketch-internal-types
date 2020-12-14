@@ -9,15 +9,15 @@ declare namespace sketchInternal {
     /* typeEncoding={CGSize=dd}, ivar=_size, attributes=(assign,nonatomic) */
     	size(): CGSize;
     /* typeEncoding=d24@0:8@16 */
-    	static bestScaleAccountingForPixelDensityOfImage(...args: any[]): any;
+    	bestScaleAccountingForPixelDensityOfImage(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static imageFromFileURL(...args: any[]): any;
+    	imageFromFileURL(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static imageFromPasteboard(...args: any[]): any;
+    	imageFromPasteboard(...args: any[]): any;
     /* typeEncoding=@32@0:8@16d24 */
-    	static loadedImageFromImage_withSizeScaledDownByFactor(...args: any[]): any;
+    	loadedImageFromImage_withSizeScaledDownByFactor(...args: any[]): any;
     /* typeEncoding=Q24@0:8@16 */
-    	static scalingFactorForFilename(...args: any[]): any;
+    	scalingFactorForFilename(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

@@ -39,29 +39,29 @@ declare namespace sketchInternal {
     /* typeEncoding=c, ivar=_shouldTrim, attributes=(assign,nonatomic) */
     	shouldTrim(): boolean;
     /* typeEncoding=@68@0:8@16@24{CGRect={CGPoint=dd}{CGSize=dd}}32c64 */
-    	static exportRequestFromExportFormat_layer_inRect_useIDForName(...args: any[]): any;
+    	exportRequestFromExportFormat_layer_inRect_useIDForName(...args: any[]): any;
     /* typeEncoding=@64@0:8@16@24{CGRect={CGPoint=dd}{CGSize=dd}}32 */
-    	static exportRequestFromLayerAncestry_exportFormat_inRect(...args: any[]): any;
+    	exportRequestFromLayerAncestry_exportFormat_inRect(...args: any[]): any;
     /* typeEncoding=@68@0:8@16@24{CGRect={CGPoint=dd}{CGSize=dd}}32c64 */
-    	static exportRequestFromLayerAncestry_exportFormat_inRect_renderingSymbolMasterAsInstances(...args: any[]): any;
+    	exportRequestFromLayerAncestry_exportFormat_inRect_renderingSymbolMasterAsInstances(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static exportRequestsFromExportableLayer(...args: any[]): any;
+    	exportRequestsFromExportableLayer(...args: any[]): any;
     /* typeEncoding=@68@0:8@16@24{CGRect={CGPoint=dd}{CGSize=dd}}32c64 */
-    	static exportRequestsFromExportableLayer_exportFormats_inRect_useIDForName(...args: any[]): any;
+    	exportRequestsFromExportableLayer_exportFormats_inRect_useIDForName(...args: any[]): any;
     /* typeEncoding=@36@0:8@16@24c32 */
-    	static exportRequestsFromExportableLayer_exportFormats_useIDForName(...args: any[]): any;
+    	exportRequestsFromExportableLayer_exportFormats_useIDForName(...args: any[]): any;
     /* typeEncoding=@60@0:8@16{CGRect={CGPoint=dd}{CGSize=dd}}24c56 */
-    	static exportRequestsFromExportableLayer_inRect_useIDForName(...args: any[]): any;
+    	exportRequestsFromExportableLayer_inRect_useIDForName(...args: any[]): any;
     /* typeEncoding=@28@0:8@16c24 */
-    	static exportRequestsFromExportableLayer_useIDForName(...args: any[]): any;
+    	exportRequestsFromExportableLayer_useIDForName(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static exportRequestsFromLayerAncestry(...args: any[]): any;
+    	exportRequestsFromLayerAncestry(...args: any[]): any;
     /* typeEncoding=@32@0:8@16@24 */
-    	static exportRequestsFromLayerAncestry_exportFormats(...args: any[]): any;
+    	exportRequestsFromLayerAncestry_exportFormats(...args: any[]): any;
     /* typeEncoding=@64@0:8@16@24{CGRect={CGPoint=dd}{CGSize=dd}}32 */
-    	static exportRequestsFromLayerAncestry_exportFormats_inRect(...args: any[]): any;
+    	exportRequestsFromLayerAncestry_exportFormats_inRect(...args: any[]): any;
     /* typeEncoding=@56@0:8@16{CGRect={CGPoint=dd}{CGSize=dd}}24 */
-    	static exportRequestsFromLayerAncestry_inRect(...args: any[]): any;
+    	exportRequestsFromLayerAncestry_inRect(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=d16@0:8 */

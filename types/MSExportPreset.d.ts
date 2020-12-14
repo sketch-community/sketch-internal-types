@@ -7,9 +7,9 @@ declare namespace sketchInternal {
     /* typeEncoding=c, ivar=(null), attributes=(assign) */
     	shouldAutoApply(): boolean;
     /* typeEncoding=@16@0:8 */
-    	static allExportPresets(...args: any[]): any;
+    	allExportPresets(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
-    	static ensureDefaultExportPresetIsSet(): void;
+    	ensureDefaultExportPresetIsSet(): void;
     /* typeEncoding=Q16@0:8 */
     	assetType(...args: any[]): any;
     /* typeEncoding=@16@0:8 */

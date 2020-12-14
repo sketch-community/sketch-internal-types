@@ -3,7 +3,7 @@
 declare namespace sketchInternal {
   interface MSRange extends NSObject {
     /* typeEncoding=v40@0:8Q16Q24@?32 */
-    	static from_to_do(...args: any[]): any;
+    	from_to_do(...args: any[]): any;
   }
 }
 

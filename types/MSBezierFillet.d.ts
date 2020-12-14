@@ -25,19 +25,19 @@ declare namespace sketchInternal {
     /* typeEncoding=d, ivar=(null), attributes=(assign,nonatomic,readonly) */
     	startAngle(): number;
     /* typeEncoding=@40@0:8@16@24d32 */
-    	static bezierFilletWithSegment1_segment2_filletRadius(...args: any[]): any;
+    	bezierFilletWithSegment1_segment2_filletRadius(...args: any[]): any;
     /* typeEncoding=@40@0:8@16@24d32 */
-    	static bezierFilletWithSegment1_segment2_segment1Offset(...args: any[]): any;
+    	bezierFilletWithSegment1_segment2_segment1Offset(...args: any[]): any;
     /* typeEncoding=@40@0:8@16@24d32 */
-    	static curveFilletWithSegment1_segment2_filletRadius(...args: any[]): any;
+    	curveFilletWithSegment1_segment2_filletRadius(...args: any[]): any;
     /* typeEncoding=@40@0:8@16@24d32 */
-    	static curveFilletWithSegment1_segment2_segment1Offset(...args: any[]): any;
+    	curveFilletWithSegment1_segment2_segment1Offset(...args: any[]): any;
     /* typeEncoding=@40@0:8@16@24d32 */
-    	static lineFilletWithSegment1_segment2_filletRadius(...args: any[]): any;
+    	lineFilletWithSegment1_segment2_filletRadius(...args: any[]): any;
     /* typeEncoding=@40@0:8@16@24d32 */
-    	static lineFilletWithSegment1_segment2_segment1Offset(...args: any[]): any;
+    	lineFilletWithSegment1_segment2_segment1Offset(...args: any[]): any;
     /* typeEncoding=@32@0:8@16@24 */
-    	static zeroRadiusFilletWithSegment1_segment2(...args: any[]): any;
+    	zeroRadiusFilletWithSegment1_segment2(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v32@0:8@16^{CGPath=}24 */

@@ -7,9 +7,9 @@ declare namespace sketchInternal {
     /* typeEncoding=@"MSImageData", ivar=(null), attributes=(retain,dynamic,nonatomic) */
     	image(): MSImageData;
     /* typeEncoding=@16@0:8 */
-    	static defaultName(...args: any[]): any;
+    	defaultName(...args: any[]): any;
     /* typeEncoding=Q16@0:8 */
-    	static traits(...args: any[]): any;
+    	traits(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
     	NSImage(...args: any[]): any;
     /* typeEncoding=@40@0:8@16@24@32 */

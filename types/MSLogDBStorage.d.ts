@@ -23,7 +23,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"MSEncrypter", ivar=_targetTokenEncrypter, attributes=(assign,nonatomic,readonly) */
     	targetTokenEncrypter(): MSEncrypter;
     /* typeEncoding=i40@0:8@16@24^v32 */
-    	static deleteLogsFromDBWithColumnValues_columnName_inOpenedDatabase(...args: any[]): any;
+    	deleteLogsFromDBWithColumnValues_columnName_inOpenedDatabase(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

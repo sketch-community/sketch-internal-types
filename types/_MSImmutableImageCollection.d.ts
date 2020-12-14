@@ -5,7 +5,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSDictionary", ivar=_images, attributes=(retain,nonatomic) */
     	images(): cocoascript.NSDictionary;
     /* typeEncoding=#16@0:8 */
-    	static mutableClass(...args: any[]): any;
+    	mutableClass(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v32@0:8@16@24 */

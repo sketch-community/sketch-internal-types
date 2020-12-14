@@ -17,15 +17,15 @@ declare namespace sketchInternal {
     /* typeEncoding=d, ivar=_spread, attributes=(assign,nonatomic) */
     	spread(): number;
     /* typeEncoding=c16@0:8 */
-    	static allowsFaulting(...args: any[]): any;
+    	allowsFaulting(...args: any[]): any;
     /* typeEncoding=d16@0:8 */
-    	static defaultBlurRadius(...args: any[]): any;
+    	defaultBlurRadius(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static defaultColor(...args: any[]): any;
+    	defaultColor(...args: any[]): any;
     /* typeEncoding=d16@0:8 */
-    	static defaultYOffset(...args: any[]): any;
+    	defaultYOffset(...args: any[]): any;
     /* typeEncoding=#16@0:8 */
-    	static immutableClass(...args: any[]): any;
+    	immutableClass(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=d16@0:8 */

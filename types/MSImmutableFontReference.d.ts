@@ -25,7 +25,7 @@ declare namespace sketchInternal {
     /* typeEncoding=c, ivar=(null), attributes=(assign,nonatomic,readonly,getter=isUsed) */
     	used(): boolean;
     /* typeEncoding=c16@0:8 */
-    	static persistsObjectID(...args: any[]): any;
+    	persistsObjectID(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
     	fontFileData(...args: any[]): any;
     /* typeEncoding=c16@0:8 */

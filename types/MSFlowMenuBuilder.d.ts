@@ -3,13 +3,13 @@
 declare namespace sketchInternal {
   interface MSFlowMenuBuilder extends NSObject {
     /* typeEncoding=v48@0:8@16@24@32@40 */
-    	static createFlowDestinationMenuButton_document_destination_target(...args: any[]): any;
+    	createFlowDestinationMenuButton_document_destination_target(...args: any[]): any;
     /* typeEncoding=@32@0:8@16@24 */
-    	static menuForPages_target(...args: any[]): any;
+    	menuForPages_target(...args: any[]): any;
     /* typeEncoding=@40@0:8@16@24@32 */
-    	static menuItemsForArtboards_currentDestination_target(...args: any[]): any;
+    	menuItemsForArtboards_currentDestination_target(...args: any[]): any;
     /* typeEncoding=@40@0:8@16@24@32 */
-    	static menuItemsForPages_currentDestination_target(...args: any[]): any;
+    	menuItemsForPages_currentDestination_target(...args: any[]): any;
   }
 }
 

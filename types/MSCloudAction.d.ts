@@ -19,29 +19,29 @@ declare namespace sketchInternal {
     /* typeEncoding=@"MSDocumentUpload", ivar=_upload, attributes=(assign,nonatomic,readonly) */
     	upload(): MSDocumentUpload;
     /* typeEncoding=v32@0:8@16Q24 */
-    	static attemptRecoveryFromCloudError_optionIndex(...args: any[]): any;
+    	attemptRecoveryFromCloudError_optionIndex(...args: any[]): any;
     /* typeEncoding=c16@0:8 */
-    	static cloudEnabled(...args: any[]): any;
+    	cloudEnabled(...args: any[]): any;
     /* typeEncoding=@32@0:8@16@24 */
-    	static cloudError_addingRecoveryOptionsWithAttempter(...args: any[]): any;
+    	cloudError_addingRecoveryOptionsWithAttempter(...args: any[]): any;
     /* typeEncoding=v52@0:8@16@24c32@36@?44 */
-    	static finishOpenCloudDocument_displayingShare_wasAlreadyOpen_withError_completionHandler(...args: any[]): any;
+    	finishOpenCloudDocument_displayingShare_wasAlreadyOpen_withError_completionHandler(...args: any[]): any;
     /* typeEncoding=c24@0:8@16 */
-    	static isErrorRecoverable(...args: any[]): any;
+    	isErrorRecoverable(...args: any[]): any;
     /* typeEncoding=v32@0:8@16@?24 */
-    	static openCloudDocumentWithApplicationURL_completionHandler(...args: any[]): any;
+    	openCloudDocumentWithApplicationURL_completionHandler(...args: any[]): any;
     /* typeEncoding=v32@0:8@16@?24 */
-    	static openCloudDocumentWithShare_completionHandler(...args: any[]): any;
+    	openCloudDocumentWithShare_completionHandler(...args: any[]): any;
     /* typeEncoding=v32@0:8@16@?24 */
-    	static openCloudShareURL_completionHandler(...args: any[]): any;
+    	openCloudShareURL_completionHandler(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
-    	static requestCloudUser(): void;
+    	requestCloudUser(): void;
     /* typeEncoding=v16@0:8 */
-    	static signIn(): void;
+    	signIn(): void;
     /* typeEncoding=@16@0:8 */
-    	static userController(...args: any[]): any;
+    	userController(...args: any[]): any;
     /* typeEncoding=@32@0:8@16@24 */
-    	static userPresentableErrorWithCloudError_document(...args: any[]): any;
+    	userPresentableErrorWithCloudError_document(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v56@0:8@16Q24@32:40^v48 */

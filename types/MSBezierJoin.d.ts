@@ -9,11 +9,11 @@ declare namespace sketchInternal {
     /* typeEncoding=@"MSBezierSegment", ivar=_segment2, attributes=(assign,nonatomic,readonly) */
     	segment2(): MSBezierSegment;
     /* typeEncoding=@32@0:8@16@24 */
-    	static joinWithSegment1_segment2(...args: any[]): any;
+    	joinWithSegment1_segment2(...args: any[]): any;
     /* typeEncoding=@40@0:8@16@24Q32 */
-    	static joinWithSegment1_segment2_strategy(...args: any[]): any;
+    	joinWithSegment1_segment2_strategy(...args: any[]): any;
     /* typeEncoding=@32@0:8@16@24 */
-    	static segmentsByJoiningSegment1_segment2(...args: any[]): any;
+    	segmentsByJoiningSegment1_segment2(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

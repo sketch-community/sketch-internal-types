@@ -3,7 +3,7 @@
 declare namespace sketchInternal {
   interface MSRunCustomScriptAction extends MSAction {
     /* typeEncoding=@16@0:8 */
-    	static existingSheet(...args: any[]): any;
+    	existingSheet(...args: any[]): any;
     /* typeEncoding=v24@0:8@16 */
     	doPerformAction(...args: any[]): any;
     /* typeEncoding=@16@0:8 */

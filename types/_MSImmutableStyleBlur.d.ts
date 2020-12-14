@@ -13,9 +13,9 @@ declare namespace sketchInternal {
     /* typeEncoding=Q, ivar=_type, attributes=(assign,nonatomic) */
     	type(): number;
     /* typeEncoding=c16@0:8 */
-    	static isEnabledByDefault(...args: any[]): any;
+    	isEnabledByDefault(...args: any[]): any;
     /* typeEncoding=#16@0:8 */
-    	static mutableClass(...args: any[]): any;
+    	mutableClass(...args: any[]): any;
     /* typeEncoding={CGPoint=dd}16@0:8 */
     	center(...args: any[]): any;
     /* typeEncoding=v32@0:8@16@24 */

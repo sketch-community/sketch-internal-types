@@ -7,7 +7,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@?, ivar=_imageFreeBlock, attributes=(copy,nonatomic) */
     	imageFreeBlock(): any;
     /* typeEncoding=^{CGImage=}72@0:8{CGSize=dd}16d32d40Q48^{CGColorSpace=}56@?64 */
-    	static createImageWithSize_blurRadius_saturation_options_colorSpace_drawingBlock(...args: any[]): any;
+    	createImageWithSize_blurRadius_saturation_options_colorSpace_drawingBlock(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=^{vImage_Buffer=^vQQQ}52@0:8^{vImage_Buffer=^vQQQ}16^{vImage_Buffer=^vQQQ}24^v32I40Q44 */

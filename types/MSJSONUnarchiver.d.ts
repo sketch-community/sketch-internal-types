@@ -17,13 +17,13 @@ declare namespace sketchInternal {
     /* typeEncoding=#, ivar=(null), attributes=(assign,readonly) */
     	superclass(): any;
     /* typeEncoding=v16@0:8 */
-    	static defineReplacementClasses(): void;
+    	defineReplacementClasses(): void;
     /* typeEncoding=v16@0:8 */
-    	static load(): void;
+    	load(): void;
     /* typeEncoding=v24@0:8#16 */
-    	static registerGenericClass(...args: any[]): any;
+    	registerGenericClass(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static unarchiverFromCoder(...args: any[]): any;
+    	unarchiverFromCoder(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v32@0:8@16@24 */

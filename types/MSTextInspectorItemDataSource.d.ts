@@ -19,7 +19,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"MSAutoSelectingArrayController", ivar=_underlineController, attributes=(retain,nonatomic) */
     	underlineController(): MSAutoSelectingArrayController;
     /* typeEncoding=@24@0:8@16 */
-    	static selectedParagraphsOfTextView(...args: any[]): any;
+    	selectedParagraphsOfTextView(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

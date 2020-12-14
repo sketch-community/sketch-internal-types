@@ -33,11 +33,11 @@ declare namespace sketchInternal {
     /* typeEncoding=d, ivar=(null), attributes=(assign,nonatomic,readonly) */
     	thickestStrokeDoubledForClipping(): number;
     /* typeEncoding=#24@0:8Q16 */
-    	static immutableStylePartClassOfType(...args: any[]): any;
+    	immutableStylePartClassOfType(...args: any[]): any;
     /* typeEncoding=#24@0:8Q16 */
-    	static stylePartClassOfType(...args: any[]): any;
+    	stylePartClassOfType(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static styleWithFillColor(...args: any[]): any;
+    	styleWithFillColor(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v24@0:8@16 */

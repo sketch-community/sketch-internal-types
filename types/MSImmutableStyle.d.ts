@@ -55,7 +55,7 @@ declare namespace sketchInternal {
     /* typeEncoding=d, ivar=_thickestStrokeDoubledForClipping, attributes=(assign,nonatomic,readonly) */
     	thickestStrokeDoubledForClipping(): number;
     /* typeEncoding=c16@0:8 */
-    	static persistsObjectID(...args: any[]): any;
+    	persistsObjectID(...args: any[]): any;
     /* typeEncoding={CGRect={CGPoint=dd}{CGSize=dd}}32@0:8@16@24 */
     	_boundsForShadow_path(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */

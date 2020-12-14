@@ -3,7 +3,7 @@
 declare namespace sketchInternal {
   interface MSBaseShapeAction extends MSBaseInsertAction {
     /* typeEncoding=@40@0:8@16@24@32 */
-    	static insertShapeLayer_identifier_document(...args: any[]): any;
+    	insertShapeLayer_identifier_document(...args: any[]): any;
     /* typeEncoding=v24@0:8@16 */
     	doPerformAction(...args: any[]): any;
     /* typeEncoding=@16@0:8 */

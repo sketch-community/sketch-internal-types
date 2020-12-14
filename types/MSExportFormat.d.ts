@@ -5,21 +5,21 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSString", ivar=(null), attributes=(assign,readonly) */
     	baseFileName(): cocoascript.NSString;
     /* typeEncoding=@28@0:8@16c24 */
-    	static cleanLayerNameForUseInPath_shouldRecurse(...args: any[]): any;
+    	cleanLayerNameForUseInPath_shouldRecurse(...args: any[]): any;
     /* typeEncoding=@28@0:8@16c24 */
-    	static cleanLayerNamePrefix_shouldRecurse(...args: any[]): any;
+    	cleanLayerNamePrefix_shouldRecurse(...args: any[]): any;
     /* typeEncoding=@32@0:8@16@24 */
-    	static exportableFilenameBodyForLayerName_exportFormat(...args: any[]): any;
+    	exportableFilenameBodyForLayerName_exportFormat(...args: any[]): any;
     /* typeEncoding=@32@0:8@16@24 */
-    	static exportableFilenameForLayerName_exportFormat(...args: any[]): any;
+    	exportableFilenameForLayerName_exportFormat(...args: any[]): any;
     /* typeEncoding=@40@0:8d16@24@32 */
-    	static formatWithScale_name_fileFormat(...args: any[]): any;
+    	formatWithScale_name_fileFormat(...args: any[]): any;
     /* typeEncoding=@56@0:8d16@24@32d40q48 */
-    	static formatWithScale_name_fileFormat_absoluteSize_namingScheme(...args: any[]): any;
+    	formatWithScale_name_fileFormat_absoluteSize_namingScheme(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static sanitizeLayerName(...args: any[]): any;
+    	sanitizeLayerName(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static validFormats(...args: any[]): any;
+    	validFormats(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
     	baseFileName(...args: any[]): any;
     /* typeEncoding=@16@0:8 */

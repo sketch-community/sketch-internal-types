@@ -3,7 +3,7 @@
 declare namespace sketchInternal {
   interface MSBitmapLayerSection extends MSSingleItemInspectorSection {
     /* typeEncoding=#16@0:8 */
-    	static itemClass(...args: any[]): any;
+    	itemClass(...args: any[]): any;
   }
 }
 

@@ -35,11 +35,11 @@ declare namespace sketchInternal {
     /* typeEncoding=#, ivar=(null), attributes=(assign,readonly) */
     	superclass(): any;
     /* typeEncoding=c24@0:8@16 */
-    	static canHandleStylePart(...args: any[]): any;
+    	canHandleStylePart(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static filterSelection(...args: any[]): any;
+    	filterSelection(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static presetPickerVisibilityDefaultsKey(...args: any[]): any;
+    	presetPickerVisibilityDefaultsKey(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

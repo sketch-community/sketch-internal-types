@@ -7,7 +7,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"MSImmutableLayerGroup", ivar=_groupBefore, attributes=(retain,nonatomic) */
     	groupBefore(): MSImmutableLayerGroup;
     /* typeEncoding=v32@0:8@16@24 */
-    	static applyInferredLayoutRulesInGroup_recordedState(...args: any[]): any;
+    	applyInferredLayoutRulesInGroup_recordedState(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v24@0:8d16 */

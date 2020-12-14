@@ -43,7 +43,7 @@ declare namespace sketchInternal {
     /* typeEncoding=#, ivar=(null), attributes=(assign,readonly) */
     	superclass(): any;
     /* typeEncoding=Q16@0:8 */
-    	static traits(...args: any[]): any;
+    	traits(...args: any[]): any;
     /* typeEncoding=@40@0:8@16@24@32 */
     	addContentToElement_attributes_exporter(...args: any[]): any;
     /* typeEncoding=v32@0:8@16@24 */

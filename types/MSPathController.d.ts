@@ -11,7 +11,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSArray", ivar=(null), attributes=(copy,nonatomic) */
     	selectionComponents(): cocoascript.NSArray;
     /* typeEncoding=@16@0:8 */
-    	static keyPathsForValuesAffectingSelectedObjects(...args: any[]): any;
+    	keyPathsForValuesAffectingSelectedObjects(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

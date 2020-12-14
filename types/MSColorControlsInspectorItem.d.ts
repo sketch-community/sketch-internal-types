@@ -19,7 +19,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"MSInlineUpDownNanoTextField", ivar=_saturationField, attributes=(retain,nonatomic) */
     	saturationField(): MSInlineUpDownNanoTextField;
     /* typeEncoding=v40@0:8@16@24@32 */
-    	static setupTextField_adaptor_valueTransformer(...args: any[]): any;
+    	setupTextField_adaptor_valueTransformer(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

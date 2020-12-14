@@ -19,11 +19,11 @@ declare namespace sketchInternal {
     /* typeEncoding=@"MSPath", ivar=(null), attributes=(assign,nonatomic,readonly) */
     	transformedPath(): MSPath;
     /* typeEncoding=@80@0:8@16{CGAffineTransform=dddddd}24^{CGColor=}72 */
-    	static filledItemForPath_transform_color(...args: any[]): any;
+    	filledItemForPath_transform_color(...args: any[]): any;
     /* typeEncoding=@88@0:8@16{CGAffineTransform=dddddd}24^{CGColor=}72d80 */
-    	static itemForPath_transform_color_lineWidth(...args: any[]): any;
+    	itemForPath_transform_color_lineWidth(...args: any[]): any;
     /* typeEncoding=@96@0:8@16{CGAffineTransform=dddddd}24^{CGColor=}72d80@88 */
-    	static itemForPath_transform_color_lineWidth_dashes(...args: any[]): any;
+    	itemForPath_transform_color_lineWidth_dashes(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=^{CGColor=}16@0:8 */

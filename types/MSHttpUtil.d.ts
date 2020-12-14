@@ -3,15 +3,15 @@
 declare namespace sketchInternal {
   interface MSHttpUtil extends NSObject {
     /* typeEncoding=@24@0:8@16 */
-    	static hideSecret(...args: any[]): any;
+    	hideSecret(...args: any[]): any;
     /* typeEncoding=c24@0:8@16 */
-    	static isNoInternetConnectionError(...args: any[]): any;
+    	isNoInternetConnectionError(...args: any[]): any;
     /* typeEncoding=c24@0:8q16 */
-    	static isRecoverableError(...args: any[]): any;
+    	isRecoverableError(...args: any[]): any;
     /* typeEncoding=c24@0:8@16 */
-    	static isSSLConnectionError(...args: any[]): any;
+    	isSSLConnectionError(...args: any[]): any;
     /* typeEncoding=c24@0:8q16 */
-    	static isSuccessStatusCode(...args: any[]): any;
+    	isSuccessStatusCode(...args: any[]): any;
   }
 }
 

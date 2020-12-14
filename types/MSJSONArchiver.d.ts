@@ -5,13 +5,13 @@ declare namespace sketchInternal {
     /* typeEncoding=@"BCJSONEncoder", ivar=(null), attributes=(assign,nonatomic,readonly) */
     	encoder(): BCJSONEncoder;
     /* typeEncoding=v32@0:8@16@24 */
-    	static archiveObject_coder(...args: any[]): any;
+    	archiveObject_coder(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static archiverFromCoder(...args: any[]): any;
+    	archiverFromCoder(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
-    	static defineClassAliases(): void;
+    	defineClassAliases(): void;
     /* typeEncoding=v16@0:8 */
-    	static load(): void;
+    	load(): void;
     /* typeEncoding=v28@0:8c16@20 */
     	encodeBool_forKey(...args: any[]): any;
     /* typeEncoding=v32@0:8d16@24 */

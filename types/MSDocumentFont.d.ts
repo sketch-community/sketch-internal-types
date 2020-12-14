@@ -27,15 +27,15 @@ declare namespace sketchInternal {
     /* typeEncoding=c, ivar=_used, attributes=(assign,nonatomic,getter=isUsed) */
     	used(): boolean;
     /* typeEncoding=@24@0:8@16 */
-    	static documentFontKeyforPostscriptName(...args: any[]): any;
+    	documentFontKeyforPostscriptName(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static documentFontWithReference(...args: any[]): any;
+    	documentFontWithReference(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static documentFontWithUnavailableFontName(...args: any[]): any;
+    	documentFontWithUnavailableFontName(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static embeddableFontsInDocument(...args: any[]): any;
+    	embeddableFontsInDocument(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static missingFontsInDocument(...args: any[]): any;
+    	missingFontsInDocument(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

@@ -3,7 +3,7 @@
 declare namespace sketchInternal {
   interface MSColorAssetCollectionViewItem extends MSAssetCollectionViewItem {
     /* typeEncoding=@32@0:8@16Q24 */
-    	static stringForColor_representation(...args: any[]): any;
+    	stringForColor_representation(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
     	color(...args: any[]): any;
     /* typeEncoding=v24@0:8@16 */

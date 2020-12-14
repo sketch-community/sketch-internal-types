@@ -5,11 +5,11 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSString", ivar=(null), attributes=(assign,nonatomic,readonly) */
     	remoteSymbolID(): cocoascript.NSString;
     /* typeEncoding=@24@0:8@16 */
-    	static foreignObjectCollectionInDocument(...args: any[]): any;
+    	foreignObjectCollectionInDocument(...args: any[]): any;
     /* typeEncoding=@32@0:8@16@24 */
-    	static foreignSymbolWithMaster_inLibrary(...args: any[]): any;
+    	foreignSymbolWithMaster_inLibrary(...args: any[]): any;
     /* typeEncoding=@32@0:8@16@24 */
-    	static masterFromDocument_withID(...args: any[]): any;
+    	masterFromDocument_withID(...args: any[]): any;
     /* typeEncoding=@28@0:8@16c24 */
     	childCollaborationObjectWithID_removing(...args: any[]): any;
     /* typeEncoding=c24@0:8@16 */

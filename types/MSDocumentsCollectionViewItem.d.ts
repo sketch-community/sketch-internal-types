@@ -23,7 +23,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"MSDocumentsCollectionTextField", ivar=(null), attributes=(retain,dynamic,nonatomic) */
     	textField(): MSDocumentsCollectionTextField;
     /* typeEncoding=@16@0:8 */
-    	static reuseIdentifier(...args: any[]): any;
+    	reuseIdentifier(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

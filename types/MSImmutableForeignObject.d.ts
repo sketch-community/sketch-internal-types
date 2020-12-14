@@ -5,7 +5,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"MSImmutableModelObject", ivar=(null), attributes=(assign,nonatomic,readonly) */
     	localObject(): MSImmutableModelObject;
     /* typeEncoding=c16@0:8 */
-    	static persistsObjectID(...args: any[]): any;
+    	persistsObjectID(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
     	localObject(...args: any[]): any;
   }

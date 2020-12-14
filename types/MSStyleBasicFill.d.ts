@@ -13,21 +13,21 @@ declare namespace sketchInternal {
     /* typeEncoding=#, ivar=(null), attributes=(assign,readonly) */
     	superclass(): any;
     /* typeEncoding=v68@0:8@16@24c32{CGRect={CGPoint=dd}{CGSize=dd}}36 */
-    	static drawBasicFill_colorSpace_enabled_inRect(...args: any[]): any;
+    	drawBasicFill_colorSpace_enabled_inRect(...args: any[]): any;
     /* typeEncoding=v48@0:8{CGRect={CGPoint=dd}{CGSize=dd}}16 */
-    	static drawCheckerboardBackgroundInRect(...args: any[]): any;
+    	drawCheckerboardBackgroundInRect(...args: any[]): any;
     /* typeEncoding=v68@0:8{CGRect={CGPoint=dd}{CGSize=dd}}16d48c56@60 */
-    	static drawCheckerboardBackgroundInRect_checkerboardSize_forDarkAppearance_backgroundColor(...args: any[]): any;
+    	drawCheckerboardBackgroundInRect_checkerboardSize_forDarkAppearance_backgroundColor(...args: any[]): any;
     /* typeEncoding=v60@0:8@16c24{CGRect={CGPoint=dd}{CGSize=dd}}28 */
-    	static drawColor_enabled_inRect(...args: any[]): any;
+    	drawColor_enabled_inRect(...args: any[]): any;
     /* typeEncoding=v72@0:8@16c24{CGRect={CGPoint=dd}{CGSize=dd}}28d60c68 */
-    	static drawColor_enabled_inRect_checkerboardSize_forDarkAppearance(...args: any[]): any;
+    	drawColor_enabled_inRect_checkerboardSize_forDarkAppearance(...args: any[]): any;
     /* typeEncoding=v64@0:8@16@24{CGRect={CGPoint=dd}{CGSize=dd}}32 */
-    	static drawColorFill_colorSpace_inRect(...args: any[]): any;
+    	drawColorFill_colorSpace_inRect(...args: any[]): any;
     /* typeEncoding=v64@0:8@16@24{CGRect={CGPoint=dd}{CGSize=dd}}32 */
-    	static drawGradientFill_colorSpace_inRect(...args: any[]): any;
+    	drawGradientFill_colorSpace_inRect(...args: any[]): any;
     /* typeEncoding=v56@0:8@16{CGRect={CGPoint=dd}{CGSize=dd}}24 */
-    	static drawPatternFill_inRect(...args: any[]): any;
+    	drawPatternFill_inRect(...args: any[]): any;
     /* typeEncoding=v24@0:8@16 */
     	configureFillForPreview(...args: any[]): any;
     /* typeEncoding=c24@0:8@16 */

@@ -9,9 +9,9 @@ declare namespace sketchInternal {
     /* typeEncoding={CGPoint=dd}, ivar=_sourcePoint, attributes=(assign,nonatomic,readonly) */
     	sourcePoint(): CGPoint;
     /* typeEncoding=@48@0:8{CGPoint=dd}16{CGPoint=dd}32 */
-    	static axisAlignedOrDiagonalConstraintFromPoint_toPoint(...args: any[]): any;
+    	axisAlignedOrDiagonalConstraintFromPoint_toPoint(...args: any[]): any;
     /* typeEncoding=@48@0:8{CGPoint=dd}16{CGPoint=dd}32 */
-    	static constraintWithSourcePoint_toPoint(...args: any[]): any;
+    	constraintWithSourcePoint_toPoint(...args: any[]): any;
     /* typeEncoding=@64@0:8{CGAffineTransform=dddddd}16 */
     	constraintByApplyingTransform(...args: any[]): any;
     /* typeEncoding=@24@0:8^{_NSZone=}16 */

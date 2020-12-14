@@ -31,9 +31,9 @@ declare namespace sketchInternal {
     /* typeEncoding=@"MSAssetLibraryUpdatingInfo", ivar=_updatingInfo, attributes=(retain,nonatomic) */
     	updatingInfo(): MSAssetLibraryUpdatingInfo;
     /* typeEncoding=@24@0:8@16 */
-    	static URLForApplicationSupportLibraryNamed(...args: any[]): any;
+    	URLForApplicationSupportLibraryNamed(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static assetLibraryFolder(...args: any[]): any;
+    	assetLibraryFolder(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

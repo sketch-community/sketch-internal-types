@@ -3,7 +3,7 @@
 declare namespace sketchInternal {
   interface MSInspectorHoverButton extends MSInspectorPushButton {
     /* typeEncoding=#16@0:8 */
-    	static cellClass(...args: any[]): any;
+    	cellClass(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	addTackingRect(): void;
     /* typeEncoding=v16@0:8 */

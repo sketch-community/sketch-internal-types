@@ -7,11 +7,11 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSString", ivar=(null), attributes=(assign,nonatomic,readonly) */
     	remoteShareID(): cocoascript.NSString;
     /* typeEncoding=@24@0:8@16 */
-    	static foreignObjectCollectionInDocument(...args: any[]): any;
+    	foreignObjectCollectionInDocument(...args: any[]): any;
     /* typeEncoding=@32@0:8@16@24 */
-    	static masterFromDocument_withID(...args: any[]): any;
+    	masterFromDocument_withID(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static remoteSharedIDFromSymbolPrivateID(...args: any[]): any;
+    	remoteSharedIDFromSymbolPrivateID(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	correctInvalidGamma(): void;
     /* typeEncoding=@32@0:8@16@24 */

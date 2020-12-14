@@ -47,7 +47,7 @@ declare namespace sketchInternal {
     /* typeEncoding=c, ivar=(null), attributes=(assign,readonly) */
     	wantsStandardSelectionControls(): boolean;
     /* typeEncoding=@24@0:8@16 */
-    	static eventHandlerWithManager(...args: any[]): any;
+    	eventHandlerWithManager(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=c48@0:8{CGPoint=dd}16Q32Q40 */

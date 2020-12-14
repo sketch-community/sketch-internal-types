@@ -13,7 +13,7 @@ declare namespace sketchInternal {
     /* typeEncoding=q, ivar=_version, attributes=(assign,nonatomic) */
     	version(): number;
     /* typeEncoding=@16@0:8 */
-    	static metadataForNewHeader(...args: any[]): any;
+    	metadataForNewHeader(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=q16@0:8 */

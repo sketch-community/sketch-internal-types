@@ -63,15 +63,15 @@ declare namespace sketchInternal {
     /* typeEncoding=q, ivar=(null), attributes=(assign,nonatomic,readonly) */
     	validationStatus(): number;
     /* typeEncoding=@16@0:8 */
-    	static baseImageName(...args: any[]): any;
+    	baseImageName(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static classNamesToImageNamesDictionary(...args: any[]): any;
+    	classNamesToImageNamesDictionary(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static imageName(...args: any[]): any;
+    	imageName(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static imageNameWithBaseName(...args: any[]): any;
+    	imageNameWithBaseName(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static imageSuffix(...args: any[]): any;
+    	imageSuffix(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

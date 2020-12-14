@@ -19,15 +19,15 @@ declare namespace sketchInternal {
     /* typeEncoding=#, ivar=(null), attributes=(assign,readonly) */
     	superclass(): any;
     /* typeEncoding=@16@0:8 */
-    	static emptyStyle(...args: any[]): any;
+    	emptyStyle(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static previewBackgroundColor(...args: any[]): any;
+    	previewBackgroundColor(...args: any[]): any;
     /* typeEncoding=c32@0:8@16@24 */
-    	static previewNeedsBackgroundForColor_theme(...args: any[]): any;
+    	previewNeedsBackgroundForColor_theme(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static styleWithAttributes(...args: any[]): any;
+    	styleWithAttributes(...args: any[]): any;
     /* typeEncoding=c56@0:8@16@24@32@40Q48 */
-    	static textAttributes_inDocument_areEqualTo_inDocument_forPurpose(...args: any[]): any;
+    	textAttributes_inDocument_areEqualTo_inDocument_forPurpose(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

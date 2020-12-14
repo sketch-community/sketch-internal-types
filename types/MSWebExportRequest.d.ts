@@ -7,7 +7,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"MSImmutableLayer<MSWebExportableRootLayer>", ivar=(null), attributes=(retain,dynamic,nonatomic) */
     	rootLayer(): any;
     /* typeEncoding=@32@0:8@16d24 */
-    	static webExportRequestFromLayerAncestry_atScale(...args: any[]): any;
+    	webExportRequestFromLayerAncestry_atScale(...args: any[]): any;
     /* typeEncoding=@24@0:8^{_NSZone=}16 */
     	copyWithZone(...args: any[]): any;
     /* typeEncoding=@16@0:8 */

@@ -3,7 +3,7 @@
 declare namespace sketchInternal {
   interface MSDocumentError extends NSError {
     /* typeEncoding=@24@0:8Q16 */
-    	static errorWithCode(...args: any[]): any;
+    	errorWithCode(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
     	localizedFailureReason(...args: any[]): any;
   }

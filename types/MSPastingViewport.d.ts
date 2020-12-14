@@ -7,7 +7,7 @@ declare namespace sketchInternal {
     /* typeEncoding=d, ivar=_zoomValue, attributes=(assign,nonatomic) */
     	zoomValue(): number;
     /* typeEncoding=@56@0:8{CGRect={CGPoint=dd}{CGSize=dd}}16d48 */
-    	static viewportWithVisibleRect_zoom(...args: any[]): any;
+    	viewportWithVisibleRect_zoom(...args: any[]): any;
     /* typeEncoding=c24@0:8@16 */
     	isEqual(...args: any[]): any;
     /* typeEncoding=v48@0:8{CGRect={CGPoint=dd}{CGSize=dd}}16 */

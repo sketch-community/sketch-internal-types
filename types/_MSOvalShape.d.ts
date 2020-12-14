@@ -3,9 +3,9 @@
 declare namespace sketchInternal {
   interface _MSOvalShape extends MSShapePathLayer {
     /* typeEncoding=c16@0:8 */
-    	static allowsFaulting(...args: any[]): any;
+    	allowsFaulting(...args: any[]): any;
     /* typeEncoding=#16@0:8 */
-    	static immutableClass(...args: any[]): any;
+    	immutableClass(...args: any[]): any;
     /* typeEncoding=@28@0:8@16c24 */
     	childCollaborationObjectWithID_removing(...args: any[]): any;
     /* typeEncoding=v32@0:8@16Q24 */

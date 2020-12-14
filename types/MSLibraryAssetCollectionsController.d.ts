@@ -9,17 +9,17 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSArray", ivar=_supportedAssetTypes, attributes=(retain,nonatomic) */
     	supportedAssetTypes(): cocoascript.NSArray;
     /* typeEncoding=v24@0:8@16 */
-    	static cleanupPersistedHashesNotIncludedInHelpersInBackground(...args: any[]): any;
+    	cleanupPersistedHashesNotIncludedInHelpersInBackground(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static containerDataURLForLibraryIdentifier(...args: any[]): any;
+    	containerDataURLForLibraryIdentifier(...args: any[]): any;
     /* typeEncoding=@32@0:8@16Q24 */
-    	static dataURLForLibraryIdentifier_assetKind(...args: any[]): any;
+    	dataURLForLibraryIdentifier_assetKind(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static dispatchQueue(...args: any[]): any;
+    	dispatchQueue(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static identifierForLibrary(...args: any[]): any;
+    	identifierForLibrary(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static lastReadAssetsDataContainer(...args: any[]): any;
+    	lastReadAssetsDataContainer(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

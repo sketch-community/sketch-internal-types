@@ -29,17 +29,17 @@ declare namespace sketchInternal {
     /* typeEncoding=#, ivar=(null), attributes=(assign,readonly) */
     	superclass(): any;
     /* typeEncoding=@24@0:8@16 */
-    	static documentURLInDirectory(...args: any[]): any;
+    	documentURLInDirectory(...args: any[]): any;
     /* typeEncoding=v48@0:8@16@24@32@?40 */
-    	static exportArtboardsOfDocument_withName_toLocalURL_completionBlock(...args: any[]): any;
+    	exportArtboardsOfDocument_withName_toLocalURL_completionBlock(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static exportBitmapImageForRequest(...args: any[]): any;
+    	exportBitmapImageForRequest(...args: any[]): any;
     /* typeEncoding=v48@0:8@16@24@32@?40 */
-    	static exportSelectedArtboardsOfDocument_withName_toLocalURL_completionBlock(...args: any[]): any;
+    	exportSelectedArtboardsOfDocument_withName_toLocalURL_completionBlock(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static exportViewportBitmapImageForRequest(...args: any[]): any;
+    	exportViewportBitmapImageForRequest(...args: any[]): any;
     /* typeEncoding=@32@0:8@16@24 */
-    	static imageURLWithHash_inDirectory(...args: any[]): any;
+    	imageURLWithHash_inDirectory(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v36@0:8@?16c24@28 */

@@ -21,7 +21,7 @@ declare namespace sketchInternal {
     /* typeEncoding=#, ivar=(null), attributes=(assign,readonly) */
     	superclass(): any;
     /* typeEncoding=@16@0:8 */
-    	static stylePartPasteboardType(...args: any[]): any;
+    	stylePartPasteboardType(...args: any[]): any;
     /* typeEncoding=@48@0:8d16@24@32@40 */
     	addBlurWithRadius_input_output_filter(...args: any[]): any;
     /* typeEncoding=@48@0:8@16@24@32@40 */

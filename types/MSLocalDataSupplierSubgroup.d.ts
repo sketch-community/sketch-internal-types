@@ -13,13 +13,13 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSURL", ivar=_subgroupURL, attributes=(assign,nonatomic,readonly) */
     	subgroupURL(): cocoascript.NSURL;
     /* typeEncoding=@24@0:8@16 */
-    	static dataSupplierIdentifiersForDataSuppliers(...args: any[]): any;
+    	dataSupplierIdentifiersForDataSuppliers(...args: any[]): any;
     /* typeEncoding=@32@0:8@16@24 */
-    	static localDataSupplierSubgroupWithURL_localDataSupplierGroup(...args: any[]): any;
+    	localDataSupplierSubgroupWithURL_localDataSupplierGroup(...args: any[]): any;
     /* typeEncoding=@32@0:8@16@24 */
-    	static localDataSupplierSubgroupsInFolder_localDataSupplierGroup(...args: any[]): any;
+    	localDataSupplierSubgroupsInFolder_localDataSupplierGroup(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static localDataSuppliersInFolder(...args: any[]): any;
+    	localDataSuppliersInFolder(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

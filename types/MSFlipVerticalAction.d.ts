@@ -3,7 +3,7 @@
 declare namespace sketchInternal {
   interface MSFlipVerticalAction extends MSBaseFlipAction {
     /* typeEncoding=@16@0:8 */
-    	static flipVerticalHistoryTitle(...args: any[]): any;
+    	flipVerticalHistoryTitle(...args: any[]): any;
     /* typeEncoding=c16@0:8 */
     	areAllSelectedLayersFlippedVertically(...args: any[]): any;
     /* typeEncoding=v24@0:8@16 */

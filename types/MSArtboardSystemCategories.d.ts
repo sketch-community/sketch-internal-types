@@ -3,7 +3,7 @@
 declare namespace sketchInternal {
   interface MSArtboardSystemCategories extends NSObject {
     /* typeEncoding=@16@0:8 */
-    	static defaultCategories(...args: any[]): any;
+    	defaultCategories(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
     	init(...args: any[]): any;
   }

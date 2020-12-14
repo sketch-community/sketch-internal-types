@@ -27,19 +27,19 @@ declare namespace sketchInternal {
     /* typeEncoding={BCLine=ddd}, ivar=(null), attributes=(assign,nonatomic,readonly) */
     	startTangent(): BCLine;
     /* typeEncoding=@96@0:8{BCBezierSegment=(?=[4{CGPoint=dd}]{?={CGPoint=dd}{CGPoint=dd}{CGPoint=dd}{CGPoint=dd}})i}16^d88 */
-    	static arcApproximationForSegment_absoluteError(...args: any[]): any;
+    	arcApproximationForSegment_absoluteError(...args: any[]): any;
     /* typeEncoding=@96@0:8{BCBezierSegment=(?=[4{CGPoint=dd}]{?={CGPoint=dd}{CGPoint=dd}{CGPoint=dd}{CGPoint=dd}})i}16d88 */
-    	static arcApproximationForSegment_maximumError(...args: any[]): any;
+    	arcApproximationForSegment_maximumError(...args: any[]): any;
     /* typeEncoding=@68@0:8{CGPoint=dd}16{CGPoint=dd}32{CGPoint=dd}48c64 */
-    	static arcWithEndPoint1_endPoint2_center_clockwise(...args: any[]): any;
+    	arcWithEndPoint1_endPoint2_center_clockwise(...args: any[]): any;
     /* typeEncoding=@64@0:8{CGPoint=dd}16{CGPoint=dd}32{CGPoint=dd}48 */
-    	static arcWithPoints_endPoint2_onCurvePoint(...args: any[]): any;
+    	arcWithPoints_endPoint2_onCurvePoint(...args: any[]): any;
     /* typeEncoding=@96@0:8{BCBezierSegment=(?=[4{CGPoint=dd}]{?={CGPoint=dd}{CGPoint=dd}{CGPoint=dd}{CGPoint=dd}})i}16^d88 */
-    	static biarcApproximationForSegment_absoluteError(...args: any[]): any;
+    	biarcApproximationForSegment_absoluteError(...args: any[]): any;
     /* typeEncoding=@48@0:8{CGPoint=dd}16{CGPoint=dd}32 */
-    	static lineWithEndPoint1_endPoint2(...args: any[]): any;
+    	lineWithEndPoint1_endPoint2(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static singleArcApproximationForSegment(...args: any[]): any;
+    	singleArcApproximationForSegment(...args: any[]): any;
     /* typeEncoding=d88@0:8{BCBezierSegment=(?=[4{CGPoint=dd}]{?={CGPoint=dd}{CGPoint=dd}{CGPoint=dd}{CGPoint=dd}})i}16 */
     	absoluteErrorWithSegment(...args: any[]): any;
     /* typeEncoding=@16@0:8 */

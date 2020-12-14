@@ -19,11 +19,11 @@ declare namespace sketchInternal {
     /* typeEncoding=#, ivar=(null), attributes=(assign,readonly) */
     	superclass(): any;
     /* typeEncoding=@40@0:8@16q24@32 */
-    	static menuItemAttributedTitleForColorCounter_colorModel_document(...args: any[]): any;
+    	menuItemAttributedTitleForColorCounter_colorModel_document(...args: any[]): any;
     /* typeEncoding=@64@0:8@16@24:32@40q48@56 */
-    	static menuItemForColorCounter_target_action_documentColorSpace_colorModel_document(...args: any[]): any;
+    	menuItemForColorCounter_target_action_documentColorSpace_colorModel_document(...args: any[]): any;
     /* typeEncoding=@32@0:8@16@24 */
-    	static previewImageForColorCounter_documentColorSpace(...args: any[]): any;
+    	previewImageForColorCounter_documentColorSpace(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

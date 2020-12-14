@@ -15,11 +15,11 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSPointerArray", ivar=_decodedObjectStack, attributes=(retain,nonatomic) */
     	decodedObjectStack(): cocoascript.NSPointerArray;
     /* typeEncoding=@24@0:8@16 */
-    	static unarchivedObjectFromData(...args: any[]): any;
+    	unarchivedObjectFromData(...args: any[]): any;
     /* typeEncoding=@40@0:8@16^q24^@32 */
-    	static unarchivedObjectFromData_actualVersion_error(...args: any[]): any;
+    	unarchivedObjectFromData_actualVersion_error(...args: any[]): any;
     /* typeEncoding=@48@0:8@16q24^c32^@40 */
-    	static unarchivedObjectFromData_asVersion_corruptionDetected_error(...args: any[]): any;
+    	unarchivedObjectFromData_asVersion_corruptionDetected_error(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

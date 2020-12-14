@@ -13,7 +13,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSString", ivar=(null), attributes=(assign,nonatomic,readonly) */
     	subgroupName(): cocoascript.NSString;
     /* typeEncoding=@40@0:8@16@24@32 */
-    	static identifierWithPluginIdentifier_commandIdentifier_dynamicDataKey(...args: any[]): any;
+    	identifierWithPluginIdentifier_commandIdentifier_dynamicDataKey(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

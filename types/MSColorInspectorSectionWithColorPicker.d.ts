@@ -9,7 +9,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"MSCollapsibleHeaderInspectorItem", ivar=_pickerHeaderItem, attributes=(retain,nonatomic) */
     	pickerHeaderItem(): MSCollapsibleHeaderInspectorItem;
     /* typeEncoding=v16@0:8 */
-    	static initialize(): void;
+    	initialize(): void;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

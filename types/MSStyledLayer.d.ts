@@ -41,23 +41,23 @@ declare namespace sketchInternal {
     /* typeEncoding=#, ivar=(null), attributes=(assign,readonly) */
     	superclass(): any;
     /* typeEncoding=@24@0:8@16 */
-    	static layerWithImage(...args: any[]): any;
+    	layerWithImage(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static layerWithImageFromFileURL(...args: any[]): any;
+    	layerWithImageFromFileURL(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static layerWithImageFromPasteboard(...args: any[]): any;
+    	layerWithImageFromPasteboard(...args: any[]): any;
     /* typeEncoding=v32@0:8@16@24 */
-    	static pasteExportOptions_onLayers(...args: any[]): any;
+    	pasteExportOptions_onLayers(...args: any[]): any;
     /* typeEncoding=v40@0:8@16@24@32 */
-    	static pasteStyleDict_onLayers_document(...args: any[]): any;
+    	pasteStyleDict_onLayers_document(...args: any[]): any;
     /* typeEncoding=v40@0:8@16@24@32 */
-    	static pasteStyleFromPasteboard_onLayers_document(...args: any[]): any;
+    	pasteStyleFromPasteboard_onLayers_document(...args: any[]): any;
     /* typeEncoding=v32@0:8@16@24 */
-    	static pasteStyleFromPasteboardOnLayers_document(...args: any[]): any;
+    	pasteStyleFromPasteboardOnLayers_document(...args: any[]): any;
     /* typeEncoding=v40@0:8@16@24@32 */
-    	static pasteTextStyle_onLayers_document(...args: any[]): any;
+    	pasteTextStyle_onLayers_document(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static supportedPasteboardTypesForStyleCopying(...args: any[]): any;
+    	supportedPasteboardTypesForStyleCopying(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
     	CSSAttributes(...args: any[]): any;
     /* typeEncoding=v16@0:8 */

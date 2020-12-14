@@ -13,11 +13,11 @@ declare namespace sketchInternal {
     /* typeEncoding=#, ivar=(null), attributes=(assign,readonly) */
     	superclass(): any;
     /* typeEncoding=@16@0:8 */
-    	static defaultName(...args: any[]): any;
+    	defaultName(...args: any[]): any;
     /* typeEncoding=Q16@0:8 */
-    	static traits(...args: any[]): any;
+    	traits(...args: any[]): any;
     /* typeEncoding=Q24@0:8@16 */
-    	static traitsForPropertyName(...args: any[]): any;
+    	traitsForPropertyName(...args: any[]): any;
     /* typeEncoding={CGRect={CGPoint=dd}{CGSize=dd}}32@0:8@16@24 */
     	absoluteInfluenceRectForAncestorGroups_document(...args: any[]): any;
     /* typeEncoding=v28@0:8@16c24 */

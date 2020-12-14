@@ -35,9 +35,9 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSString", ivar=(null), attributes=(copy,nonatomic,readonly) */
     	warningString(): cocoascript.NSString;
     /* typeEncoding=@24@0:8@16 */
-    	static pluginInfoWithName(...args: any[]): any;
+    	pluginInfoWithName(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static pluginInfoWithPluginBundle(...args: any[]): any;
+    	pluginInfoWithPluginBundle(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

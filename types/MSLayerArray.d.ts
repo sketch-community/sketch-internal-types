@@ -13,11 +13,11 @@ declare namespace sketchInternal {
     /* typeEncoding=#, ivar=(null), attributes=(assign,readonly) */
     	superclass(): any;
     /* typeEncoding=@24@0:8@16 */
-    	static arrayWithLayer(...args: any[]): any;
+    	arrayWithLayer(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static arrayWithLayers(...args: any[]): any;
+    	arrayWithLayers(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static emptyArray(...args: any[]): any;
+    	emptyArray(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@24@0:8Q16 */

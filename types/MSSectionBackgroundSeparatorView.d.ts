@@ -5,11 +5,11 @@ declare namespace sketchInternal {
     /* typeEncoding={NSEdgeInsets=dddd}, ivar=_edgeInsets, attributes=(assign,nonatomic) */
     	edgeInsets(): NSEdgeInsets;
     /* typeEncoding=@16@0:8 */
-    	static separator(...args: any[]): any;
+    	separator(...args: any[]): any;
     /* typeEncoding=@48@0:8{NSEdgeInsets=dddd}16 */
-    	static separatorWithInsets(...args: any[]): any;
+    	separatorWithInsets(...args: any[]): any;
     /* typeEncoding=@56@0:8{NSEdgeInsets=dddd}16d48 */
-    	static separatorWithInsets_width(...args: any[]): any;
+    	separatorWithInsets_width(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
     	color(...args: any[]): any;
     /* typeEncoding=v48@0:8{CGRect={CGPoint=dd}{CGSize=dd}}16 */

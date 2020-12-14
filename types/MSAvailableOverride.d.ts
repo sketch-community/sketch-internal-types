@@ -47,13 +47,13 @@ declare namespace sketchInternal {
     /* typeEncoding=@"MSAvailableOverride", ivar=_parent, attributes=(assign,nonatomic,readonly,weak) */
     	parent(): MSAvailableOverride;
     /* typeEncoding=@72@0:8@16@24@32@40@48@56@64 */
-    	static availableOverrideWithOverridePoint_master_overrideValue_otherOverrides_overrideProperties_inParent_document(...args: any[]): any;
+    	availableOverrideWithOverridePoint_master_overrideValue_otherOverrides_overrideProperties_inParent_document(...args: any[]): any;
     /* typeEncoding=v32@0:8@16@?24 */
-    	static enumerateOverrides_withBlock(...args: any[]): any;
+    	enumerateOverrides_withBlock(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static flattenAvailableOverrides(...args: any[]): any;
+    	flattenAvailableOverrides(...args: any[]): any;
     /* typeEncoding=@40@0:8@16@24@32 */
-    	static overrideInOverrides_withPath_andPropertyName(...args: any[]): any;
+    	overrideInOverrides_withPath_andPropertyName(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

@@ -9,7 +9,7 @@ declare namespace sketchInternal {
     /* typeEncoding=c, ivar=_isNewShape, attributes=(assign,nonatomic,readonly) */
     	isNewShape(): boolean;
     /* typeEncoding=v16@0:8 */
-    	static initialize(): void;
+    	initialize(): void;
     /* typeEncoding=c16@0:8 */
     	allowClosingPathUsingMouse(...args: any[]): any;
     /* typeEncoding=c16@0:8 */

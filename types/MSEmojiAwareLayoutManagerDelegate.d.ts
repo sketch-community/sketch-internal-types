@@ -11,7 +11,7 @@ declare namespace sketchInternal {
     /* typeEncoding=#, ivar=(null), attributes=(assign,readonly) */
     	superclass(): any;
     /* typeEncoding=c72@0:8@16N^{CGRect={CGPoint=dd}{CGSize=dd}}24N^{CGRect={CGPoint=dd}{CGSize=dd}}32N^d40@48{_NSRange=QQ}56 */
-    	static layoutManager_shouldSetLineFragmentRect_lineFragmentUsedRect_baselineOffset_inTextContainer_forGlyphRange(...args: any[]): any;
+    	layoutManager_shouldSetLineFragmentRect_lineFragmentUsedRect_baselineOffset_inTextContainer_forGlyphRange(...args: any[]): any;
     /* typeEncoding=c72@0:8@16N^{CGRect={CGPoint=dd}{CGSize=dd}}24N^{CGRect={CGPoint=dd}{CGSize=dd}}32N^d40@48{_NSRange=QQ}56 */
     	layoutManager_shouldSetLineFragmentRect_lineFragmentUsedRect_baselineOffset_inTextContainer_forGlyphRange(...args: any[]): any;
   }

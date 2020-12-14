@@ -13,7 +13,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSArray", ivar=_systemFontFamilyNames, attributes=(retain,nonatomic) */
     	systemFontFamilyNames(): cocoascript.NSArray;
     /* typeEncoding=v16@0:8 */
-    	static initialize(): void;
+    	initialize(): void;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

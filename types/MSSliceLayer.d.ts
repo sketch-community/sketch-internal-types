@@ -15,7 +15,7 @@ declare namespace sketchInternal {
     /* typeEncoding=#, ivar=(null), attributes=(assign,readonly) */
     	superclass(): any;
     /* typeEncoding=@24@0:8@16 */
-    	static sliceLayerFromLayer(...args: any[]): any;
+    	sliceLayerFromLayer(...args: any[]): any;
     /* typeEncoding=v32@0:8@16@24 */
     	applyScreenPickerColor_preferredStyleName(...args: any[]): any;
     /* typeEncoding=c16@0:8 */

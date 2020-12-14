@@ -19,9 +19,9 @@ declare namespace sketchInternal {
     /* typeEncoding=c, ivar=_usePageIfMissingArtboard, attributes=(assign,nonatomic) */
     	usePageIfMissingArtboard(): boolean;
     /* typeEncoding=@24@0:8q16 */
-    	static keyForFlowAnimationType(...args: any[]): any;
+    	keyForFlowAnimationType(...args: any[]): any;
     /* typeEncoding=@24@0:8Q16 */
-    	static manifestValueForColorSpace(...args: any[]): any;
+    	manifestValueForColorSpace(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

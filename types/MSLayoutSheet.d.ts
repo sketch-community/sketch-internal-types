@@ -11,9 +11,9 @@ declare namespace sketchInternal {
     /* typeEncoding=@"MSLayoutGrid", ivar=(null), attributes=(assign,nonatomic,readonly) */
     	layoutGrid(): MSLayoutGrid;
     /* typeEncoding=@16@0:8 */
-    	static keyPathsForValuesAffectingColumnWidth(...args: any[]): any;
+    	keyPathsForValuesAffectingColumnWidth(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static keyPathsForValuesAffectingGutterWidth(...args: any[]): any;
+    	keyPathsForValuesAffectingGutterWidth(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v32@0:8@16@24 */

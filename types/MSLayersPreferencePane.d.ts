@@ -3,11 +3,11 @@
 declare namespace sketchInternal {
   interface MSLayersPreferencePane extends MSPreferencePane {
     /* typeEncoding=@16@0:8 */
-    	static identifier(...args: any[]): any;
+    	identifier(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static title(...args: any[]): any;
+    	title(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static toolbarIcon(...args: any[]): any;
+    	toolbarIcon(...args: any[]): any;
   }
 }
 

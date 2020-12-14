@@ -17,11 +17,11 @@ declare namespace sketchInternal {
     /* typeEncoding=#, ivar=(null), attributes=(assign,readonly) */
     	superclass(): any;
     /* typeEncoding=@24@0:8@16 */
-    	static descriptorsFromPasteboard(...args: any[]): any;
+    	descriptorsFromPasteboard(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static pasteboardType(...args: any[]): any;
+    	pasteboardType(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static readableTypesForPasteboard(...args: any[]): any;
+    	readableTypesForPasteboard(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@32@0:8@16@24 */

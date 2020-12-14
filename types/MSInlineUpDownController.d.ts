@@ -3,7 +3,7 @@
 declare namespace sketchInternal {
   interface MSInlineUpDownController extends MSUpDownController {
     /* typeEncoding=#16@0:8 */
-    	static stepperClass(...args: any[]): any;
+    	stepperClass(...args: any[]): any;
     /* typeEncoding=v20@0:8c16 */
     	hideStepper(...args: any[]): any;
     /* typeEncoding=@28@0:8@16c24 */

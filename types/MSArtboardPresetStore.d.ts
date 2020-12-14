@@ -7,13 +7,13 @@ declare namespace sketchInternal {
     /* typeEncoding=@"MSArtboardPresetsCategory", ivar=_customPresetsCategory, attributes=(assign,nonatomic,readonly) */
     	customPresetsCategory(): MSArtboardPresetsCategory;
     /* typeEncoding=Q16@0:8 */
-    	static indexOfLastSelectedCategory(...args: any[]): any;
+    	indexOfLastSelectedCategory(...args: any[]): any;
     /* typeEncoding=v24@0:8Q16 */
-    	static setIndexOfLastSelectedCategory(...args: any[]): any;
+    	setIndexOfLastSelectedCategory(...args: any[]): any;
     /* typeEncoding=v24@0:8@16 */
-    	static setSystemCategories(...args: any[]): any;
+    	setSystemCategories(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static systemCategories(...args: any[]): any;
+    	systemCategories(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v24@0:8@16 */

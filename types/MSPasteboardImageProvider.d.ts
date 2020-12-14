@@ -9,7 +9,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"MSExportRequest", ivar=_request, attributes=(copy,nonatomic) */
     	request(): MSExportRequest;
     /* typeEncoding=v32@0:8@16@24 */
-    	static preparePasteboard_withExportRequest(...args: any[]): any;
+    	preparePasteboard_withExportRequest(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

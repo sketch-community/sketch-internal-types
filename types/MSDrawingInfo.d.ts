@@ -5,7 +5,7 @@ declare namespace sketchInternal {
     /* typeEncoding=c, ivar=_isDragging, attributes=(assign,nonatomic) */
     	isDragging(): boolean;
     /* typeEncoding=@16@0:8 */
-    	static sharedController(...args: any[]): any;
+    	sharedController(...args: any[]): any;
     /* typeEncoding=c16@0:8 */
     	isDragging(...args: any[]): any;
     /* typeEncoding=v20@0:8c16 */

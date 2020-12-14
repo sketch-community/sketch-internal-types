@@ -5,17 +5,17 @@ declare namespace sketchInternal {
     /* typeEncoding=@"MSPreferencesController", ivar=_preferencesController, attributes=(assign,nonatomic,readonly,weak) */
     	preferencesController(): MSPreferencesController;
     /* typeEncoding=@16@0:8 */
-    	static identifier(...args: any[]): any;
+    	identifier(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static nibName(...args: any[]): any;
+    	nibName(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static title(...args: any[]): any;
+    	title(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static toolbarIcon(...args: any[]): any;
+    	toolbarIcon(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static toolbarIconNameWithBase(...args: any[]): any;
+    	toolbarIconNameWithBase(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static toolbarIconSuffix(...args: any[]): any;
+    	toolbarIconSuffix(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v16@0:8 */

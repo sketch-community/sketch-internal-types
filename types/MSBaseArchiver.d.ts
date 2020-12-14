@@ -9,9 +9,9 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSMutableDictionary", ivar=_references, attributes=(retain,nonatomic) */
     	references(): cocoascript.NSMutableDictionary;
     /* typeEncoding=@24@0:8@16 */
-    	static archivedDataWithHeaderAndRootObject(...args: any[]): any;
+    	archivedDataWithHeaderAndRootObject(...args: any[]): any;
     /* typeEncoding=@32@0:8@16^@24 */
-    	static archivedDataWithRootObject_error(...args: any[]): any;
+    	archivedDataWithRootObject_error(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=c16@0:8 */

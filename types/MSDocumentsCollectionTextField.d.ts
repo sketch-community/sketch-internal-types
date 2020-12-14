@@ -9,9 +9,9 @@ declare namespace sketchInternal {
     /* typeEncoding=c, ivar=isSelected, attributes=(assign,nonatomic) */
     	isSelected(): boolean;
     /* typeEncoding=#16@0:8 */
-    	static cellClass(...args: any[]): any;
+    	cellClass(...args: any[]): any;
     /* typeEncoding=v24@0:8#16 */
-    	static setCellClass(...args: any[]): any;
+    	setCellClass(...args: any[]): any;
     /* typeEncoding=c16@0:8 */
     	allowsEditingMode(...args: any[]): any;
     /* typeEncoding=v16@0:8 */

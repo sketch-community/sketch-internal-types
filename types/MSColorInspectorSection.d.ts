@@ -31,11 +31,11 @@ declare namespace sketchInternal {
     /* typeEncoding=#, ivar=(null), attributes=(assign,readonly) */
     	superclass(): any;
     /* typeEncoding=v72@0:8{CGRect={CGPoint=dd}{CGSize=dd}}16d48^{CGColor=}56^{CGColor=}64 */
-    	static drawCheckerboardBackgroundInRect_size_foreColor_backgroundColor(...args: any[]): any;
+    	drawCheckerboardBackgroundInRect_size_foreColor_backgroundColor(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
-    	static initialize(): void;
+    	initialize(): void;
     /* typeEncoding=@16@0:8 */
-    	static presetPickerVisibilityDefaultsKey(...args: any[]): any;
+    	presetPickerVisibilityDefaultsKey(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v24@0:8@16 */

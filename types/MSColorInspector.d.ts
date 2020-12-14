@@ -49,11 +49,11 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSTextField", ivar=_textFieldToContinueEditing, attributes=(assign,nonatomic,weak) */
     	textFieldToContinueEditing(): cocoascript.NSTextField;
     /* typeEncoding=@96@0:8@16@24@32@40{CGRect={CGPoint=dd}{CGSize=dd}}48@80@?88 */
-    	static presentColorInspectorPopoverForViewController_delegate_document_globalAssets_relativeToRect_ofView_setupHandler(...args: any[]): any;
+    	presentColorInspectorPopoverForViewController_delegate_document_globalAssets_relativeToRect_ofView_setupHandler(...args: any[]): any;
     /* typeEncoding=@88@0:8@16@24@32{CGRect={CGPoint=dd}{CGSize=dd}}40@72@?80 */
-    	static presentColorInspectorPopoverForViewController_document_globalAssets_relativeToRect_ofView_setupHandler(...args: any[]): any;
+    	presentColorInspectorPopoverForViewController_document_globalAssets_relativeToRect_ofView_setupHandler(...args: any[]): any;
     /* typeEncoding=@88@0:8@16@24@32{CGRect={CGPoint=dd}{CGSize=dd}}40@72@?80 */
-    	static presentColorInspectorPopoverWithDelegate_document_globalAssets_relativeToRect_ofView_setupHandler(...args: any[]): any;
+    	presentColorInspectorPopoverWithDelegate_document_globalAssets_relativeToRect_ofView_setupHandler(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=c16@0:8 */

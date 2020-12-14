@@ -7,7 +7,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSIndexPath", ivar=(null), attributes=(copy,nonatomic) */
     	indexPathForSubselection(): cocoascript.NSIndexPath;
     /* typeEncoding=q24@0:8@16 */
-    	static cornerForHandleOfKind(...args: any[]): any;
+    	cornerForHandleOfKind(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=q32@0:8{CGPoint=dd}16 */

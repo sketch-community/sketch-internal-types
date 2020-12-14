@@ -31,15 +31,15 @@ declare namespace sketchInternal {
     /* typeEncoding=#, ivar=(null), attributes=(assign,readonly) */
     	superclass(): any;
     /* typeEncoding=@32@0:8@16@24 */
-    	static referenceForLocalCopy_ofRemote(...args: any[]): any;
+    	referenceForLocalCopy_ofRemote(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static referenceForLocalObject(...args: any[]): any;
+    	referenceForLocalObject(...args: any[]): any;
     /* typeEncoding=@32@0:8@16@24 */
-    	static referenceForRemoteObject_inLibrary(...args: any[]): any;
+    	referenceForRemoteObject_inLibrary(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static referenceForShareableObject(...args: any[]): any;
+    	referenceForShareableObject(...args: any[]): any;
     /* typeEncoding=@32@0:8@16@24 */
-    	static referenceForShareableObject_inLibrary(...args: any[]): any;
+    	referenceForShareableObject_inLibrary(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@32@0:8@16@24 */

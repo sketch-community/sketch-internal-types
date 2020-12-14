@@ -49,9 +49,9 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSString", ivar=(null), attributes=(assign,nonatomic,readonly) */
     	viewIdentifier(): cocoascript.NSString;
     /* typeEncoding=@16@0:8 */
-    	static keyPathsForValuesAffectingUpdateAvailable(...args: any[]): any;
+    	keyPathsForValuesAffectingUpdateAvailable(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static preferenceItemForLibrary(...args: any[]): any;
+    	preferenceItemForLibrary(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

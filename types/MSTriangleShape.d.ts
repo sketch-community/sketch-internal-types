@@ -3,7 +3,7 @@
 declare namespace sketchInternal {
   interface MSTriangleShape extends _MSTriangleShape {
     /* typeEncoding=@20@0:8c16 */
-    	static defaultCurvePointsWithEquilateral(...args: any[]): any;
+    	defaultCurvePointsWithEquilateral(...args: any[]): any;
     /* typeEncoding={CGRect={CGPoint=dd}{CGSize=dd}}16@0:8 */
     	boundsForCursorPreview(...args: any[]): any;
     /* typeEncoding=c16@0:8 */

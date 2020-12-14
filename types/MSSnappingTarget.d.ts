@@ -13,7 +13,7 @@ declare namespace sketchInternal {
     /* typeEncoding={CGPoint=dd}, ivar=_point, attributes=(assign,nonatomic,readonly) */
     	point(): CGPoint;
     /* typeEncoding=@52@0:8{CGRect={CGPoint=dd}{CGSize=dd}}16c48 */
-    	static targetsForEdgesOfRect_includeCenter(...args: any[]): any;
+    	targetsForEdgesOfRect_includeCenter(...args: any[]): any;
     /* typeEncoding=@24@0:8^{_NSZone=}16 */
     	copyWithZone(...args: any[]): any;
     /* typeEncoding=@16@0:8 */

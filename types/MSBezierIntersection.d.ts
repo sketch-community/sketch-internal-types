@@ -11,7 +11,7 @@ declare namespace sketchInternal {
     /* typeEncoding=d, ivar=_segment2Offset, attributes=(assign,nonatomic,readonly) */
     	segment2Offset(): number;
     /* typeEncoding=@48@0:8@16@24d32d40 */
-    	static intersectionWithSegment1_segment2_segment1Offset_segment2Offset(...args: any[]): any;
+    	intersectionWithSegment1_segment2_segment1Offset_segment2Offset(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

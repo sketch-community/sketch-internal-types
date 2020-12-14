@@ -3,7 +3,7 @@
 declare namespace sketchInternal {
   interface MSPluginPortMessaging extends NSObject {
     /* typeEncoding=c32@0:8@16@24 */
-    	static sendMessage_on(...args: any[]): any;
+    	sendMessage_on(...args: any[]): any;
   }
 }
 

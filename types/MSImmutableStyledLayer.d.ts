@@ -45,47 +45,47 @@ declare namespace sketchInternal {
     /* typeEncoding=#, ivar=(null), attributes=(assign,readonly) */
     	superclass(): any;
     /* typeEncoding=@56@0:8@16Q24d32{CGSize=dd}40 */
-    	static adjustPath_forDecotationType_strokeWidth_scale(...args: any[]): any;
+    	adjustPath_forDecotationType_strokeWidth_scale(...args: any[]): any;
     /* typeEncoding=@44@0:8^@16d24i32Q36 */
-    	static bezierPathForEndDecorationOnPath_strokeWidth_lineCap_decorationType(...args: any[]): any;
+    	bezierPathForEndDecorationOnPath_strokeWidth_lineCap_decorationType(...args: any[]): any;
     /* typeEncoding=@44@0:8^@16d24i32Q36 */
-    	static bezierPathForStartDecorationOnPath_strokeWidth_lineCap_decorationType(...args: any[]): any;
+    	bezierPathForStartDecorationOnPath_strokeWidth_lineCap_decorationType(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
-    	static cacheDecorations(): void;
+    	cacheDecorations(): void;
     /* typeEncoding=@16@0:8 */
-    	static filledArrowDecoration(...args: any[]): any;
+    	filledArrowDecoration(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static filledArrowRoundedDecoration(...args: any[]): any;
+    	filledArrowRoundedDecoration(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static filledCircleDecoration(...args: any[]): any;
+    	filledCircleDecoration(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static filledSquareDecoration(...args: any[]): any;
+    	filledSquareDecoration(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static filledSquareRoundedDecoration(...args: any[]): any;
+    	filledSquareRoundedDecoration(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
-    	static initialize(): void;
+    	initialize(): void;
     /* typeEncoding=@56@0:8@16{CGPoint=dd}24d40d48 */
-    	static intersectionPolygonForDecoration_atPoint_scale_strokeWidth(...args: any[]): any;
+    	intersectionPolygonForDecoration_atPoint_scale_strokeWidth(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static lineDecoration(...args: any[]): any;
+    	lineDecoration(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static openArrowDecoration(...args: any[]): any;
+    	openArrowDecoration(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static openCircleDecoration(...args: any[]): any;
+    	openCircleDecoration(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static openSquareDecoration(...args: any[]): any;
+    	openSquareDecoration(...args: any[]): any;
     /* typeEncoding=@32@0:8@16@24 */
-    	static orderedIntersectionsForContour_withSegment(...args: any[]): any;
+    	orderedIntersectionsForContour_withSegment(...args: any[]): any;
     /* typeEncoding=@24@0:8Q16 */
-    	static pathForDecorationType(...args: any[]): any;
+    	pathForDecorationType(...args: any[]): any;
     /* typeEncoding=@32@0:8@16d24 */
-    	static roundedPath_cornerRadius(...args: any[]): any;
+    	roundedPath_cornerRadius(...args: any[]): any;
     /* typeEncoding={CGSize=dd}32@0:8Q16d24 */
-    	static scaleForDecoration_stokeWidth(...args: any[]): any;
+    	scaleForDecoration_stokeWidth(...args: any[]): any;
     /* typeEncoding=Q16@0:8 */
-    	static traits(...args: any[]): any;
+    	traits(...args: any[]): any;
     /* typeEncoding=@68@0:8@16{CGPoint=dd}24d40{CGSize=dd}48c64 */
-    	static transformedPath_atPoint_rotation_scale_flipped(...args: any[]): any;
+    	transformedPath_atPoint_rotation_scale_flipped(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding={CGRect={CGPoint=dd}{CGSize=dd}}32@0:8@16@24 */

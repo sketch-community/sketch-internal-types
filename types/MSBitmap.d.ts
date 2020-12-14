@@ -11,11 +11,11 @@ declare namespace sketchInternal {
     /* typeEncoding={CGSize=dd}, ivar=_size, attributes=(assign,nonatomic,readonly) */
     	size(): CGSize;
     /* typeEncoding=@32@0:8@16d24 */
-    	static bitmapWithName_backingScale(...args: any[]): any;
+    	bitmapWithName_backingScale(...args: any[]): any;
     /* typeEncoding=@84@0:8{CGSize=dd}16c32{BCEdgePaddings=dddd}36^{CGColorSpace=}68@?76 */
-    	static bitmapWithSize_flipped_edgePaddings_colorspace_drawingBlock(...args: any[]): any;
+    	bitmapWithSize_flipped_edgePaddings_colorspace_drawingBlock(...args: any[]): any;
     /* typeEncoding=@56@0:8d16^{CGColor=}24^{CGColor=}32^{CGColorSpace=}40d48 */
-    	static rectangularBitmapWithStrokeWidth_strokeColor_fillColor_colorspace_backingScale(...args: any[]): any;
+    	rectangularBitmapWithStrokeWidth_strokeColor_fillColor_colorspace_backingScale(...args: any[]): any;
     /* typeEncoding=^{CGImage=}16@0:8 */
     	CGImage(...args: any[]): any;
     /* typeEncoding=^{CGColorSpace=}16@0:8 */

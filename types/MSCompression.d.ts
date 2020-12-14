@@ -3,7 +3,7 @@
 declare namespace sketchInternal {
   interface MSCompression extends NSObject {
     /* typeEncoding=@24@0:8@16 */
-    	static compressData(...args: any[]): any;
+    	compressData(...args: any[]): any;
   }
 }
 

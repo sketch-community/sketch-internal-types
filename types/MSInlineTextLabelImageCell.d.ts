@@ -5,7 +5,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSValue", ivar=_customFittingSize, attributes=(retain,nonatomic) */
     	customFittingSize(): cocoascript.NSValue;
     /* typeEncoding=@16@0:8 */
-    	static inlineTextLabelFont(...args: any[]): any;
+    	inlineTextLabelFont(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding={CGSize=dd}16@0:8 */

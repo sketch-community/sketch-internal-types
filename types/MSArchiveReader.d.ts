@@ -3,7 +3,7 @@
 declare namespace sketchInternal {
   interface MSArchiveReader extends NSObject {
     /* typeEncoding=I24@0:8@16 */
-    	static first4bytesOfFileAtURL(...args: any[]): any;
+    	first4bytesOfFileAtURL(...args: any[]): any;
   }
 }
 

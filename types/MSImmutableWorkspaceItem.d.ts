@@ -15,7 +15,7 @@ declare namespace sketchInternal {
     /* typeEncoding=#, ivar=(null), attributes=(assign,readonly) */
     	superclass(): any;
     /* typeEncoding=@32@0:8@16@24 */
-    	static decodeReferenceFromJSONZipArchive_withReference(...args: any[]): any;
+    	decodeReferenceFromJSONZipArchive_withReference(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
     	archivePath(...args: any[]): any;
     /* typeEncoding=@16@0:8 */

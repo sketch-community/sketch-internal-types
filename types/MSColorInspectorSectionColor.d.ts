@@ -37,7 +37,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSButton", ivar=_swatchSecondaryActionButton, attributes=(assign,nonatomic,weak) */
     	swatchSecondaryActionButton(): cocoascript.NSButton;
     /* typeEncoding=@16@0:8 */
-    	static presetPickerVisibilityDefaultsKey(...args: any[]): any;
+    	presetPickerVisibilityDefaultsKey(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v24@0:8@16 */

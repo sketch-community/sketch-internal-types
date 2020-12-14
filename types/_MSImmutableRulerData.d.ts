@@ -7,7 +7,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSArray", ivar=_guides, attributes=(copy,nonatomic) */
     	guides(): cocoascript.NSArray;
     /* typeEncoding=#16@0:8 */
-    	static mutableClass(...args: any[]): any;
+    	mutableClass(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=q16@0:8 */

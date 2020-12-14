@@ -9,11 +9,11 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSString", ivar=_path, attributes=(assign,nonatomic,readonly) */
     	path(): cocoascript.NSString;
     /* typeEncoding=@24@0:8@16 */
-    	static dictionaryFromOverrideValues(...args: any[]): any;
+    	dictionaryFromOverrideValues(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static overrideValuesFromDictionary(...args: any[]): any;
+    	overrideValuesFromDictionary(...args: any[]): any;
     /* typeEncoding=@32@0:8@16@24 */
-    	static overrideValuesFromDictionary_withPrefix(...args: any[]): any;
+    	overrideValuesFromDictionary_withPrefix(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

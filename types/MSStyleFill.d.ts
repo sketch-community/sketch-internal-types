@@ -13,9 +13,9 @@ declare namespace sketchInternal {
     /* typeEncoding={CGSize=dd}, ivar=(null), attributes=(assign,nonatomic,readonly) */
     	targetSizeForReduction(): CGSize;
     /* typeEncoding=@24@0:8@16 */
-    	static defaultStylePartForStyle(...args: any[]): any;
+    	defaultStylePartForStyle(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static keyPathsForValuesAffectingInterfaceOpacity(...args: any[]): any;
+    	keyPathsForValuesAffectingInterfaceOpacity(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
     	CSSAttributeString(...args: any[]): any;
     /* typeEncoding=@16@0:8 */

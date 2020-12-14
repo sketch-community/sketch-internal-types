@@ -7,11 +7,11 @@ declare namespace sketchInternal {
     /* typeEncoding=@"MSKeyedUnarchiveHelper", ivar=_unarchiveHelper, attributes=(retain,nonatomic) */
     	unarchiveHelper(): MSKeyedUnarchiveHelper;
     /* typeEncoding=v16@0:8 */
-    	static defineReplacementClasses(): void;
+    	defineReplacementClasses(): void;
     /* typeEncoding=v16@0:8 */
-    	static initialize(): void;
+    	initialize(): void;
     /* typeEncoding=@32@0:8@16^@24 */
-    	static unarchivedObjectFromURL_error(...args: any[]): any;
+    	unarchivedObjectFromURL_error(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=c24@0:8@16 */

@@ -7,15 +7,15 @@ declare namespace sketchInternal {
     /* typeEncoding=q, ivar=_throttleCount, attributes=(assign,nonatomic) */
     	throttleCount(): number;
     /* typeEncoding=c24@0:8@16 */
-    	static canHandleLayer(...args: any[]): any;
+    	canHandleLayer(...args: any[]): any;
     /* typeEncoding={CGSize=dd}24@0:8Q16 */
-    	static previewImageSizeForNumColumns(...args: any[]): any;
+    	previewImageSizeForNumColumns(...args: any[]): any;
     /* typeEncoding={CGSize=dd}24@0:8Q16 */
-    	static previewViewSizeForNumColumns(...args: any[]): any;
+    	previewViewSizeForNumColumns(...args: any[]): any;
     /* typeEncoding=v32@0:8@16@?24 */
-    	static reloadPreviewsForLayers_withCompletion(...args: any[]): any;
+    	reloadPreviewsForLayers_withCompletion(...args: any[]): any;
     /* typeEncoding=v32@0:8@16d24 */
-    	static setFrameOfViewModels_withInspectorWidth(...args: any[]): any;
+    	setFrameOfViewModels_withInspectorWidth(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

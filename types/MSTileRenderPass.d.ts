@@ -9,7 +9,7 @@ declare namespace sketchInternal {
     /* typeEncoding=d, ivar=_zoomValue, attributes=(assign,nonatomic) */
     	zoomValue(): number;
     /* typeEncoding=@40@0:8@16@24d32 */
-    	static tileRenderPassWithPage_inDocument_zoomValue(...args: any[]): any;
+    	tileRenderPassWithPage_inDocument_zoomValue(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

@@ -13,7 +13,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSBezierPath", ivar=_selectionBeforeDrag, attributes=(retain,nonatomic) */
     	selectionBeforeDrag(): cocoascript.NSBezierPath;
     /* typeEncoding=@40@0:8@16@24q32 */
-    	static accumulateSelectionWithPrevious_draggingRect_dragMode(...args: any[]): any;
+    	accumulateSelectionWithPrevious_draggingRect_dragMode(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=c16@0:8 */

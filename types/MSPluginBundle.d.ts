@@ -49,11 +49,11 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSString", ivar=(null), attributes=(copy,nonatomic,readonly) */
     	versionedIdentifier(): cocoascript.NSString;
     /* typeEncoding=@40@0:8@16@24@32 */
-    	static commandsFromArray_sketchPluginURL_pluginBundle(...args: any[]): any;
+    	commandsFromArray_sketchPluginURL_pluginBundle(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static pluginBundleWithURL(...args: any[]): any;
+    	pluginBundleWithURL(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static scriptDefaultTitle(...args: any[]): any;
+    	scriptDefaultTitle(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

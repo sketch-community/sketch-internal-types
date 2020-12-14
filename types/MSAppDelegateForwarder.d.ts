@@ -11,11 +11,11 @@ declare namespace sketchInternal {
     /* typeEncoding=#, ivar=(null), attributes=(assign,readonly) */
     	superclass(): any;
     /* typeEncoding=v16@0:8 */
-    	static load(): void;
+    	load(): void;
     /* typeEncoding=v16@0:8 */
-    	static resetSharedInstance(): void;
+    	resetSharedInstance(): void;
     /* typeEncoding=@16@0:8 */
-    	static sharedInstance(...args: any[]): any;
+    	sharedInstance(...args: any[]): any;
     /* typeEncoding=v24@0:8@16 */
     	custom_setDelegate(...args: any[]): any;
     /* typeEncoding=@16@0:8 */

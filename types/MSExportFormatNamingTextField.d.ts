@@ -5,7 +5,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSArray", ivar=_exportFormats, attributes=(copy,nonatomic) */
     	exportFormats(): cocoascript.NSArray;
     /* typeEncoding=#16@0:8 */
-    	static cellClass(...args: any[]): any;
+    	cellClass(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v24@0:8@16 */

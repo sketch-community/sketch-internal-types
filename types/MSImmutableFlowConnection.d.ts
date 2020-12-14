@@ -5,7 +5,7 @@ declare namespace sketchInternal {
     /* typeEncoding=c, ivar=(null), attributes=(assign,nonatomic,readonly) */
     	isBackAction(): boolean;
     /* typeEncoding=Q24@0:8@16 */
-    	static traitsForPropertyName(...args: any[]): any;
+    	traitsForPropertyName(...args: any[]): any;
     /* typeEncoding={MSFlowInfo={MSFlowEndpoint=Q{CGRect={CGPoint=dd}{CGSize=dd}}}{MSFlowEndpoint=Q{CGRect={CGPoint=dd}{CGSize=dd}}}q}32@0:8@16@24 */
     	flowInfoFromParentLayer_toArtboard(...args: any[]): any;
     /* typeEncoding={MSFlowInfo={MSFlowEndpoint=Q{CGRect={CGPoint=dd}{CGSize=dd}}}{MSFlowEndpoint=Q{CGRect={CGPoint=dd}{CGSize=dd}}}q}40@0:8@16@24q32 */

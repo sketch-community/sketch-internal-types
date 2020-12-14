@@ -19,11 +19,11 @@ declare namespace sketchInternal {
     /* typeEncoding=@"MSLocalDataSupplier", ivar=_topLevelSupplier, attributes=(retain,nonatomic) */
     	topLevelSupplier(): MSLocalDataSupplier;
     /* typeEncoding=@32@0:8@16@24 */
-    	static localDataSupplierGroupFromFileSystemURL_dataSupplierDelegate(...args: any[]): any;
+    	localDataSupplierGroupFromFileSystemURL_dataSupplierDelegate(...args: any[]): any;
     /* typeEncoding=@36@0:8@16@24c32 */
-    	static localDataSupplierGroupFromFileSystemURL_dataSupplierDelegate_makeFolderMonitor(...args: any[]): any;
+    	localDataSupplierGroupFromFileSystemURL_dataSupplierDelegate_makeFolderMonitor(...args: any[]): any;
     /* typeEncoding=@32@0:8@16@24 */
-    	static subgroupWithFileSytemURL_localDataSupplierGroup(...args: any[]): any;
+    	subgroupWithFileSytemURL_localDataSupplierGroup(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

@@ -7,7 +7,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@?, ivar=_conversionBlock, attributes=(copy,nonatomic,readonly) */
     	conversionBlock(): any;
     /* typeEncoding=@32@0:8@16@?24 */
-    	static converterWithAttributeName_block(...args: any[]): any;
+    	converterWithAttributeName_block(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

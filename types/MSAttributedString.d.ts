@@ -23,27 +23,27 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSSet", ivar=(null), attributes=(assign,nonatomic,readonly) */
     	unavailableFontNames(): cocoascript.NSSet;
     /* typeEncoding=@24@0:8@16 */
-    	static attributedStringWithRefreshedFontDescriptors(...args: any[]): any;
+    	attributedStringWithRefreshedFontDescriptors(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static decodeAttributedString(...args: any[]): any;
+    	decodeAttributedString(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static decodeAttributesInDictionary(...args: any[]): any;
+    	decodeAttributesInDictionary(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static encodeAttributedString(...args: any[]): any;
+    	encodeAttributedString(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static encodeAttributesInDictionary(...args: any[]): any;
+    	encodeAttributesInDictionary(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static fontDescriptorInDictionary(...args: any[]): any;
+    	fontDescriptorInDictionary(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static fontNameInDictionary(...args: any[]): any;
+    	fontNameInDictionary(...args: any[]): any;
     /* typeEncoding=c24@0:8@16 */
-    	static isFontAvailable(...args: any[]): any;
+    	isFontAvailable(...args: any[]): any;
     /* typeEncoding=c24@0:8@16 */
-    	static isRequiredFontAvailableInDictionary(...args: any[]): any;
+    	isRequiredFontAvailableInDictionary(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static refreshFontDescriptorsInDictionary(...args: any[]): any;
+    	refreshFontDescriptorsInDictionary(...args: any[]): any;
     /* typeEncoding=@32@0:8@16d24 */
-    	static replacementFontDescriptorWithFaceName_size(...args: any[]): any;
+    	replacementFontDescriptorWithFaceName_size(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=c16@0:8 */

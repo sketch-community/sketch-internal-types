@@ -7,7 +7,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"BCJSONDecoder", ivar=_dataDecoder, attributes=(retain,nonatomic) */
     	dataDecoder(): BCJSONDecoder;
     /* typeEncoding=@48@0:8@16q24^c32^@40 */
-    	static unarchivedObjectWithString_asVersion_corruptionDetected_error(...args: any[]): any;
+    	unarchivedObjectWithString_asVersion_corruptionDetected_error(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

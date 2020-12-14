@@ -17,7 +17,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSString", ivar=(null), attributes=(copy,dynamic,nonatomic) */
     	operator(): cocoascript.NSString;
     /* typeEncoding=@16@0:8 */
-    	static elementName(...args: any[]): any;
+    	elementName(...args: any[]): any;
   }
 }
 

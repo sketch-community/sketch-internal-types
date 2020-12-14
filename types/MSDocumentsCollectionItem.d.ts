@@ -33,13 +33,13 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSString", ivar=_toolTip, attributes=(assign,nonatomic,readonly) */
     	toolTip(): cocoascript.NSString;
     /* typeEncoding=@16@0:8 */
-    	static bundledTemplatesDirectoryURL(...args: any[]): any;
+    	bundledTemplatesDirectoryURL(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static keyPathsForValuesAffectingStatus(...args: any[]): any;
+    	keyPathsForValuesAffectingStatus(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static keyPathsForValuesAffectingStatusColor(...args: any[]): any;
+    	keyPathsForValuesAffectingStatusColor(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static userTemplatesDirectoryURL(...args: any[]): any;
+    	userTemplatesDirectoryURL(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v16@0:8 */

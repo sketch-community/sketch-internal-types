@@ -23,29 +23,29 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSArray", ivar=(null), attributes=(assign,nonatomic,readonly) */
     	subpaths(): cocoascript.NSArray;
     /* typeEncoding=@16@0:8 */
-    	static new(...args: any[]): any;
+    	new(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static path(...args: any[]): any;
+    	path(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static pathWithBezierPath(...args: any[]): any;
+    	pathWithBezierPath(...args: any[]): any;
     /* typeEncoding=@24@0:8^{CGPath=}16 */
-    	static pathWithCGPath(...args: any[]): any;
+    	pathWithCGPath(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static pathWithContours(...args: any[]): any;
+    	pathWithContours(...args: any[]): any;
     /* typeEncoding=@80@0:8{CGPoint=dd}16{CGPoint=dd}32{CGPoint=dd}48{CGPoint=dd}64 */
-    	static pathWithCurveFromPoint_to_controlPoint1_controlPoint2(...args: any[]): any;
+    	pathWithCurveFromPoint_to_controlPoint1_controlPoint2(...args: any[]): any;
     /* typeEncoding=@48@0:8{CGRect={CGPoint=dd}{CGSize=dd}}16 */
-    	static pathWithEllipseInRect(...args: any[]): any;
+    	pathWithEllipseInRect(...args: any[]): any;
     /* typeEncoding=@48@0:8{CGPoint=dd}16{CGPoint=dd}32 */
-    	static pathWithLineFrom_to(...args: any[]): any;
+    	pathWithLineFrom_to(...args: any[]): any;
     /* typeEncoding=@32@0:8r^{CGPoint=dd}16i24c28 */
-    	static pathWithPoints_pointCount_close(...args: any[]): any;
+    	pathWithPoints_pointCount_close(...args: any[]): any;
     /* typeEncoding=@48@0:8{CGRect={CGPoint=dd}{CGSize=dd}}16 */
-    	static pathWithRect(...args: any[]): any;
+    	pathWithRect(...args: any[]): any;
     /* typeEncoding=@28@0:8@16c24 */
-    	static pathWithSegments_closed(...args: any[]): any;
+    	pathWithSegments_closed(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static pathWithSubpaths(...args: any[]): any;
+    	pathWithSubpaths(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=r^{CGPath=}16@0:8 */

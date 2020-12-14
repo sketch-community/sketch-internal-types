@@ -7,7 +7,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSTextField", ivar=_missingFontsLabel, attributes=(retain,nonatomic) */
     	missingFontsLabel(): cocoascript.NSTextField;
     /* typeEncoding=c24@0:8@16 */
-    	static canHandleLayer(...args: any[]): any;
+    	canHandleLayer(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=c16@0:8 */

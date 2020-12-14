@@ -57,7 +57,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSArray", ivar=_tileLevels, attributes=(assign,nonatomic,readonly) */
     	tileLevels(): cocoascript.NSArray;
     /* typeEncoding=c16@0:8 */
-    	static performRendererAvailabilityChecks(...args: any[]): any;
+    	performRendererAvailabilityChecks(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@32@0:8@16@24 */

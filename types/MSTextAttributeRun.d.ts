@@ -7,11 +7,11 @@ declare namespace sketchInternal {
     /* typeEncoding=@, ivar=(null), attributes=(copy,nonatomic) */
     	value(): any;
     /* typeEncoding=@32@0:8@16@24 */
-    	static gatherRunsOfAttribute_inLayers(...args: any[]): any;
+    	gatherRunsOfAttribute_inLayers(...args: any[]): any;
     /* typeEncoding=@40@0:8@16@24@32 */
-    	static gatherRunsOfAttribute_inTextView_inRanges(...args: any[]): any;
+    	gatherRunsOfAttribute_inTextView_inRanges(...args: any[]): any;
     /* typeEncoding=@32@0:8@16@24 */
-    	static gatherSelectedRunsOfAttribute_inTextView(...args: any[]): any;
+    	gatherSelectedRunsOfAttribute_inTextView(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

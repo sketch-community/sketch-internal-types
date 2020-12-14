@@ -35,9 +35,9 @@ declare namespace sketchInternal {
     /* typeEncoding=#, ivar=(null), attributes=(assign,readonly) */
     	superclass(): any;
     /* typeEncoding=c16@0:8 */
-    	static isEnabled(...args: any[]): any;
+    	isEnabled(...args: any[]): any;
     /* typeEncoding=v20@0:8c16 */
-    	static setEnabled(...args: any[]): any;
+    	setEnabled(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

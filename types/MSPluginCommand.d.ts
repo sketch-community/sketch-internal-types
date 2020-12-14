@@ -39,9 +39,9 @@ declare namespace sketchInternal {
     /* typeEncoding=c, ivar=(null), attributes=(assign,nonatomic) */
     	stayRunning(): boolean;
     /* typeEncoding=@16@0:8 */
-    	static actionIDsNotToReload(...args: any[]): any;
+    	actionIDsNotToReload(...args: any[]): any;
     /* typeEncoding=@40@0:8@16@24@32 */
-    	static commandWithJSON_scripts_scriptsURL(...args: any[]): any;
+    	commandWithJSON_scripts_scriptsURL(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@24@0:8@16 */

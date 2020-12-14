@@ -5,7 +5,7 @@ declare namespace sketchInternal {
     /* typeEncoding=^{CGContext=}, ivar=_contextRef, attributes=(assign,nonatomic,readonly) */
     	contextRef(): any;
     /* typeEncoding=@24@0:8^{CGContext=}16 */
-    	static wrapperWithContext(...args: any[]): any;
+    	wrapperWithContext(...args: any[]): any;
     /* typeEncoding=^{CGContext=}16@0:8 */
     	contextRef(...args: any[]): any;
     /* typeEncoding=v16@0:8 */

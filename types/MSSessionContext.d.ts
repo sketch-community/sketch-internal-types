@@ -7,9 +7,9 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSMutableArray", ivar=_sessionHistory, attributes=(retain,nonatomic) */
     	sessionHistory(): cocoascript.NSMutableArray;
     /* typeEncoding=v16@0:8 */
-    	static resetSharedInstance(): void;
+    	resetSharedInstance(): void;
     /* typeEncoding=@16@0:8 */
-    	static sharedInstance(...args: any[]): any;
+    	sharedInstance(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v20@0:8c16 */

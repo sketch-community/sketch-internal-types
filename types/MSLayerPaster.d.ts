@@ -9,19 +9,19 @@ declare namespace sketchInternal {
     /* typeEncoding=@"MSPasteboardLayers", ivar=_pasteboardLayers, attributes=(assign,nonatomic,readonly) */
     	pasteboardLayers(): MSPasteboardLayers;
     /* typeEncoding=@24@0:8@16 */
-    	static duplicateLayers(...args: any[]): any;
+    	duplicateLayers(...args: any[]): any;
     /* typeEncoding=@40@0:8@16@24@32 */
-    	static insertPagePasteboardData_intoDocument_afterPage(...args: any[]): any;
+    	insertPagePasteboardData_intoDocument_afterPage(...args: any[]): any;
     /* typeEncoding=@68@0:8@16@24{CGPoint=dd}32@48@56c64 */
-    	static insertPasteboardData_intoParent_atPosition_afterLayer_viewport_fitToParent(...args: any[]): any;
+    	insertPasteboardData_intoParent_atPosition_afterLayer_viewport_fitToParent(...args: any[]): any;
     /* typeEncoding=@56@0:8@16@24{CGPoint=dd}32@48 */
-    	static insertPasteboardData_intoParent_atPosition_beforeLayer(...args: any[]): any;
+    	insertPasteboardData_intoParent_atPosition_beforeLayer(...args: any[]): any;
     /* typeEncoding=@48@0:8@16@24@32@40 */
-    	static insertPasteboardData_onPage_withHint_viewPort(...args: any[]): any;
+    	insertPasteboardData_onPage_withHint_viewPort(...args: any[]): any;
     /* typeEncoding=@40@0:8@16@24@32 */
-    	static parentForData_hint_page(...args: any[]): any;
+    	parentForData_hint_page(...args: any[]): any;
     /* typeEncoding=@48@0:8@16@24@32@40 */
-    	static parentForData_hint_page_viewPort(...args: any[]): any;
+    	parentForData_hint_page_viewPort(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v24@0:8@16 */

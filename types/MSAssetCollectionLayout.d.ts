@@ -9,15 +9,15 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSIndexSet", ivar=_updatedIndexes, attributes=(retain,nonatomic) */
     	updatedIndexes(): cocoascript.NSIndexSet;
     /* typeEncoding=d24@0:8Q16 */
-    	static interItemSpacingForItemSizeMode(...args: any[]): any;
+    	interItemSpacingForItemSizeMode(...args: any[]): any;
     /* typeEncoding={CGSize=dd}40@0:8Q16Q24d32 */
-    	static itemSizeForItemSizeMode_displayMode_collectionViewWidth(...args: any[]): any;
+    	itemSizeForItemSizeMode_displayMode_collectionViewWidth(...args: any[]): any;
     /* typeEncoding=#16@0:8 */
-    	static layoutAttributesClass(...args: any[]): any;
+    	layoutAttributesClass(...args: any[]): any;
     /* typeEncoding=d32@0:8Q16Q24 */
-    	static lineSpacingForItemSizeMode_displayMode(...args: any[]): any;
+    	lineSpacingForItemSizeMode_displayMode(...args: any[]): any;
     /* typeEncoding={NSEdgeInsets=dddd}32@0:8Q16Q24 */
-    	static sectionInsetsForItemSizeMode_displayMode(...args: any[]): any;
+    	sectionInsetsForItemSizeMode_displayMode(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=Q16@0:8 */

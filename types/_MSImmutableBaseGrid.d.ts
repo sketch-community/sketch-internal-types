@@ -5,7 +5,7 @@ declare namespace sketchInternal {
     /* typeEncoding=c, ivar=_isEnabled, attributes=(assign,nonatomic) */
     	isEnabled(): boolean;
     /* typeEncoding=#16@0:8 */
-    	static mutableClass(...args: any[]): any;
+    	mutableClass(...args: any[]): any;
     /* typeEncoding=v32@0:8@16@24 */
     	collaborationDiffCompareChildrenAgainst_treeComparison(...args: any[]): any;
     /* typeEncoding=@32@0:8@16@24 */

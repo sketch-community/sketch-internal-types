@@ -5,7 +5,7 @@ declare namespace sketchInternal {
     /* typeEncoding=d, ivar=(null), attributes=(assign,nonatomic) */
     	userVisibleMotionAngle(): number;
     /* typeEncoding=@16@0:8 */
-    	static keyPathsForValuesAffectingUserVisibleMotionAngle(...args: any[]): any;
+    	keyPathsForValuesAffectingUserVisibleMotionAngle(...args: any[]): any;
     /* typeEncoding=d16@0:8 */
     	cropRadius(...args: any[]): any;
     /* typeEncoding=v24@0:8d16 */

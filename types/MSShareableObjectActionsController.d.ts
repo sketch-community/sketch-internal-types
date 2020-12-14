@@ -17,7 +17,7 @@ declare namespace sketchInternal {
     /* typeEncoding=q, ivar=(null), attributes=(assign,nonatomic,readonly) */
     	validateCanOpenInLibrary(): number;
     /* typeEncoding=q24@0:8@16 */
-    	static validateCanOpenLibrary(...args: any[]): any;
+    	validateCanOpenLibrary(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=c16@0:8 */

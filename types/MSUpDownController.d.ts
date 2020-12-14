@@ -9,9 +9,9 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSTextField<MSUpDownProtocol>", ivar=_textField, attributes=(assign,nonatomic,weak) */
     	textField(): any;
     /* typeEncoding=v16@0:8 */
-    	static initialize(): void;
+    	initialize(): void;
     /* typeEncoding=#16@0:8 */
-    	static stepperClass(...args: any[]): any;
+    	stepperClass(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=d24@0:8d16 */

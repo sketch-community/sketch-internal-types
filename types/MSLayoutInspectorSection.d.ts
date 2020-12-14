@@ -11,7 +11,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"MSMinOrMaxSizeLayoutInspectorItem", ivar=_layoutSizeWidthItem, attributes=(retain,nonatomic) */
     	layoutSizeWidthItem(): MSMinOrMaxSizeLayoutInspectorItem;
     /* typeEncoding=@24@0:8@16 */
-    	static createLayoutInspectorHeaderForSection(...args: any[]): any;
+    	createLayoutInspectorHeaderForSection(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=Q16@0:8 */

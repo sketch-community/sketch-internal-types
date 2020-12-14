@@ -15,7 +15,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSArray", ivar=_lineFragmentRectangles, attributes=(copy,nonatomic,readonly) */
     	lineFragmentRectangles(): cocoascript.NSArray;
     /* typeEncoding=@24@0:8@16 */
-    	static textLayoutForLayoutManager(...args: any[]): any;
+    	textLayoutForLayoutManager(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

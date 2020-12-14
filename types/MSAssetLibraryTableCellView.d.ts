@@ -21,11 +21,11 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSTextField", ivar=_secondaryTextField, attributes=(assign,nonatomic,weak) */
     	secondaryTextField(): cocoascript.NSTextField;
     /* typeEncoding=@24@0:8@16 */
-    	static keyPathsForValuesAffectingValueForKey(...args: any[]): any;
+    	keyPathsForValuesAffectingValueForKey(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static missingLibraryPlaceholderImage(...args: any[]): any;
+    	missingLibraryPlaceholderImage(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static sketchRemoteLibraryPlaceholderImage(...args: any[]): any;
+    	sketchRemoteLibraryPlaceholderImage(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

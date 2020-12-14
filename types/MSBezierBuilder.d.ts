@@ -13,9 +13,9 @@ declare namespace sketchInternal {
     /* typeEncoding={CGRect={CGPoint=dd}{CGSize=dd}}, ivar=_rect, attributes=(assign,nonatomic) */
     	rect(): CGRect;
     /* typeEncoding=@64@0:8Q16@24{CGRect={CGPoint=dd}{CGSize=dd}}32 */
-    	static pathForSegmentAtIndex_inPath_inRect(...args: any[]): any;
+    	pathForSegmentAtIndex_inPath_inRect(...args: any[]): any;
     /* typeEncoding=@68@0:8@16{CGRect={CGPoint=dd}{CGSize=dd}}24c56q60 */
-    	static pathWithPoints_inRect_shouldClose_pointRadiusBehaviour(...args: any[]): any;
+    	pathWithPoints_inRect_shouldClose_pointRadiusBehaviour(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

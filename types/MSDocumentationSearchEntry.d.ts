@@ -7,9 +7,9 @@ declare namespace sketchInternal {
     /* typeEncoding=c, ivar=_isDuplicateResult, attributes=(assign) */
     	isDuplicateResult(): boolean;
     /* typeEncoding=v24@0:8@16 */
-    	static markSearchEntriesAsDuplicates(...args: any[]): any;
+    	markSearchEntriesAsDuplicates(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static searchEntryWithDictionary(...args: any[]): any;
+    	searchEntryWithDictionary(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

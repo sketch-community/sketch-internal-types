@@ -71,9 +71,9 @@ declare namespace sketchInternal {
     /* typeEncoding=c, ivar=_wantsLicense, attributes=(assign,nonatomic) */
     	wantsLicense(): boolean;
     /* typeEncoding=@24@0:8@16 */
-    	static makeSuccesViewForTextField(...args: any[]): any;
+    	makeSuccesViewForTextField(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static storyboardIdentifier(...args: any[]): any;
+    	storyboardIdentifier(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

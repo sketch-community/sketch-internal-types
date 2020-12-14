@@ -3,15 +3,15 @@
 declare namespace sketchInternal {
   interface MSPointInsertion extends NSObject {
     /* typeEncoding=@56@0:8@16Q24Q32^{CGPoint=dd}40^@48 */
-    	static bezierPathBySplittingPathLayer_atIndex_options_proposedLocation_surroundingCurvePoints(...args: any[]): any;
+    	bezierPathBySplittingPathLayer_atIndex_options_proposedLocation_surroundingCurvePoints(...args: any[]): any;
     /* typeEncoding=@32@0:8Q16@24 */
-    	static bezierPathOfSegmentAtIndex_layer(...args: any[]): any;
+    	bezierPathOfSegmentAtIndex_layer(...args: any[]): any;
     /* typeEncoding=c48@0:8^{CGPoint=dd}16Q24@32Q40 */
-    	static canInsertAtProposedLocation_index_layer_options(...args: any[]): any;
+    	canInsertAtProposedLocation_index_layer_options(...args: any[]): any;
     /* typeEncoding=@56@0:8{CGPoint=dd}16Q32@40Q48 */
-    	static insertPointAtLocation_index_layer_options(...args: any[]): any;
+    	insertPointAtLocation_index_layer_options(...args: any[]): any;
     /* typeEncoding=@40@0:8@16^{CGPoint=dd}24@32 */
-    	static splitPathSegment_atProposedPoint_layer(...args: any[]): any;
+    	splitPathSegment_atProposedPoint_layer(...args: any[]): any;
   }
 }
 

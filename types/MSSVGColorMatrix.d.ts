@@ -9,9 +9,9 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSString", ivar=(null), attributes=(copy,dynamic,nonatomic) */
     	values(): cocoascript.NSString;
     /* typeEncoding=@24@0:8@16 */
-    	static colorMatrixForColor(...args: any[]): any;
+    	colorMatrixForColor(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static elementName(...args: any[]): any;
+    	elementName(...args: any[]): any;
   }
 }
 

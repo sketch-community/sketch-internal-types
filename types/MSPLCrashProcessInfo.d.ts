@@ -13,7 +13,7 @@ declare namespace sketchInternal {
     /* typeEncoding=c, ivar=_traced, attributes=(assign,nonatomic,readonly,getter=isTraced) */
     	traced(): boolean;
     /* typeEncoding=@16@0:8 */
-    	static currentProcessInfo(...args: any[]): any;
+    	currentProcessInfo(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@20@0:8i16 */

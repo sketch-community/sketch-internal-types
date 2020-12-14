@@ -3,17 +3,17 @@
 declare namespace sketchInternal {
   interface MSPasteboardLayersBase extends NSObject {
     /* typeEncoding=@24@0:8@16 */
-    	static dataFromPasteboardDictionary(...args: any[]): any;
+    	dataFromPasteboardDictionary(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static dictionaryFromPasteboardLayers(...args: any[]): any;
+    	dictionaryFromPasteboardLayers(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static pasteboardDataFromData(...args: any[]): any;
+    	pasteboardDataFromData(...args: any[]): any;
     /* typeEncoding=@32@0:8@16@24 */
-    	static usedSymbolsInContainer_document(...args: any[]): any;
+    	usedSymbolsInContainer_document(...args: any[]): any;
     /* typeEncoding=v40@0:8@16@24@32 */
-    	static usedSymbolsInInstance_document_foundSet(...args: any[]): any;
+    	usedSymbolsInInstance_document_foundSet(...args: any[]): any;
     /* typeEncoding=v40@0:8@16@24@32 */
-    	static usedSymbolsInSymbolWithID_document_foundSet(...args: any[]): any;
+    	usedSymbolsInSymbolWithID_document_foundSet(...args: any[]): any;
   }
 }
 

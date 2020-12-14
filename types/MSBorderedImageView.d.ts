@@ -27,7 +27,7 @@ declare namespace sketchInternal {
     /* typeEncoding=c, ivar=_selected, attributes=(assign,nonatomic,getter=isSelected) */
     	selected(): boolean;
     /* typeEncoding=#16@0:8 */
-    	static cellClass(...args: any[]): any;
+    	cellClass(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

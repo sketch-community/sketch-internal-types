@@ -5,7 +5,7 @@ declare namespace sketchInternal {
     /* typeEncoding=c, ivar=_documentWindowRestored, attributes=(assign,nonatomic) */
     	documentWindowRestored(): boolean;
     /* typeEncoding=@16@0:8 */
-    	static sketchApp(...args: any[]): any;
+    	sketchApp(...args: any[]): any;
     /* typeEncoding=c16@0:8 */
     	documentWindowRestored(...args: any[]): any;
     /* typeEncoding=c40@0:8@16@24@?32 */

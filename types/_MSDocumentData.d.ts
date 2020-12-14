@@ -37,15 +37,15 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSArray", ivar=_workspaceItems, attributes=(retain,nonatomic) */
     	workspaceItems(): cocoascript.NSArray;
     /* typeEncoding=c16@0:8 */
-    	static allowsFaulting(...args: any[]): any;
+    	allowsFaulting(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static defaultPageArray(...args: any[]): any;
+    	defaultPageArray(...args: any[]): any;
     /* typeEncoding=#16@0:8 */
-    	static immutableClass(...args: any[]): any;
+    	immutableClass(...args: any[]): any;
     /* typeEncoding=q16@0:8 */
-    	static initialPageNumber(...args: any[]): any;
+    	initialPageNumber(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static localizedNewPageName(...args: any[]): any;
+    	localizedNewPageName(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v24@0:8@16 */

@@ -35,9 +35,9 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSTrackingArea", ivar=_trackingArea, attributes=(assign,nonatomic,weak) */
     	trackingArea(): cocoascript.NSTrackingArea;
     /* typeEncoding=c32@0:8@16@24 */
-    	static allOverridesInLayers_match(...args: any[]): any;
+    	allOverridesInLayers_match(...args: any[]): any;
     /* typeEncoding=d44@0:8@16@24c32Q36 */
-    	static heightForOverride_layers_shouldShowLabel_indentationLevel(...args: any[]): any;
+    	heightForOverride_layers_shouldShowLabel_indentationLevel(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v16@0:8 */

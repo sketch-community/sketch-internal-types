@@ -5,7 +5,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSDictionary", ivar=_properties, attributes=(retain,nonatomic) */
     	properties(): cocoascript.NSDictionary;
     /* typeEncoding=@24@0:8@16 */
-    	static serializeProperty(...args: any[]): any;
+    	serializeProperty(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v24@0:8@16 */

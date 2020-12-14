@@ -53,11 +53,11 @@ declare namespace sketchInternal {
     /* typeEncoding=@"WKWebView", ivar=_webView, attributes=(retain,nonatomic) */
     	webView(): WKWebView;
     /* typeEncoding=v16@0:8 */
-    	static close(): void;
+    	close(): void;
     /* typeEncoding=@16@0:8 */
-    	static sharedController(...args: any[]): any;
+    	sharedController(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
-    	static show(): void;
+    	show(): void;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

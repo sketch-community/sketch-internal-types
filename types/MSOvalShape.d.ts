@@ -3,7 +3,7 @@
 declare namespace sketchInternal {
   interface MSOvalShape extends _MSOvalShape {
     /* typeEncoding=@16@0:8 */
-    	static defaultCurvePoints(...args: any[]): any;
+    	defaultCurvePoints(...args: any[]): any;
     /* typeEncoding=c16@0:8 */
     	canFlatten(...args: any[]): any;
     /* typeEncoding=@16@0:8 */

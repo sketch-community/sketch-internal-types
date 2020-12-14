@@ -7,19 +7,19 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSMutableArray", ivar=_writers, attributes=(retain,nonatomic) */
     	writers(): cocoascript.NSMutableArray;
     /* typeEncoding=@16@0:8 */
-    	static applicationPasteboardManager(...args: any[]): any;
+    	applicationPasteboardManager(...args: any[]): any;
     /* typeEncoding=@36@0:8@16@24c32 */
-    	static readPasteboardLayersFromDrag_colorSpace_convertColorSpace(...args: any[]): any;
+    	readPasteboardLayersFromDrag_colorSpace_convertColorSpace(...args: any[]): any;
     /* typeEncoding=@44@0:8@16@24Q32c40 */
-    	static readPasteboardLayersFromPasteboard_colorSpace_options_convertColorSpace(...args: any[]): any;
+    	readPasteboardLayersFromPasteboard_colorSpace_options_convertColorSpace(...args: any[]): any;
     /* typeEncoding=v24@0:8@16 */
-    	static registerReader(...args: any[]): any;
+    	registerReader(...args: any[]): any;
     /* typeEncoding=v24@0:8@16 */
-    	static registerViewForSupportedDraggedTypes(...args: any[]): any;
+    	registerViewForSupportedDraggedTypes(...args: any[]): any;
     /* typeEncoding=v24@0:8@16 */
-    	static registerWriter(...args: any[]): any;
+    	registerWriter(...args: any[]): any;
     /* typeEncoding=v32@0:8@16@24 */
-    	static writePasteboardLayers_toPasteboard(...args: any[]): any;
+    	writePasteboardLayers_toPasteboard(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

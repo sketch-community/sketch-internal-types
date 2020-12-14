@@ -13,9 +13,9 @@ declare namespace sketchInternal {
     /* typeEncoding=@"MSDocument", ivar=document, attributes=(assign,nonatomic,weak) */
     	document(): MSDocument;
     /* typeEncoding=v36@0:8@16c24@?28 */
-    	static confirmSymbolMasterDeletionOnDocumentWindow_inPlural_completion(...args: any[]): any;
+    	confirmSymbolMasterDeletionOnDocumentWindow_inPlural_completion(...args: any[]): any;
     /* typeEncoding=@20@0:8c16 */
-    	static instantiateWithComponentsMode(...args: any[]): any;
+    	instantiateWithComponentsMode(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v16@0:8 */

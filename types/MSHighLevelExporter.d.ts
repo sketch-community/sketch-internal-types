@@ -7,7 +7,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"MSRenderingDriver", ivar=_driver, attributes=(assign,nonatomic,readonly) */
     	driver(): MSRenderingDriver;
     /* typeEncoding=@24@0:8@16 */
-    	static exporterWithDelegate(...args: any[]): any;
+    	exporterWithDelegate(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

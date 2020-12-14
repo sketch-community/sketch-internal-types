@@ -15,11 +15,11 @@ declare namespace sketchInternal {
     /* typeEncoding=#, ivar=(null), attributes=(assign,readonly) */
     	superclass(): any;
     /* typeEncoding=@16@0:8 */
-    	static point(...args: any[]): any;
+    	point(...args: any[]): any;
     /* typeEncoding=@32@0:8{CGPoint=dd}16 */
-    	static pointWithPoint(...args: any[]): any;
+    	pointWithPoint(...args: any[]): any;
     /* typeEncoding=@64@0:8{CGPoint=dd}16{CGPoint=dd}32{CGPoint=dd}48 */
-    	static pointWithPoint_curveTo_curveFrom(...args: any[]): any;
+    	pointWithPoint_curveTo_curveFrom(...args: any[]): any;
     /* typeEncoding=v32@0:8q16q24 */
     	changeCurveModeTo_usingPoint(...args: any[]): any;
     /* typeEncoding=#16@0:8 */

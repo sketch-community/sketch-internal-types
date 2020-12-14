@@ -5,7 +5,7 @@ declare namespace sketchInternal {
     /* typeEncoding={PLCrashHostInfoVersion=QQQ}, ivar=_darwinVersion, attributes=(assign,nonatomic,readonly) */
     	darwinVersion(): PLCrashHostInfoVersion;
     /* typeEncoding=@16@0:8 */
-    	static currentHostInfo(...args: any[]): any;
+    	currentHostInfo(...args: any[]): any;
     /* typeEncoding={PLCrashHostInfoVersion=QQQ}16@0:8 */
     	darwinVersion(...args: any[]): any;
     /* typeEncoding=@16@0:8 */

@@ -3,9 +3,9 @@
 declare namespace sketchInternal {
   interface MSSpecOverlayLayout extends SketchControllers.MSCollectionOverlayLayout {
     /* typeEncoding={CGPoint=dd}68@0:8{CGRect={CGPoint=dd}{CGSize=dd}}16{CGPoint=dd}48I64 */
-    	static endpointWithRect_startpoint_edge(...args: any[]): any;
+    	endpointWithRect_startpoint_edge(...args: any[]): any;
     /* typeEncoding={CGRect={CGPoint=dd}{CGSize=dd}}88@0:8{CGRect={CGPoint=dd}{CGSize=dd}}16{CGRect={CGPoint=dd}{CGSize=dd}}48Q80 */
-    	static spacingRectFromRect_toRect_axis(...args: any[]): any;
+    	spacingRectFromRect_toRect_axis(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

@@ -33,21 +33,21 @@ declare namespace sketchInternal {
     /* typeEncoding=#, ivar=(null), attributes=(assign,readonly) */
     	superclass(): any;
     /* typeEncoding=@24@0:8@16 */
-    	static URLForBuiltinDataNamed(...args: any[]): any;
+    	URLForBuiltinDataNamed(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static builtinDataDefaultLanguage(...args: any[]): any;
+    	builtinDataDefaultLanguage(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static builtinDataDefaultLanguageFolder(...args: any[]): any;
+    	builtinDataDefaultLanguageFolder(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static builtinDataDefaultPath(...args: any[]): any;
+    	builtinDataDefaultPath(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static builtinDataDefaultURL(...args: any[]): any;
+    	builtinDataDefaultURL(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static localizedBuiltinDataFolder(...args: any[]): any;
+    	localizedBuiltinDataFolder(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static makeObjectID(...args: any[]): any;
+    	makeObjectID(...args: any[]): any;
     /* typeEncoding=c24@0:8@16 */
-    	static validLocalDataFileSystemURL(...args: any[]): any;
+    	validLocalDataFileSystemURL(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v24@0:8@16 */

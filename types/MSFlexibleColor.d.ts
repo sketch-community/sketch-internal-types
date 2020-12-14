@@ -13,11 +13,11 @@ declare namespace sketchInternal {
     /* typeEncoding=q, ivar=_model, attributes=(assign,nonatomic) */
     	model(): number;
     /* typeEncoding=@48@0:8d16d24d32d40 */
-    	static colorWithHue_sat_bright_alpha(...args: any[]): any;
+    	colorWithHue_sat_bright_alpha(...args: any[]): any;
     /* typeEncoding=@48@0:8d16d24d32d40 */
-    	static colorWithHue_sat_lightness_alpha(...args: any[]): any;
+    	colorWithHue_sat_lightness_alpha(...args: any[]): any;
     /* typeEncoding=@48@0:8d16d24d32d40 */
-    	static colorWithRed_green_blue_alpha(...args: any[]): any;
+    	colorWithRed_green_blue_alpha(...args: any[]): any;
     /* typeEncoding=d16@0:8 */
     	c1(...args: any[]): any;
     /* typeEncoding=d16@0:8 */

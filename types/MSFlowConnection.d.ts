@@ -13,11 +13,11 @@ declare namespace sketchInternal {
     /* typeEncoding=@"MSLayer", ivar=(null), attributes=(assign,nonatomic,readonly,weak) */
     	sendingLayer(): MSLayer;
     /* typeEncoding=q16@0:8 */
-    	static defaultAnimationType(...args: any[]): any;
+    	defaultAnimationType(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static flowConnectionBack(...args: any[]): any;
+    	flowConnectionBack(...args: any[]): any;
     /* typeEncoding=@32@0:8@16q24 */
-    	static flowConnectionTo_ofType(...args: any[]): any;
+    	flowConnectionTo_ofType(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
     	destinationArtboard(...args: any[]): any;
     /* typeEncoding=c16@0:8 */

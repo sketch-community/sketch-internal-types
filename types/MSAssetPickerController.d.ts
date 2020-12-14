@@ -43,7 +43,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"MSGenericButtonController", ivar=_switchCollectionButtonController, attributes=(retain,nonatomic) */
     	switchCollectionButtonController(): MSGenericButtonController;
     /* typeEncoding=#24@0:8Q16 */
-    	static itemClassForAssetType(...args: any[]): any;
+    	itemClassForAssetType(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v24@0:8@16 */

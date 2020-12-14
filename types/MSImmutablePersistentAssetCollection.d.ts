@@ -3,7 +3,7 @@
 declare namespace sketchInternal {
   interface MSImmutablePersistentAssetCollection extends MSImmutableAssetCollection {
     /* typeEncoding=#16@0:8 */
-    	static mutableClass(...args: any[]): any;
+    	mutableClass(...args: any[]): any;
   }
 }
 

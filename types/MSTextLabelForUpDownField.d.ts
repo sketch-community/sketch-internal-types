@@ -21,7 +21,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSTextField<MSUpDownProtocol>", ivar=_upDownTextField, attributes=(assign,nonatomic,weak) */
     	upDownTextField(): any;
     /* typeEncoding=@24@0:8Q16 */
-    	static resizeCursorForFlags(...args: any[]): any;
+    	resizeCursorForFlags(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=c16@0:8 */

@@ -27,21 +27,21 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSArray", ivar=_toolbarSelectableIdentifiers, attributes=(copy,nonatomic) */
     	toolbarSelectableIdentifiers(): cocoascript.NSArray;
     /* typeEncoding=@16@0:8 */
-    	static toolbarAllowedComponentItemIdentifiers(...args: any[]): any;
+    	toolbarAllowedComponentItemIdentifiers(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static toolbarAllowedSketchDocumentItemIdentifiers(...args: any[]): any;
+    	toolbarAllowedSketchDocumentItemIdentifiers(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static toolbarDefaultComponentItemIdentifiers(...args: any[]): any;
+    	toolbarDefaultComponentItemIdentifiers(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static toolbarDefaultComponentItemIdentifiersForBigSurAndUp(...args: any[]): any;
+    	toolbarDefaultComponentItemIdentifiersForBigSurAndUp(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static toolbarDefaultComponentItemIdentifiersForCatalinaAndBelow(...args: any[]): any;
+    	toolbarDefaultComponentItemIdentifiersForCatalinaAndBelow(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static toolbarDefaultItemIdentifiers(...args: any[]): any;
+    	toolbarDefaultItemIdentifiers(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static toolbarDefaultItemIdentifiersForBigSurAndUp(...args: any[]): any;
+    	toolbarDefaultItemIdentifiersForBigSurAndUp(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static toolbarDefaultItemIdentifiersForCatalinaAndBelow(...args: any[]): any;
+    	toolbarDefaultItemIdentifiersForCatalinaAndBelow(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

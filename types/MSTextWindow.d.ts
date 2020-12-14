@@ -7,11 +7,11 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSTextView", ivar=_textView, attributes=(retain,nonatomic) */
     	textView(): cocoascript.NSTextView;
     /* typeEncoding={CGRect={CGPoint=dd}{CGSize=dd}}48@0:8{CGRect={CGPoint=dd}{CGSize=dd}}16 */
-    	static adjustFrameHeight(...args: any[]): any;
+    	adjustFrameHeight(...args: any[]): any;
     /* typeEncoding={CGRect={CGPoint=dd}{CGSize=dd}}56@0:8{CGRect={CGPoint=dd}{CGSize=dd}}16q48 */
-    	static adjustFrameWidth_alignment(...args: any[]): any;
+    	adjustFrameWidth_alignment(...args: any[]): any;
     /* typeEncoding={CGRect={CGPoint=dd}{CGSize=dd}}64@0:8{CGRect={CGPoint=dd}{CGSize=dd}}16q48q56 */
-    	static makeBiggerRect_withBehaviour_alignment(...args: any[]): any;
+    	makeBiggerRect_withBehaviour_alignment(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v32@0:8@16@24 */

@@ -7,7 +7,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSMutableDictionary", ivar=_downloadTasks, attributes=(retain,nonatomic) */
     	downloadTasks(): cocoascript.NSMutableDictionary;
     /* typeEncoding=@24@0:8@16 */
-    	static appcastForURL(...args: any[]): any;
+    	appcastForURL(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v32@0:8@16@24 */

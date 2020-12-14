@@ -7,7 +7,7 @@ declare namespace sketchInternal {
     /* typeEncoding={CGRect={CGPoint=dd}{CGSize=dd}}, ivar=_rect, attributes=(assign,nonatomic) */
     	rect(): CGRect;
     /* typeEncoding=@56@0:8@16{CGRect={CGPoint=dd}{CGSize=dd}}24 */
-    	static pointsFromBezierPath_inRect(...args: any[]): any;
+    	pointsFromBezierPath_inRect(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

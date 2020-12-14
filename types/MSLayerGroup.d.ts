@@ -21,9 +21,9 @@ declare namespace sketchInternal {
     /* typeEncoding=#, ivar=(null), attributes=(assign,readonly) */
     	superclass(): any;
     /* typeEncoding=@24@0:8@16 */
-    	static groupWithLayer(...args: any[]): any;
+    	groupWithLayer(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static groupWithLayers(...args: any[]): any;
+    	groupWithLayers(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
     	CSSAttributeString(...args: any[]): any;
     /* typeEncoding=c16@0:8 */

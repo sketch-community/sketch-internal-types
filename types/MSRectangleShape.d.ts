@@ -15,21 +15,21 @@ declare namespace sketchInternal {
     /* typeEncoding=c, ivar=(null), attributes=(assign,nonatomic,readonly) */
     	smoothCornersAllowed(): boolean;
     /* typeEncoding=v32@0:8d16@24 */
-    	static applyRadius_toPoints(...args: any[]): any;
+    	applyRadius_toPoints(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static componentStringWithValues(...args: any[]): any;
+    	componentStringWithValues(...args: any[]): any;
     /* typeEncoding=@24@0:8d16 */
-    	static defaultPointsWithRadius(...args: any[]): any;
+    	defaultPointsWithRadius(...args: any[]): any;
     /* typeEncoding=d16@0:8 */
-    	static lastUsedCornerRadius(...args: any[]): any;
+    	lastUsedCornerRadius(...args: any[]): any;
     /* typeEncoding=c24@0:8@16 */
-    	static looksLikeComponentString(...args: any[]): any;
+    	looksLikeComponentString(...args: any[]): any;
     /* typeEncoding=@56@0:8{CGRect={CGPoint=dd}{CGSize=dd}}16@48 */
-    	static shapeWithRect_fillColor(...args: any[]): any;
+    	shapeWithRect_fillColor(...args: any[]): any;
     /* typeEncoding=c16@0:8 */
-    	static useSmoothCorners(...args: any[]): any;
+    	useSmoothCorners(...args: any[]): any;
     /* typeEncoding=c24@0:8@16 */
-    	static validateComponentString(...args: any[]): any;
+    	validateComponentString(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
     	CSSAttributeString(...args: any[]): any;
     /* typeEncoding=@16@0:8 */

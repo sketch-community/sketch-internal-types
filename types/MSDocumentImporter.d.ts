@@ -17,7 +17,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"MSCanvasView", ivar=(null), attributes=(assign,dynamic,nonatomic,readonly,weak) */
     	view(): MSCanvasView;
     /* typeEncoding=v40@0:8@16@24@32 */
-    	static importFromURL_inPage_importer(...args: any[]): any;
+    	importFromURL_inPage_importer(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

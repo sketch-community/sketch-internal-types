@@ -27,7 +27,7 @@ declare namespace sketchInternal {
     /* typeEncoding=d, ivar=_zoomValue, attributes=(assign,nonatomic) */
     	zoomValue(): number;
     /* typeEncoding=@184@0:8^v16Q24{?=iiii}32d48{MSRenderingParameters={CGRect={CGPoint=dd}{CGSize=dd}}dd{CGSize=dd}Q}56d128@136@144@152@160@168^{CGColorSpace=}176 */
-    	static operationWithMemory_bytesPerRow_rect_zoomValue_parameters_backingScaleFactor_page_document_driver_cacheProvider_poolProvider_colorSpace(...args: any[]): any;
+    	operationWithMemory_bytesPerRow_rect_zoomValue_parameters_backingScaleFactor_page_document_driver_cacheProvider_poolProvider_colorSpace(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=d16@0:8 */

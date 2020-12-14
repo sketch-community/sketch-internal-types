@@ -3,7 +3,7 @@
 declare namespace sketchInternal {
   interface MSStarShape extends _MSStarShape {
     /* typeEncoding=@32@0:8q16d24 */
-    	static defaultCurvePointsWithNumberOfPoints_radius(...args: any[]): any;
+    	defaultCurvePointsWithNumberOfPoints_radius(...args: any[]): any;
     /* typeEncoding={CGRect={CGPoint=dd}{CGSize=dd}}16@0:8 */
     	boundsForCursorPreview(...args: any[]): any;
     /* typeEncoding=c16@0:8 */

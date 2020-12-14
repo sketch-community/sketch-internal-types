@@ -13,7 +13,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"MSPath", ivar=_subjectPath, attributes=(retain,nonatomic) */
     	subjectPath(): MSPath;
     /* typeEncoding=@24@0:8@16 */
-    	static booleanOperationChainWithSubjectPath(...args: any[]): any;
+    	booleanOperationChainWithSubjectPath(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=q32@0:8@16q24 */

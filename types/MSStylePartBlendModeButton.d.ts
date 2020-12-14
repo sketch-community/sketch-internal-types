@@ -13,7 +13,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSArray", ivar=_styleParts, attributes=(retain,nonatomic) */
     	styleParts(): cocoascript.NSArray;
     /* typeEncoding=@24@0:8@16 */
-    	static toolTipForBlendModes(...args: any[]): any;
+    	toolTipForBlendModes(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

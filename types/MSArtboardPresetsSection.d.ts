@@ -9,9 +9,9 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSArray", ivar=_presets, attributes=(copy,nonatomic) */
     	presets(): cocoascript.NSArray;
     /* typeEncoding=@24@0:8@16 */
-    	static sectionsWithContentsOfURL(...args: any[]): any;
+    	sectionsWithContentsOfURL(...args: any[]): any;
     /* typeEncoding=c40@0:8@16@24^@32 */
-    	static writeSections_toURL_error(...args: any[]): any;
+    	writeSections_toURL_error(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

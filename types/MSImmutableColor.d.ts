@@ -25,31 +25,31 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSString", ivar=(null), attributes=(retain,nonatomic) */
     	swatchID(): cocoascript.NSString;
     /* typeEncoding=@16@0:8 */
-    	static availableRGBColorSpaces(...args: any[]): any;
+    	availableRGBColorSpaces(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static blackColor(...args: any[]): any;
+    	blackColor(...args: any[]): any;
     /* typeEncoding=@40@0:8q16q24q32 */
-    	static colorWithIntegerRed_green_blue(...args: any[]): any;
+    	colorWithIntegerRed_green_blue(...args: any[]): any;
     /* typeEncoding=@48@0:8q16q24q32q40 */
-    	static colorWithIntegerRed_green_blue_alpha(...args: any[]): any;
+    	colorWithIntegerRed_green_blue_alpha(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static colorWithNSColor(...args: any[]): any;
+    	colorWithNSColor(...args: any[]): any;
     /* typeEncoding=@48@0:8d16d24d32d40 */
-    	static colorWithRed_green_blue_alpha(...args: any[]): any;
+    	colorWithRed_green_blue_alpha(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static colorWithSVGString(...args: any[]): any;
+    	colorWithSVGString(...args: any[]): any;
     /* typeEncoding=@32@0:8d16d24 */
-    	static colorWithWhite_alpha(...args: any[]): any;
+    	colorWithWhite_alpha(...args: any[]): any;
     /* typeEncoding=v48@0:8^d16^d24^d32@40 */
-    	static getRed_green_blue_fromHexValue(...args: any[]): any;
+    	getRed_green_blue_fromHexValue(...args: any[]): any;
     /* typeEncoding=@40@0:8d16d24d32 */
-    	static hexValueForRed_green_blue(...args: any[]): any;
+    	hexValueForRed_green_blue(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static namedColor(...args: any[]): any;
+    	namedColor(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static staticColorDictionary(...args: any[]): any;
+    	staticColorDictionary(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static whiteColor(...args: any[]): any;
+    	whiteColor(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
     	NSColorForContext(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */

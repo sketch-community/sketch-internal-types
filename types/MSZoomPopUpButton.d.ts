@@ -3,7 +3,7 @@
 declare namespace sketchInternal {
   interface MSZoomPopUpButton extends NSPopUpButton {
     /* typeEncoding=#16@0:8 */
-    	static cellClass(...args: any[]): any;
+    	cellClass(...args: any[]): any;
   }
 }
 

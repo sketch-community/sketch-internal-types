@@ -15,15 +15,15 @@ declare namespace sketchInternal {
     /* typeEncoding=#, ivar=(null), attributes=(assign,readonly) */
     	superclass(): any;
     /* typeEncoding=d44@0:8@16@24c32Q36 */
-    	static heightForOverride_layers_shouldShowLabel_indentationLevel(...args: any[]): any;
+    	heightForOverride_layers_shouldShowLabel_indentationLevel(...args: any[]): any;
     /* typeEncoding=Q32@0:8@16@24 */
-    	static numberOfLinesForOverride_layers(...args: any[]): any;
+    	numberOfLinesForOverride_layers(...args: any[]): any;
     /* typeEncoding=Q24@0:8@16 */
-    	static numberOfLinesForSingleOverride(...args: any[]): any;
+    	numberOfLinesForSingleOverride(...args: any[]): any;
     /* typeEncoding=d24@0:8Q16 */
-    	static textFieldHeightForNumberOfLines(...args: any[]): any;
+    	textFieldHeightForNumberOfLines(...args: any[]): any;
     /* typeEncoding=d32@0:8@16@24 */
-    	static textFieldHeightForOverrideRepresentation_layers(...args: any[]): any;
+    	textFieldHeightForOverrideRepresentation_layers(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v24@0:8@16 */

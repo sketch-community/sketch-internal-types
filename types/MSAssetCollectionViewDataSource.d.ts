@@ -33,9 +33,9 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSString", ivar=_title, attributes=(assign,nonatomic,readonly) */
     	title(): cocoascript.NSString;
     /* typeEncoding=@32@0:8@16Q24 */
-    	static pasteboardRepresentationForAsset_ofType(...args: any[]): any;
+    	pasteboardRepresentationForAsset_ofType(...args: any[]): any;
     /* typeEncoding=@24@0:8Q16 */
-    	static pasteboardTypeForAssetType(...args: any[]): any;
+    	pasteboardTypeForAssetType(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@32@0:8@16@24 */

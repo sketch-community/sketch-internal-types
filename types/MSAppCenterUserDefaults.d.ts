@@ -3,9 +3,9 @@
 declare namespace sketchInternal {
   interface MSAppCenterUserDefaults extends NSObject {
     /* typeEncoding=v16@0:8 */
-    	static resetSharedInstance(): void;
+    	resetSharedInstance(): void;
     /* typeEncoding=@16@0:8 */
-    	static shared(...args: any[]): any;
+    	shared(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
     	getAppCenterKeyFrom(...args: any[]): any;
     /* typeEncoding=v32@0:8@16@24 */

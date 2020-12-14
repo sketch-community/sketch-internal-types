@@ -3,7 +3,7 @@
 declare namespace sketchInternal {
   interface _MSImmutableSymbol extends MSImmutableSharedObject {
     /* typeEncoding=#16@0:8 */
-    	static mutableClass(...args: any[]): any;
+    	mutableClass(...args: any[]): any;
     /* typeEncoding=v32@0:8@16@24 */
     	collaborationDiffCompareChildrenAgainst_treeComparison(...args: any[]): any;
     /* typeEncoding=@32@0:8@16@24 */

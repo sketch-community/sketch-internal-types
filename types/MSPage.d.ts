@@ -53,9 +53,9 @@ declare namespace sketchInternal {
     /* typeEncoding=d, ivar=(null), attributes=(assign,nonatomic) */
     	zoomValue(): number;
     /* typeEncoding=@16@0:8 */
-    	static defaultSymbolsPageName(...args: any[]): any;
+    	defaultSymbolsPageName(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static page(...args: any[]): any;
+    	page(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=c32@0:8@16Q24 */

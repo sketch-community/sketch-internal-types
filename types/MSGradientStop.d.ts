@@ -11,7 +11,7 @@ declare namespace sketchInternal {
     /* typeEncoding=#, ivar=(null), attributes=(assign,readonly) */
     	superclass(): any;
     /* typeEncoding=@32@0:8d16@24 */
-    	static stopWithPosition_color(...args: any[]): any;
+    	stopWithPosition_color(...args: any[]): any;
     /* typeEncoding=d24@0:8d16 */
     	cappedBounds(...args: any[]): any;
     /* typeEncoding=@32@0:8d16@24 */

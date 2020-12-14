@@ -23,7 +23,7 @@ declare namespace sketchInternal {
     /* typeEncoding=#, ivar=(null), attributes=(assign,readonly) */
     	superclass(): any;
     /* typeEncoding=v40@0:8@16@24q32 */
-    	static showModalWithVersion_buildNumber_reason(...args: any[]): any;
+    	showModalWithVersion_buildNumber_reason(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=q16@0:8 */

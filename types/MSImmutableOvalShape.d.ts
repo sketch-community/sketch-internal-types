@@ -3,7 +3,7 @@
 declare namespace sketchInternal {
   interface MSImmutableOvalShape extends _MSImmutableOvalShape {
     /* typeEncoding=@16@0:8 */
-    	static defaultName(...args: any[]): any;
+    	defaultName(...args: any[]): any;
     /* typeEncoding=c16@0:8 */
     	hasDefaultCurvePoints(...args: any[]): any;
     /* typeEncoding=v40@0:8@16@24d32 */

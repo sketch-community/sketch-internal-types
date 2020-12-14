@@ -55,19 +55,19 @@ declare namespace sketchInternal {
     /* typeEncoding=q, ivar=_updatesAddedToWarehouse, attributes=(assign,nonatomic) */
     	updatesAddedToWarehouse(): number;
     /* typeEncoding=@16@0:8 */
-    	static defaultPluginURL(...args: any[]): any;
+    	defaultPluginURL(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
-    	static initialisePlugins(): void;
+    	initialisePlugins(): void;
     /* typeEncoding=c32@0:8@16@24 */
-    	static isPluginAtURL_newerThanPluginAtURL(...args: any[]): any;
+    	isPluginAtURL_newerThanPluginAtURL(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static mainPluginsFolderURL(...args: any[]): any;
+    	mainPluginsFolderURL(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static pluginsURLs(...args: any[]): any;
+    	pluginsURLs(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static pluginsWarehouseURL(...args: any[]): any;
+    	pluginsWarehouseURL(...args: any[]): any;
     /* typeEncoding=@32@0:8@16@24 */
-    	static warehousePluginFolderForIdentifier_withVersion(...args: any[]): any;
+    	warehousePluginFolderForIdentifier_withVersion(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v48@0:8@16@24@32:40 */

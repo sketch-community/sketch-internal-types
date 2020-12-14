@@ -39,11 +39,11 @@ declare namespace sketchInternal {
     /* typeEncoding=d, ivar=(null), attributes=(assign,dynamic,nonatomic) */
     	width(): number;
     /* typeEncoding=@48@0:8{CGRect={CGPoint=dd}{CGSize=dd}}16 */
-    	static rectWithRect(...args: any[]): any;
+    	rectWithRect(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static rectWithUnionOfRects(...args: any[]): any;
+    	rectWithUnionOfRects(...args: any[]): any;
     /* typeEncoding=@48@0:8d16d24d32d40 */
-    	static rectWithX_y_width_height(...args: any[]): any;
+    	rectWithX_y_width_height(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	beginEditing(): void;
     /* typeEncoding=d16@0:8 */

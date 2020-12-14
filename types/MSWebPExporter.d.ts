@@ -3,7 +3,7 @@
 declare namespace sketchInternal {
   interface MSWebPExporter extends MSExporter {
     /* typeEncoding=v16@0:8 */
-    	static initialize(): void;
+    	initialize(): void;
     /* typeEncoding=@16@0:8 */
     	data(...args: any[]): any;
     /* typeEncoding=@16@0:8 */

@@ -7,9 +7,9 @@ declare namespace sketchInternal {
     /* typeEncoding=Q, ivar=_options, attributes=(assign,nonatomic,readonly) */
     	options(): number;
     /* typeEncoding=@16@0:8 */
-    	static defaultsKeyPaths(...args: any[]): any;
+    	defaultsKeyPaths(...args: any[]): any;
     /* typeEncoding=@32@0:8@16Q24 */
-    	static settingsFromTheme_options(...args: any[]): any;
+    	settingsFromTheme_options(...args: any[]): any;
     /* typeEncoding=^{CGColor=}24@0:8Q16 */
     	colorAtIndex(...args: any[]): any;
     /* typeEncoding=@24@0:8^{_NSZone=}16 */

@@ -3,7 +3,7 @@
 declare namespace sketchInternal {
   interface MSHotspotLayer extends _MSHotspotLayer {
     /* typeEncoding=@24@0:8@16 */
-    	static hotspotLayerFromLayer(...args: any[]): any;
+    	hotspotLayerFromLayer(...args: any[]): any;
     /* typeEncoding=v32@0:8@16@24 */
     	applyOverride_document(...args: any[]): any;
     /* typeEncoding=c16@0:8 */

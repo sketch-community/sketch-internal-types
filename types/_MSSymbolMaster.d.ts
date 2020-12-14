@@ -9,9 +9,9 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSString", ivar=_symbolID, attributes=(retain,nonatomic) */
     	symbolID(): cocoascript.NSString;
     /* typeEncoding=c16@0:8 */
-    	static allowsFaulting(...args: any[]): any;
+    	allowsFaulting(...args: any[]): any;
     /* typeEncoding=#16@0:8 */
-    	static immutableClass(...args: any[]): any;
+    	immutableClass(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=c16@0:8 */

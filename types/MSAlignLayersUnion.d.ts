@@ -19,7 +19,7 @@ declare namespace sketchInternal {
     /* typeEncoding=#, ivar=(null), attributes=(assign,readonly) */
     	superclass(): any;
     /* typeEncoding=@24@0:8@16 */
-    	static unionWithLayers(...args: any[]): any;
+    	unionWithLayers(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding={CGRect={CGPoint=dd}{CGSize=dd}}16@0:8 */

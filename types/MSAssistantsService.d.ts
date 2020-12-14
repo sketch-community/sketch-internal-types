@@ -3,13 +3,13 @@
 declare namespace sketchInternal {
   interface MSAssistantsService extends NSObject {
     /* typeEncoding=c16@0:8 */
-    	static automaticAssistantsDisabled(...args: any[]): any;
+    	automaticAssistantsDisabled(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static disableAutomaticAssistantsKey(...args: any[]): any;
+    	disableAutomaticAssistantsKey(...args: any[]): any;
     /* typeEncoding=v20@0:8c16 */
-    	static setAutomaticAssistantsDisabled(...args: any[]): any;
+    	setAutomaticAssistantsDisabled(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static shared(...args: any[]): any;
+    	shared(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v16@0:8 */

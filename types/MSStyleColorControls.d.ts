@@ -5,9 +5,9 @@ declare namespace sketchInternal {
     /* typeEncoding=d, ivar=(null), attributes=(assign,nonatomic) */
     	userVisibleContrast(): number;
     /* typeEncoding=@16@0:8 */
-    	static keyPathsForValuesAffectingUserVisibleContrast(...args: any[]): any;
+    	keyPathsForValuesAffectingUserVisibleContrast(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static keyPathsForValuesAffectingValueForKey(...args: any[]): any;
+    	keyPathsForValuesAffectingValueForKey(...args: any[]): any;
     /* typeEncoding=c16@0:8 */
     	hasDefaultColorControlsValues(...args: any[]): any;
     /* typeEncoding=v16@0:8 */

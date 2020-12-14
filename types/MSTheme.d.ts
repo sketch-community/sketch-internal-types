@@ -291,11 +291,11 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSColor", ivar=(null), attributes=(assign,nonatomic,readonly) */
     	windowBadgeUnfocusedPillColor(): cocoascript.NSColor;
     /* typeEncoding=v16@0:8 */
-    	static initialize(): void;
+    	initialize(): void;
     /* typeEncoding=v16@0:8 */
-    	static setupAppearance(): void;
+    	setupAppearance(): void;
     /* typeEncoding=@16@0:8 */
-    	static sharedTheme(...args: any[]): any;
+    	sharedTheme(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@32@0:8@16@24 */

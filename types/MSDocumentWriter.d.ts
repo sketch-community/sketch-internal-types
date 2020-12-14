@@ -31,13 +31,13 @@ declare namespace sketchInternal {
     /* typeEncoding=#, ivar=(null), attributes=(assign,readonly) */
     	superclass(): any;
     /* typeEncoding=@32@0:8@16^@24 */
-    	static findLibraryPreviewArtboardForDocument_outPage(...args: any[]): any;
+    	findLibraryPreviewArtboardForDocument_outPage(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static generatePreviewsForDocument(...args: any[]): any;
+    	generatePreviewsForDocument(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static metadataForNewFile(...args: any[]): any;
+    	metadataForNewFile(...args: any[]): any;
     /* typeEncoding=@64@0:8@16@24{CGRect={CGPoint=dd}{CGSize=dd}}32 */
-    	static previewImageForDocument_page_rect(...args: any[]): any;
+    	previewImageForDocument_page_rect(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

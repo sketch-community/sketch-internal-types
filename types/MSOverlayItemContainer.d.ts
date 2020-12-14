@@ -13,11 +13,11 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSArray", ivar=_pathItems, attributes=(copy,nonatomic,readonly) */
     	pathItems(): cocoascript.NSArray;
     /* typeEncoding=@16@0:8 */
-    	static container(...args: any[]): any;
+    	container(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static containerWithPathItem(...args: any[]): any;
+    	containerWithPathItem(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static containerWithPathItems(...args: any[]): any;
+    	containerWithPathItems(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@24@0:8@16 */

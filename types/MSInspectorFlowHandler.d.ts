@@ -5,11 +5,11 @@ declare namespace sketchInternal {
     /* typeEncoding=@"<MSInspectorFlowHandlerDelegate>", ivar=_delegate, attributes=(assign,nonatomic,weak) */
     	delegate(): any;
     /* typeEncoding=@24@0:8@16 */
-    	static flowConnectionForLayers(...args: any[]): any;
+    	flowConnectionForLayers(...args: any[]): any;
     /* typeEncoding=c24@0:8@16 */
-    	static shouldShowFullInspectorForFlow(...args: any[]): any;
+    	shouldShowFullInspectorForFlow(...args: any[]): any;
     /* typeEncoding=c24@0:8@16 */
-    	static shouldShowFullInspectorForLayers(...args: any[]): any;
+    	shouldShowFullInspectorForLayers(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

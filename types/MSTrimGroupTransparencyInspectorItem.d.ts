@@ -3,7 +3,7 @@
 declare namespace sketchInternal {
   interface MSTrimGroupTransparencyInspectorItem extends MSTrimTransparencyInspectorItem {
     /* typeEncoding=c24@0:8@16 */
-    	static canHandleLayer(...args: any[]): any;
+    	canHandleLayer(...args: any[]): any;
   }
 }
 

@@ -43,17 +43,17 @@ declare namespace sketchInternal {
     /* typeEncoding=#, ivar=(null), attributes=(assign,readonly) */
     	superclass(): any;
     /* typeEncoding=@24@0:8@16 */
-    	static convertArtboardToSymbol(...args: any[]): any;
+    	convertArtboardToSymbol(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static convertSymbolToArtboard(...args: any[]): any;
+    	convertSymbolToArtboard(...args: any[]): any;
     /* typeEncoding=v32@0:8@16@24 */
-    	static copyPropertiesFrom_to(...args: any[]): any;
+    	copyPropertiesFrom_to(...args: any[]): any;
     /* typeEncoding=v88@0:8@16{CGSize=dd}24{CGSize=dd}40@56d64@?72@?80 */
-    	static generatePreviewForLayerAncestry_imageSize_previewSize_colorSpace_backingScale_concurrentCancelBlock_completionBlock(...args: any[]): any;
+    	generatePreviewForLayerAncestry_imageSize_previewSize_colorSpace_backingScale_concurrentCancelBlock_completionBlock(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static sketchrunnerMSSymbolMaster_convertArtboardToSymbol(...args: any[]): any;
+    	sketchrunnerMSSymbolMaster_convertArtboardToSymbol(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static sketchrunnerMSSymbolMaster_convertSymbolToArtboard(...args: any[]): any;
+    	sketchrunnerMSSymbolMaster_convertSymbolToArtboard(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

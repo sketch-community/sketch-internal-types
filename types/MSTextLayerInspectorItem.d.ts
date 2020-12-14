@@ -65,9 +65,9 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSSegmentedControl", ivar=_verticalAlignmentButton, attributes=(retain,nonatomic) */
     	verticalAlignmentButton(): cocoascript.NSSegmentedControl;
     /* typeEncoding=c24@0:8@16 */
-    	static canHandleLayer(...args: any[]): any;
+    	canHandleLayer(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
-    	static initialize(): void;
+    	initialize(): void;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

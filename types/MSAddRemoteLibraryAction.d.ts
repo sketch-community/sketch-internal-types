@@ -3,7 +3,7 @@
 declare namespace sketchInternal {
   interface MSAddRemoteLibraryAction extends MSAction {
     /* typeEncoding=@16@0:8 */
-    	static standardCloudEnvironment(...args: any[]): any;
+    	standardCloudEnvironment(...args: any[]): any;
     /* typeEncoding=v24@0:8@16 */
     	addAsCloudLibrary(...args: any[]): any;
     /* typeEncoding=v24@0:8@16 */

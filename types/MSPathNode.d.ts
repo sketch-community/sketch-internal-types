@@ -9,9 +9,9 @@ declare namespace sketchInternal {
     /* typeEncoding=@"MSPath", ivar=_path, attributes=(assign,nonatomic,readonly) */
     	path(): MSPath;
     /* typeEncoding=@28@0:8^{ClipperGraphNode=^{CGPath}^{ClipperGraphNode}Qc}16c24 */
-    	static pathNodeFromClipperNode_isFilled(...args: any[]): any;
+    	pathNodeFromClipperNode_isFilled(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static rootNodeFromPath(...args: any[]): any;
+    	rootNodeFromPath(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

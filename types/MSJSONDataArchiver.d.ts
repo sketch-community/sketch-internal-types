@@ -7,7 +7,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"BCJSONEncoder", ivar=_dataEncoder, attributes=(retain,nonatomic) */
     	dataEncoder(): BCJSONEncoder;
     /* typeEncoding=@32@0:8@16^@24 */
-    	static archiveStringWithRootObject_error(...args: any[]): any;
+    	archiveStringWithRootObject_error(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v24@0:8@16 */

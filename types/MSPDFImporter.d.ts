@@ -17,9 +17,9 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSString", ivar=_type, attributes=(retain,nonatomic) */
     	type(): cocoascript.NSString;
     /* typeEncoding=@16@0:8 */
-    	static epsImporter(...args: any[]): any;
+    	epsImporter(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static pdfImporter(...args: any[]): any;
+    	pdfImporter(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v16@0:8 */

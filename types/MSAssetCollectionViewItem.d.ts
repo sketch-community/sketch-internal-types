@@ -33,7 +33,7 @@ declare namespace sketchInternal {
     /* typeEncoding=#, ivar=(null), attributes=(assign,readonly) */
     	superclass(): any;
     /* typeEncoding=@60@0:8{CGRect={CGPoint=dd}{CGSize=dd}}16c48d52 */
-    	static drawAssetViewBackgroundReturningContentPathInBounds_highlighted_scale(...args: any[]): any;
+    	drawAssetViewBackgroundReturningContentPathInBounds_highlighted_scale(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

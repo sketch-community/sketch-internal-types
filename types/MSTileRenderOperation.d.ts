@@ -23,13 +23,13 @@ declare namespace sketchInternal {
     /* typeEncoding={MSRenderingParameters={CGRect={CGPoint=dd}{CGSize=dd}}dd{CGSize=dd}Q}, ivar=_renderingParameters, attributes=(assign,nonatomic) */
     	renderingParameters(): MSRenderingParameters;
     /* typeEncoding=@120@0:8@16{MSRenderingParameters={CGRect={CGPoint=dd}{CGSize=dd}}dd{CGSize=dd}Q}24@96@104@112 */
-    	static bitmapImageFromRenderPasses_renderingParameters_cacheProvider_canvasColorSpace_overlaySettings(...args: any[]): any;
+    	bitmapImageFromRenderPasses_renderingParameters_cacheProvider_canvasColorSpace_overlaySettings(...args: any[]): any;
     /* typeEncoding=@128@0:8@16@24{MSRenderingParameters={CGRect={CGPoint=dd}{CGSize=dd}}dd{CGSize=dd}Q}32@104@112@120 */
-    	static bitmapImageRenderForPage_inDocument_renderingParameters_cacheProvider_canvasColorSpace_overlaySettings(...args: any[]): any;
+    	bitmapImageRenderForPage_inDocument_renderingParameters_cacheProvider_canvasColorSpace_overlaySettings(...args: any[]): any;
     /* typeEncoding=@128@0:8@16@24{MSRenderingParameters={CGRect={CGPoint=dd}{CGSize=dd}}dd{CGSize=dd}Q}32@104@112@120 */
-    	static renderOperationWithPage_inDocument_renderingParameters_cacheProvider_canvasColorSpace_overlaySettings(...args: any[]): any;
+    	renderOperationWithPage_inDocument_renderingParameters_cacheProvider_canvasColorSpace_overlaySettings(...args: any[]): any;
     /* typeEncoding=@120@0:8@16{MSRenderingParameters={CGRect={CGPoint=dd}{CGSize=dd}}dd{CGSize=dd}Q}24@96@104@112 */
-    	static renderOperationWithRenderPasses_renderingParameters_cacheProvider_canvasColorSpace_overlaySettings(...args: any[]): any;
+    	renderOperationWithRenderPasses_renderingParameters_cacheProvider_canvasColorSpace_overlaySettings(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=c16@0:8 */

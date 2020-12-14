@@ -271,35 +271,35 @@ declare namespace sketchInternal {
     /* typeEncoding=@"MSLayoutDimension", ivar=(null), attributes=(assign,nonatomic,readonly) */
     	widthAnchor(): MSLayoutDimension;
     /* typeEncoding=v40@0:8@16d24@32 */
-    	static alignLayers_toValue_forKey(...args: any[]): any;
+    	alignLayers_toValue_forKey(...args: any[]): any;
     /* typeEncoding=v44@0:8@16Q24@32c40 */
-    	static alignLayers_withMode_toKey_pixelFit(...args: any[]): any;
+    	alignLayers_withMode_toKey_pixelFit(...args: any[]): any;
     /* typeEncoding={CGRect={CGPoint=dd}{CGSize=dd}}24@0:8@16 */
-    	static alignmentRectForLayers(...args: any[]): any;
+    	alignmentRectForLayers(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static defaultName(...args: any[]): any;
+    	defaultName(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static keyPathsForValuesAffectingBadgeMap(...args: any[]): any;
+    	keyPathsForValuesAffectingBadgeMap(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static keyPathsForValuesAffectingLastNameComponent(...args: any[]): any;
+    	keyPathsForValuesAffectingLastNameComponent(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static keyPathsForValuesAffectingNodeName(...args: any[]): any;
+    	keyPathsForValuesAffectingNodeName(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static keyPathsForValuesAffectingUserVisibleRotation(...args: any[]): any;
+    	keyPathsForValuesAffectingUserVisibleRotation(...args: any[]): any;
     /* typeEncoding=@24@0:8Q16 */
-    	static layerOfDataType(...args: any[]): any;
+    	layerOfDataType(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static layerWithPath(...args: any[]): any;
+    	layerWithPath(...args: any[]): any;
     /* typeEncoding=v32@0:8@16q24 */
-    	static makeLayerNamesUnique_withOptions(...args: any[]): any;
+    	makeLayerNamesUnique_withOptions(...args: any[]): any;
     /* typeEncoding=d24@0:8d16 */
-    	static normalizeUserVisibleRotation(...args: any[]): any;
+    	normalizeUserVisibleRotation(...args: any[]): any;
     /* typeEncoding=d24@0:8d16 */
-    	static rotationForUserVisibleRotation(...args: any[]): any;
+    	rotationForUserVisibleRotation(...args: any[]): any;
     /* typeEncoding=Q16@0:8 */
-    	static traits(...args: any[]): any;
+    	traits(...args: any[]): any;
     /* typeEncoding=d24@0:8d16 */
-    	static userVisibleRotationForRotation(...args: any[]): any;
+    	userVisibleRotationForRotation(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding={CGAffineTransform=dddddd}16@0:8 */

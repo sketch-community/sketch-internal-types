@@ -13,7 +13,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"MSExportRequest", ivar=_request, attributes=(retain,nonatomic) */
     	request(): MSExportRequest;
     /* typeEncoding=@16@0:8 */
-    	static sharedPreviewRenderQueue(...args: any[]): any;
+    	sharedPreviewRenderQueue(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

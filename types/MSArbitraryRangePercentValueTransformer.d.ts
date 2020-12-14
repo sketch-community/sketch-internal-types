@@ -3,13 +3,13 @@
 declare namespace sketchInternal {
   interface MSArbitraryRangePercentValueTransformer extends NSValueTransformer {
     /* typeEncoding=c16@0:8 */
-    	static allowsReverseTransformation(...args: any[]): any;
+    	allowsReverseTransformation(...args: any[]): any;
     /* typeEncoding=d16@0:8 */
-    	static hundredPercentValue(...args: any[]): any;
+    	hundredPercentValue(...args: any[]): any;
     /* typeEncoding=#16@0:8 */
-    	static transformedValueClass(...args: any[]): any;
+    	transformedValueClass(...args: any[]): any;
     /* typeEncoding=d16@0:8 */
-    	static zeroPercentValue(...args: any[]): any;
+    	zeroPercentValue(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
     	reverseTransformedValue(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */

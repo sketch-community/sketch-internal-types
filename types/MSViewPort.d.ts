@@ -7,13 +7,13 @@ declare namespace sketchInternal {
     /* typeEncoding=d, ivar=_zoomValue, attributes=(assign,nonatomic) */
     	zoomValue(): number;
     /* typeEncoding=d24@0:8d16 */
-    	static cappedZoom(...args: any[]): any;
+    	cappedZoom(...args: any[]): any;
     /* typeEncoding=d16@0:8 */
-    	static maximumZoomValue(...args: any[]): any;
+    	maximumZoomValue(...args: any[]): any;
     /* typeEncoding=d16@0:8 */
-    	static minimumZoomValue(...args: any[]): any;
+    	minimumZoomValue(...args: any[]): any;
     /* typeEncoding=@40@0:8{CGPoint=dd}16d32 */
-    	static viewPortWithScrollOrigin_zoom(...args: any[]): any;
+    	viewPortWithScrollOrigin_zoom(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
     	description(...args: any[]): any;
     /* typeEncoding=c24@0:8@16 */

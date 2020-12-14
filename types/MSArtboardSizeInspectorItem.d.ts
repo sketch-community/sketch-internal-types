@@ -7,7 +7,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSSegmentedControl", ivar=_orientationSegmentedControl, attributes=(retain,nonatomic) */
     	orientationSegmentedControl(): cocoascript.NSSegmentedControl;
     /* typeEncoding=@24@0:8@16 */
-    	static filterSelection(...args: any[]): any;
+    	filterSelection(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=Q16@0:8 */

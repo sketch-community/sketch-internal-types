@@ -5,11 +5,11 @@ declare namespace sketchInternal {
     /* typeEncoding=@"MSJSONZippedUnarchiver", ivar=_unarchiver, attributes=(retain,nonatomic) */
     	unarchiver(): MSJSONZippedUnarchiver;
     /* typeEncoding=q16@0:8 */
-    	static documentCompatibilityVersion(...args: any[]): any;
+    	documentCompatibilityVersion(...args: any[]): any;
     /* typeEncoding=q16@0:8 */
-    	static documentVersion(...args: any[]): any;
+    	documentVersion(...args: any[]): any;
     /* typeEncoding=q40@0:8^{CGImageSource=}16{CGSize=dd}24 */
-    	static maximumPixelSizeForImageSource_maximumSize(...args: any[]): any;
+    	maximumPixelSizeForImageSource_maximumSize(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

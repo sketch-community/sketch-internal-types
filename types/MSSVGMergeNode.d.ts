@@ -5,9 +5,9 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSString", ivar=(null), attributes=(copy,dynamic,nonatomic) */
     	in(): cocoascript.NSString;
     /* typeEncoding=@16@0:8 */
-    	static elementName(...args: any[]): any;
+    	elementName(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static mergeNodeNamed(...args: any[]): any;
+    	mergeNodeNamed(...args: any[]): any;
   }
 }
 

@@ -3,29 +3,29 @@
 declare namespace sketchInternal {
   interface MSShapeChange extends NSObject {
     /* typeEncoding=@24@0:8@16 */
-    	static alignToKey(...args: any[]): any;
+    	alignToKey(...args: any[]): any;
     /* typeEncoding=@24@0:8q16 */
-    	static changeToCurveMode(...args: any[]): any;
+    	changeToCurveMode(...args: any[]): any;
     /* typeEncoding=@24@0:8@?16 */
-    	static customActionWithBlock(...args: any[]): any;
+    	customActionWithBlock(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static deleteHandle(...args: any[]): any;
+    	deleteHandle(...args: any[]): any;
     /* typeEncoding=@24@0:8Q16 */
-    	static distributeAlongAxis(...args: any[]): any;
+    	distributeAlongAxis(...args: any[]): any;
     /* typeEncoding=c32@0:8Q16@24 */
-    	static guessControlPointsForPointAtIndex_shape(...args: any[]): any;
+    	guessControlPointsForPointAtIndex_shape(...args: any[]): any;
     /* typeEncoding=@40@0:8{CGSize=dd}16q32 */
-    	static moveByOffset_options(...args: any[]): any;
+    	moveByOffset_options(...args: any[]): any;
     /* typeEncoding=v56@0:8q16@24{CGPoint=dd}32q48 */
-    	static moveHandle_ofCurvePoint_toLocation_options(...args: any[]): any;
+    	moveHandle_ofCurvePoint_toLocation_options(...args: any[]): any;
     /* typeEncoding=@40@0:8@16d24Q32 */
-    	static moveHandle_toLocation_onAxis(...args: any[]): any;
+    	moveHandle_toLocation_onAxis(...args: any[]): any;
     /* typeEncoding=@32@0:8d16Q24 */
-    	static moveToLocation_onAxis(...args: any[]): any;
+    	moveToLocation_onAxis(...args: any[]): any;
     /* typeEncoding=@40@0:8{CGPoint=dd}16q32 */
-    	static moveToPoint_options(...args: any[]): any;
+    	moveToPoint_options(...args: any[]): any;
     /* typeEncoding=@36@0:8S16d20Q28 */
-    	static nudgeWithKey_distance_flags(...args: any[]): any;
+    	nudgeWithKey_distance_flags(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v24@0:8@16 */

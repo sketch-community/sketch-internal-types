@@ -15,7 +15,7 @@ declare namespace sketchInternal {
     /* typeEncoding=q, ivar=_visibleScaleType, attributes=(assign,nonatomic) */
     	visibleScaleType(): number;
     /* typeEncoding=#16@0:8 */
-    	static mutableClass(...args: any[]): any;
+    	mutableClass(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=d16@0:8 */

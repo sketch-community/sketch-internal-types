@@ -7,7 +7,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSImage", ivar=_placeholderImage, attributes=(retain,nonatomic) */
     	placeholderImage(): cocoascript.NSImage;
     /* typeEncoding=#16@0:8 */
-    	static cellClass(...args: any[]): any;
+    	cellClass(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=c16@0:8 */

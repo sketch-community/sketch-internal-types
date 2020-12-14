@@ -99,13 +99,13 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSAffineTransform", ivar=(null), attributes=(assign,nonatomic,readonly) */
     	transform(): cocoascript.NSAffineTransform;
     /* typeEncoding=@16@0:8 */
-    	static defaultName(...args: any[]): any;
+    	defaultName(...args: any[]): any;
     /* typeEncoding=c16@0:8 */
-    	static persistsObjectID(...args: any[]): any;
+    	persistsObjectID(...args: any[]): any;
     /* typeEncoding=Q16@0:8 */
-    	static traits(...args: any[]): any;
+    	traits(...args: any[]): any;
     /* typeEncoding=Q24@0:8@16 */
-    	static traitsForPropertyName(...args: any[]): any;
+    	traitsForPropertyName(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding={CGAffineTransform=dddddd}16@0:8 */

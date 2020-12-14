@@ -27,9 +27,9 @@ declare namespace sketchInternal {
     /* typeEncoding=@"MSExportFormatNamingTextField", ivar=_suffixTextField, attributes=(retain,nonatomic) */
     	suffixTextField(): MSExportFormatNamingTextField;
     /* typeEncoding=v16@0:8 */
-    	static initialize(): void;
+    	initialize(): void;
     /* typeEncoding=@28@0:8d16S24 */
-    	static scaleDisplayStringForValue_suffix(...args: any[]): any;
+    	scaleDisplayStringForValue_suffix(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v56@0:8d16@24q32{CGSize=dd}40 */

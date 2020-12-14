@@ -3,7 +3,7 @@
 declare namespace sketchInternal {
   interface MSImageMemoryCache extends NSObject {
     /* typeEncoding=@16@0:8 */
-    	static shared(...args: any[]): any;
+    	shared(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@32@0:8@16@24 */

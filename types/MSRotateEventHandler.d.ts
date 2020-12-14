@@ -35,7 +35,7 @@ declare namespace sketchInternal {
     /* typeEncoding=#, ivar=(null), attributes=(assign,readonly) */
     	superclass(): any;
     /* typeEncoding=@24@0:8q16 */
-    	static cursorForDegrees(...args: any[]): any;
+    	cursorForDegrees(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=c48@0:8{CGPoint=dd}16Q32Q40 */

@@ -43,7 +43,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"MSTexturedVertexRenderPipeline", ivar=_texturedVertexPipeline, attributes=(retain,nonatomic) */
     	texturedVertexPipeline(): MSTexturedVertexRenderPipeline;
     /* typeEncoding=@24@0:8@?16 */
-    	static createWithCompletionHandler(...args: any[]): any;
+    	createWithCompletionHandler(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v32@0:8@16@24 */

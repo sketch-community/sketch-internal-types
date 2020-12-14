@@ -55,9 +55,9 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSData", ivar=_textPreviewMetadata, attributes=(retain,nonatomic) */
     	textPreviewMetadata(): cocoascript.NSData;
     /* typeEncoding=v16@0:8 */
-    	static initialize(): void;
+    	initialize(): void;
     /* typeEncoding=@32@0:8@16@24 */
-    	static libraryForForeignObject_inLibraries(...args: any[]): any;
+    	libraryForForeignObject_inLibraries(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

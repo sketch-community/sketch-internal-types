@@ -23,9 +23,9 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSArray", ivar=_toolbarItemIdentifiers, attributes=(copy,nonatomic) */
     	toolbarItemIdentifiers(): cocoascript.NSArray;
     /* typeEncoding=v16@0:8 */
-    	static hideWindowIfNeeded(): void;
+    	hideWindowIfNeeded(): void;
     /* typeEncoding=@16@0:8 */
-    	static sharedController(...args: any[]): any;
+    	sharedController(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v24@0:8@16 */

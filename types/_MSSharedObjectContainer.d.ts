@@ -5,9 +5,9 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSArray", ivar=_objects, attributes=(retain,nonatomic) */
     	objects(): cocoascript.NSArray;
     /* typeEncoding=c16@0:8 */
-    	static allowsFaulting(...args: any[]): any;
+    	allowsFaulting(...args: any[]): any;
     /* typeEncoding=#16@0:8 */
-    	static immutableClass(...args: any[]): any;
+    	immutableClass(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v24@0:8@16 */

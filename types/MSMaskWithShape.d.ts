@@ -3,15 +3,15 @@
 declare namespace sketchInternal {
   interface MSMaskWithShape extends NSObject {
     /* typeEncoding=@24@0:8@16 */
-    	static createMaskForSingleBitmap(...args: any[]): any;
+    	createMaskForSingleBitmap(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static createMaskWithShapeForLayers(...args: any[]): any;
+    	createMaskWithShapeForLayers(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static createMaskWithShapeFromMultipleLayers(...args: any[]): any;
+    	createMaskWithShapeFromMultipleLayers(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static nameForMaskWithLayers(...args: any[]): any;
+    	nameForMaskWithLayers(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static toggleMaskForSingleShape(...args: any[]): any;
+    	toggleMaskForSingleShape(...args: any[]): any;
   }
 }
 

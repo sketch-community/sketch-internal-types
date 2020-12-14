@@ -3,7 +3,7 @@
 declare namespace sketchInternal {
   interface MSImmutableStarShape extends _MSImmutableStarShape {
     /* typeEncoding=@16@0:8 */
-    	static defaultName(...args: any[]): any;
+    	defaultName(...args: any[]): any;
     /* typeEncoding=c16@0:8 */
     	hasDefaultCurvePoints(...args: any[]): any;
     /* typeEncoding=v24@0:8@16 */

@@ -11,9 +11,9 @@ declare namespace sketchInternal {
     /* typeEncoding={CGAffineTransform=dddddd}, ivar=(null), attributes=(assign,nonatomic,readonly) */
     	transformForConvertingToParentCoordinateSpace(): CGAffineTransform;
     /* typeEncoding={CGPoint=dd}64@0:8{CGPoint=dd}16{CGRect={CGPoint=dd}{CGSize=dd}}32 */
-    	static convertPoint_fromBounds(...args: any[]): any;
+    	convertPoint_fromBounds(...args: any[]): any;
     /* typeEncoding={CGPoint=dd}64@0:8{CGPoint=dd}16{CGRect={CGPoint=dd}{CGSize=dd}}32 */
-    	static convertPoint_toBounds(...args: any[]): any;
+    	convertPoint_toBounds(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding={CGRect={CGPoint=dd}{CGSize=dd}}16@0:8 */

@@ -59,11 +59,11 @@ declare namespace sketchInternal {
     /* typeEncoding=c, ivar=(null), attributes=(assign,nonatomic,readonly) */
     	valid(): boolean;
     /* typeEncoding=@24@0:8@16 */
-    	static URLForTemplateLibraryNamed(...args: any[]): any;
+    	URLForTemplateLibraryNamed(...args: any[]): any;
     /* typeEncoding=Q24@0:8Q16 */
-    	static assetLibraryStatusForDocumentErrorCode(...args: any[]): any;
+    	assetLibraryStatusForDocumentErrorCode(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static keyPathsForValuesAffectingValid(...args: any[]): any;
+    	keyPathsForValuesAffectingValid(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=c16@0:8 */

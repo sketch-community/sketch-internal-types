@@ -3,9 +3,9 @@
 declare namespace sketchInternal {
   interface MSDefaultLayoutGrid extends MSDefaultArchive {
     /* typeEncoding=@16@0:8 */
-    	static defaultLayout(...args: any[]): any;
+    	defaultLayout(...args: any[]): any;
     /* typeEncoding=v24@0:8@16 */
-    	static setDefaultLayout(...args: any[]): any;
+    	setDefaultLayout(...args: any[]): any;
     /* typeEncoding=#16@0:8 */
     	defaultClass(...args: any[]): any;
     /* typeEncoding=@16@0:8 */

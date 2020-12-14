@@ -7,7 +7,7 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSWindowController", ivar=_windowController, attributes=(retain,nonatomic) */
     	windowController(): cocoascript.NSWindowController;
     /* typeEncoding=v16@0:8 */
-    	static checkForNews(): void;
+    	checkForNews(): void;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v16@0:8 */

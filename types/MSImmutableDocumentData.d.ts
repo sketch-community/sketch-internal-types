@@ -61,15 +61,15 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSSet", ivar=(null), attributes=(assign,nonatomic,readonly) */
     	unavailableFontNames(): cocoascript.NSSet;
     /* typeEncoding=c16@0:8 */
-    	static isRunningHeadless(...args: any[]): any;
+    	isRunningHeadless(...args: any[]): any;
     /* typeEncoding=@48@0:8@16@24@32@?40 */
-    	static loadDocumentDataWithMetadata_textPreviewData_textPreviewMetadata_loadBlock(...args: any[]): any;
+    	loadDocumentDataWithMetadata_textPreviewData_textPreviewMetadata_loadBlock(...args: any[]): any;
     /* typeEncoding=c16@0:8 */
-    	static persistsObjectID(...args: any[]): any;
+    	persistsObjectID(...args: any[]): any;
     /* typeEncoding=v20@0:8c16 */
-    	static setIsRunningHeadless(...args: any[]): any;
+    	setIsRunningHeadless(...args: any[]): any;
     /* typeEncoding=Q24@0:8@16 */
-    	static traitsForPropertyName(...args: any[]): any;
+    	traitsForPropertyName(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

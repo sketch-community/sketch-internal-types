@@ -15,15 +15,15 @@ declare namespace sketchInternal {
     /* typeEncoding=@"NSMutableSet", ivar=_selectorsToSwizzle, attributes=(assign,nonatomic,readonly) */
     	selectorsToSwizzle(): cocoascript.NSMutableSet;
     /* typeEncoding=@16@0:8 */
-    	static enabledKey(...args: any[]): any;
+    	enabledKey(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
-    	static flushTraceBuffer(): void;
+    	flushTraceBuffer(): void;
     /* typeEncoding=v16@0:8 */
-    	static load(): void;
+    	load(): void;
     /* typeEncoding=v16@0:8 */
-    	static resetSharedInstance(): void;
+    	resetSharedInstance(): void;
     /* typeEncoding=@16@0:8 */
-    	static sharedInstance(...args: any[]): any;
+    	sharedInstance(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=v24@0:8@16 */

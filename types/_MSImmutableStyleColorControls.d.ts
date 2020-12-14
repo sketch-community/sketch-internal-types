@@ -11,9 +11,9 @@ declare namespace sketchInternal {
     /* typeEncoding=d, ivar=_saturation, attributes=(assign,nonatomic) */
     	saturation(): number;
     /* typeEncoding=c16@0:8 */
-    	static isEnabledByDefault(...args: any[]): any;
+    	isEnabledByDefault(...args: any[]): any;
     /* typeEncoding=#16@0:8 */
-    	static mutableClass(...args: any[]): any;
+    	mutableClass(...args: any[]): any;
     /* typeEncoding=d16@0:8 */
     	brightness(...args: any[]): any;
     /* typeEncoding=v32@0:8@16@24 */

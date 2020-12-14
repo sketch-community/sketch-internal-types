@@ -27,13 +27,13 @@ declare namespace sketchInternal {
     /* typeEncoding=@"MSRulerData", ivar=_verticalRulerData, attributes=(retain,nonatomic) */
     	verticalRulerData(): MSRulerData;
     /* typeEncoding=c16@0:8 */
-    	static allowsFaulting(...args: any[]): any;
+    	allowsFaulting(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static defaultBackgroundColor(...args: any[]): any;
+    	defaultBackgroundColor(...args: any[]): any;
     /* typeEncoding=c16@0:8 */
-    	static hasClickThroughDefault(...args: any[]): any;
+    	hasClickThroughDefault(...args: any[]): any;
     /* typeEncoding=#16@0:8 */
-    	static immutableClass(...args: any[]): any;
+    	immutableClass(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

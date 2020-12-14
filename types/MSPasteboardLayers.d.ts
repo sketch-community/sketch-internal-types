@@ -25,19 +25,19 @@ declare namespace sketchInternal {
     /* typeEncoding=#, ivar=(null), attributes=(assign,readonly) */
     	superclass(): any;
     /* typeEncoding={CGPoint=dd}28@0:8@16c24 */
-    	static originForLayer_rootIsPage(...args: any[]): any;
+    	originForLayer_rootIsPage(...args: any[]): any;
     /* typeEncoding=Q24@0:8@16 */
-    	static parentTraitsForLayers(...args: any[]): any;
+    	parentTraitsForLayers(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static pasteboardLayersWithForeignLayers(...args: any[]): any;
+    	pasteboardLayersWithForeignLayers(...args: any[]): any;
     /* typeEncoding=@24@0:8@16 */
-    	static pasteboardLayersWithLayers(...args: any[]): any;
+    	pasteboardLayersWithLayers(...args: any[]): any;
     /* typeEncoding={CGPoint=dd}28@0:8@16c24 */
-    	static suggestedOriginForLayers_rootIsPage(...args: any[]): any;
+    	suggestedOriginForLayers_rootIsPage(...args: any[]): any;
     /* typeEncoding=Q16@0:8 */
-    	static traits(...args: any[]): any;
+    	traits(...args: any[]): any;
     /* typeEncoding=Q24@0:8@16 */
-    	static traitsForPropertyName(...args: any[]): any;
+    	traitsForPropertyName(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=c24@0:8@16 */

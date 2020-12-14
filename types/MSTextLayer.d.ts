@@ -41,29 +41,29 @@ declare namespace sketchInternal {
     /* typeEncoding=q, ivar=(null), attributes=(assign,nonatomic) */
     	verticalAlignment(): number;
     /* typeEncoding=c24@0:8@16 */
-    	static canSetTextAlignmentForLayers(...args: any[]): any;
+    	canSetTextAlignmentForLayers(...args: any[]): any;
     /* typeEncoding=c24@0:8@16 */
-    	static canSetTextVerticalAlignmentForLayers(...args: any[]): any;
+    	canSetTextVerticalAlignmentForLayers(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static defaultValue(...args: any[]): any;
+    	defaultValue(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static keyPathsForValuesAffectingCanFixHeight(...args: any[]): any;
+    	keyPathsForValuesAffectingCanFixHeight(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static keyPathsForValuesAffectingHasFixedHeight(...args: any[]): any;
+    	keyPathsForValuesAffectingHasFixedHeight(...args: any[]): any;
     /* typeEncoding=@16@0:8 */
-    	static keyPathsForValuesAffectingSupportsVerticalAlignment(...args: any[]): any;
+    	keyPathsForValuesAffectingSupportsVerticalAlignment(...args: any[]): any;
     /* typeEncoding=v32@0:8@16@?24 */
-    	static maintainTextLayerBaselinesForLayers_inBlock(...args: any[]): any;
+    	maintainTextLayerBaselinesForLayers_inBlock(...args: any[]): any;
     /* typeEncoding=q32@0:8q16@24 */
-    	static menuItemStateForAlignment_forLayers(...args: any[]): any;
+    	menuItemStateForAlignment_forLayers(...args: any[]): any;
     /* typeEncoding=q32@0:8@?16@24 */
-    	static menuItemStateForTest_forLayers(...args: any[]): any;
+    	menuItemStateForTest_forLayers(...args: any[]): any;
     /* typeEncoding=q32@0:8q16@24 */
-    	static menuItemStateForTextVerticalAlignment_forLayers(...args: any[]): any;
+    	menuItemStateForTextVerticalAlignment_forLayers(...args: any[]): any;
     /* typeEncoding=v32@0:8q16@24 */
-    	static setTextAlignment_forLayers(...args: any[]): any;
+    	setTextAlignment_forLayers(...args: any[]): any;
     /* typeEncoding=v32@0:8q16@24 */
-    	static setTextVerticalAlignment_forLayers(...args: any[]): any;
+    	setTextVerticalAlignment_forLayers(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */

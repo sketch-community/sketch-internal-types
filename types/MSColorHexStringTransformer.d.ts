@@ -5,9 +5,9 @@ declare namespace sketchInternal {
     /* typeEncoding=@"<MSColorHexStringTransformerDelegate>", ivar=_delegate, attributes=(assign,nonatomic,weak) */
     	delegate(): any;
     /* typeEncoding=c16@0:8 */
-    	static allowsReverseTransformation(...args: any[]): any;
+    	allowsReverseTransformation(...args: any[]): any;
     /* typeEncoding=#16@0:8 */
-    	static transformedValueClass(...args: any[]): any;
+    	transformedValueClass(...args: any[]): any;
     /* typeEncoding=v16@0:8 */
     	_cxx_destruct(): void;
     /* typeEncoding=@16@0:8 */
